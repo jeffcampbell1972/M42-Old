@@ -1,0 +1,59 @@
+﻿@model SeasonViewModel
+
+@{
+    ViewData["Title"] = @Model.DisplayName;
+}
+
+
+<section id="detailsView" class="detailsView">
+    <header>
+        <h2 style="float:left">@Model.DisplayName</h2>
+
+        <nav style="float:right; font-size:8pt; width:75px">
+            @if (Model.Season.NextSeason != null)
+            {
+                <a asp-area="Sports" asp-controller="Seasons" asp-action="Details" asp-route-id="@Model.Season.NextSeason.Id">@Model.Season.NextSeason.Name</a>
+
+
+            }
+            else
+            {
+                <div>--</div>
+            }
+        </nav>
+
+        <nav style="float:right; font-size:8pt; width:75px">
+
+            @if (Model.Season.PrevSeason != null)
+            {
+                <a asp-area="Sports" asp-controller="Seasons" asp-action="Details" asp-route-id="@Model.Season.PrevSeason.Id">@Model.Season.PrevSeason.Name</a>
+            }
+            else
+            {
+                <div>--</div>
+            }
+        </nav>
+
+        <div style="clear:both"></div>
+    </header>
+
+    @await Html.PartialAsync(@Model.DetailsView, @Model)
+</section>
+
+<hr />
+
+<section id="menuSection" class="menuSection">
+
+    <nav id="menuOptions" class="menuItems">
+        @await Html.PartialAsync("~/Views/Shared/_Menu.cshtml", @Model.Menu)
+    </nav>
+
+    <section id="selectedMenuItemView" class="selectedMenuItemView">
+        @await Html.PartialAsync(@Model.SelectedMenuItemView, @Model)
+    </section>
+
+    <div style="clear:both"></div>
+</section>
+
+
+

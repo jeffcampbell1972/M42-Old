@@ -1,0 +1,21 @@
+﻿@model LeagueViewModel
+
+    <ul id="seasonDraftRoundView" style="list-style-type: none; margin: 0; padding: 0; column-count: 3; height: 300px; width:100%" >
+
+        @foreach (var draftPick in Model.SelectedDraftRound.Picks)
+        {
+        <li >
+            <div style="float:left; width:10%">
+                @draftPick.Pick.
+            </div>
+            <div style="float:left; width:45%">
+                <a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@draftPick.Person.Id">@draftPick.Person.Name</a>
+            </div>
+            <div style="float:left; width:45%">
+                <a asp-area="Sports" asp-controller="Franchises" asp-action="Details" asp-route-id="@draftPick.Team.Franchise.Id">@draftPick.Team.Franchise.Name</a>
+            </div>
+            <div style="clear:both"></div>
+        </li>
+        }
+
+    </ul>

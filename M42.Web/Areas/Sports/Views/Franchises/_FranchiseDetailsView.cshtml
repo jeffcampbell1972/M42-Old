@@ -1,0 +1,20 @@
+﻿@model FranchiseViewModel
+
+    <div id="league">
+        @Html.Label("League")
+        <a asp-area="Sports" asp-controller="Leagues" asp-action="Details" asp-route-id="@Model.Franchise.League.Id">@Model.Franchise.League.Abbreviation</a>
+    </div>
+@if (@Model.Franchise.Owner != null)
+{
+    <div id="owner">
+        @Html.Label("Owner")
+        <a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@Model.Franchise.Owner.Id">@Model.Franchise.Owner.Name</a>
+    </div>
+}
+@if (@Model.Franchise.HeadCoach != null)
+{
+    <div id="headCoach">
+        @Html.Label("Head Coach")
+        <a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@Model.Franchise.HeadCoach.Id">@Model.Franchise.HeadCoach.Name</a>
+    </div>
+}

@@ -1,0 +1,12 @@
+﻿@model LeagueViewModel
+
+<ul id="leagueSeasons" class="detailsViewList8">
+
+    @foreach (var season in Model.League.Seasons)
+    {
+        <li>
+            <a asp-area="Sports" asp-controller="Seasons" asp-action="Details" asp-route-id="@season.Id">@season.Year</a>
+        </li>
+    }
+
+</ul>

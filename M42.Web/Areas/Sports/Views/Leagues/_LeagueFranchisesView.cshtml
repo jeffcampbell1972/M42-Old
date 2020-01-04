@@ -1,0 +1,32 @@
+﻿@model LeagueViewModel
+
+
+@foreach (var conference in Model.League.Conferences)
+{
+   
+
+    <nav id="@conference.Identifier" style="float:left; width: 50%; font-size:9pt">
+        <header>
+            <h5 style="font-size:9pt; font-weight: bold">
+                @conference.Name
+            </h5>
+        </header>
+        <ul id="leagueFranchises" style="list-style-type: none;
+                margin: 0;
+                padding: 0;
+                column-count: 1;
+                height: 300px;">
+
+            @foreach (var franchise in @conference.Franchises.OrderBy(x => x.Name))
+            {
+                <li>
+                    <a asp-area="Sports" asp-controller="Franchises" asp-action="Details" asp-route-id="@franchise.Id">@franchise.Name</a>
+                </li>
+            }
+
+        </ul>
+
+    </nav>
+}
+
+<div style="clear:both"></div>

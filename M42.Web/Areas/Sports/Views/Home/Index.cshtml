@@ -1,0 +1,25 @@
+﻿@model HomeViewModel;
+@{
+
+    ViewData["Title"] = "Sports Home Page";
+}
+
+    <section>
+
+        <header >
+            <h2 >M42 Sports</h2>
+        </header>
+
+        <nav id="SportsOptions">
+            <ul class="detailsViewList">
+                @foreach (var sport in Model.Sports)
+                {
+                    <li>
+                        <a asp-area="Sports" asp-controller="Sports" asp-action="Details" asp-route-id="@sport.Id">@sport.Name</a>
+                    </li>
+                }
+            </ul>
+        </nav>
+    </section>
+
+

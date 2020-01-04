@@ -1,0 +1,34 @@
+﻿@model TeamViewModel
+
+    <div style="float: left; width:33%">
+        <div id="season">
+            @Html.Label("Season")
+            <a asp-area="Sports" asp-controller="Seasons" asp-action="Details" asp-route-id="@Model.Team.Season.Id">@Model.Team.Season.Name</a>
+        </div>
+
+        <div id="franchise">
+            @Html.Label("Franchise")
+            <a asp-area="Sports" asp-controller="Franchises" asp-action="Details" asp-route-id="@Model.Team.Franchise.Id">@Model.Team.Franchise.Name</a>
+        </div>
+    </div>
+
+    <div style="float: left; width:33%">
+        @if (Model.Team.Owner != null)
+        {
+            <div id="owner">
+                @Html.Label("Owner")
+                <a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@Model.Team.Owner.Id">@Model.Team.Owner.Name</a>
+            </div>
+        }
+        @if (Model.Team.HeadCoach != null)
+        {
+            <div id="headCoach">
+                @Html.Label("Head Coach")
+                <a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@Model.Team.HeadCoach.Id">@Model.Team.HeadCoach.Name</a>
+            </div>
+        }
+    </div>
+
+<div style="clear:both"></div>
+
+

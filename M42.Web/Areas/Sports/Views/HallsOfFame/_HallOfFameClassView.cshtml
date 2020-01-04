@@ -1,0 +1,24 @@
+﻿@model HallOfFameViewModel
+
+<h5>Class of @Model.SelectedClass.Year</h5>
+    <ul id="hallOfFameClass" class="detailsViewList">
+
+        @foreach (var hofer in Model.SelectedClass.HallOfFamers)
+        {
+        <li>
+            <a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@hofer.Person.Id">@hofer.Person.Name</a>
+
+            @if (hofer.Positions.Count > 0)
+            {
+                
+                @foreach (var position in hofer.Positions)
+                {
+                    <a asp-area="Sports" asp-controller="Position" asp-action="Details" asp-route-id="@position.Id">@position.Abbreviation</a>
+                }
+            }
+        </li>
+
+           
+        }
+
+    </ul>

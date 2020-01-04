@@ -1,0 +1,23 @@
+﻿@model PersonViewModel
+
+
+    <div id="headCoach">
+        @Html.Label("Full Name")
+        @Model.Person.FullName
+    </div>
+
+@if (Model.Person.Drafts.Count > 0)
+{
+<div id="drafts">
+    @Html.Label("Drafted")
+
+    @foreach (var draftPick in Model.Person.Drafts)
+    {
+        <a asp-area="Sports" asp-controller="Teams" asp-action="Details" asp-route-id="@draftPick.Team.Id">@draftPick.Team.Name</a>
+
+        @draftPick.Description 
+        
+    }
+</div>
+
+}

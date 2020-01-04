@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\M42.Data\M42.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\Music\" />
+    <Folder Include="Models\Art\" />
+    <Folder Include="Models\History\" />
+    <Folder Include="Services\Art\" />
+    <Folder Include="Services\History\" />
+    <Folder Include="Services\Music\" />
+  </ItemGroup>
+
+</Project>

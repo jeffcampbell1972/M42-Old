@@ -1,0 +1,15 @@
+﻿@model M42.Models.PeerNavigatorVM
+
+<nav id="peerNavigator" class="peerLinks">
+
+    <div class="prevPeer">
+        @Html.ActionLink(Model.PrevPeerLabel, Model.PeerAction, Model.PeerController, new { id = Model.PrevPeerId, area = Model.PeerArea }, null)
+    </div>
+    <div class="parentIndex">
+        @Html.ActionLink(Model.ParentLabel, Model.ParentAction, Model.ParentController, new { id = Model.ParentId, area = Model.ParentArea }, null)
+    </div>
+    <div class="nextPeer">
+        @Html.ActionLink(Model.NextPeerLabel, Model.PeerAction, Model.PeerController, new { id = Model.NextPeerId, area = Model.PeerArea }, null)
+    </div>
+
+</nav>

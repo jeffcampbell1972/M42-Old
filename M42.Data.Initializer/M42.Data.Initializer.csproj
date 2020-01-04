@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\M42.Data\M42.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="InitFiles\MLB\Drafts\" />
+    <Folder Include="InitFiles\NBA\Drafts\" />
+    <Folder Include="InitFiles\NCAAB\" />
+    <Folder Include="InitFiles\NHL\Drafts\" />
+  </ItemGroup>
+
+</Project>

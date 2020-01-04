@@ -1,0 +1,16 @@
+﻿@model TeamViewModel
+
+    <ul id="teamDraftPicks" style="list-style-type: none; margin: 0; padding: 0;">
+
+        @foreach (var draftPick in Model.Team.DraftPicks)
+        {
+        <li>
+            <div style="float:left; width:150px">@draftPick.RoundWithSuffix Round</div>
+            <div style="float:left; width:150px">#@draftPick.Pick</div>
+            <div style="float:left; "><a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@draftPick.Person.Id">@draftPick.Person.Name</a></div>
+            <div style="clear: both"></div>
+        </li>
+        }
+        
+    </ul>
+

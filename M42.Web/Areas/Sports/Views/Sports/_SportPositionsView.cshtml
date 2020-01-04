@@ -1,0 +1,10 @@
+﻿@model SportViewModel;
+
+<ul id="sportpositions" class="detailsViewList">
+    @foreach (var position in Model.Sport.Positions)
+    {
+        <li>
+            <a asp-area="Sports" asp-controller="Positions" asp-action="Details" asp-route-id="@position.Id">@position.Name</a>
+        </li>
+    }
+</ul>

@@ -1,0 +1,246 @@
+NFL2001,1,1,Atlanta Falcons,MichaelVick,Michael,Vick,,QB,VirginiaTech
+NFL2001,1,2,Arizona Cardinals,LeonardDavis,Leonard,Davis,,G,Texas
+NFL2001,1,3,Cleveland Browns,GerardWarren,Gerard,Warren,,DT,Florida
+NFL2001,1,4,Cincinnati Bengals,JustinSmith,Justin,Smith,,DE,Missouri
+NFL2001,1,5,San Diego Chargers,LaDainianTomlinson,LaDainian,Tomlinson,,RB,TCU
+NFL2001,1,6,New England Patriots,RichardSeymour,Richard,Seymour,,DT,Georgia
+NFL2001,1,7,San Francisco 49ers,AndreCarter,Andre,Carter,,DE,California
+NFL2001,1,8,Chicago Bears,DavidTerrell,David,Terrell,,WR,Michigan
+NFL2001,1,9,Seattle Seahawks,KorenRobinson,Koren,Robinson,,WR,NCState
+NFL2001,1,10,Green Bay Packers,JamalReynolds,Jamal,Reynolds,,DE,FloridaState
+NFL2001,1,11,Carolina Panthers,DanMorgan-2001,Dan,Morgan,,LB,MiamiFL
+NFL2001,1,12,St Louis Rams,DamioneLewis,Damione,Lewis,,DT,MiamiFL
+NFL2001,1,13,Jacksonville Jaguars,MarcusStroud,Marcus,Stroud,,DT,Georgia
+NFL2001,1,14,Tampa Bay Buccaneers,KenyattaWalker,Kenyatta,Walker,,OT,Florida
+NFL2001,1,15,Washington Redskins,RodGardner,Rod,Gardner,,WR,Clemson
+NFL2001,1,16,New York Jets,SantanaMoss,Santana,Moss,,WR,MiamiFL
+NFL2001,1,17,Seattle Seahawks,SteveHutchinson,Steve,Hutchinson,,G,Michigan
+NFL2001,1,18,Detroit Lions,JeffBackus,Jeff,Backus,,OT,Michigan
+NFL2001,1,19,Pittsburgh Steelers,CaseyHampton,Casey,Hampton,,DT,Texas
+NFL2001,1,20,St Louis Rams,AdamArchuleta,Adam,Archuleta,,SS,ArizonaState
+NFL2001,1,21,Buffalo Bills,NateClements,Nate,Clements,,CB,OhioState
+NFL2001,1,22,New York Giants,WillAllen,Will,Allen,,CB,Syracuse
+NFL2001,1,23,New Orleans Saints,DeuceMcAllister,Deuce,McAllister,,RB,Mississippi
+NFL2001,1,24,Denver Broncos,WillieMiddlebrooks,Willie,Middlebrooks,,CB,Minnesota
+NFL2001,1,25,Philadelphia Eagles,FreddieMitchell,Freddie,Mitchell,,WR,UCLA
+NFL2001,1,26,Miami Dolphins,JamarFletcher,Jamar,Fletcher,,CB,Wisconsin
+NFL2001,1,27,Minnesota Vikings,MichaelBennett,Michael,Bennett,,RB,Wisconsin
+NFL2001,1,28,Oakland Raiders,DerrickGibson,Derrick,Gibson,,SS,FloridaState
+NFL2001,1,29,St Louis Rams,RyanPickett,Ryan,Pickett,,DT,OhioState
+NFL2001,1,30,Indianapolis Colts,ReggieWayne,Reggie,Wayne,,WR,MiamiFL
+NFL2001,1,31,Baltimore Ravens,ToddHeap,Todd,Heap,,TE,ArizonaState
+NFL2001,2,32,San Diego Chargers,DrewBrees,Drew,Brees,,QB,Purdue
+NFL2001,2,33,Cleveland Browns,QuincyMorgan,Quincy,Morgan,,WR,KansasState
+NFL2001,2,34,Arizona Cardinals,KyleVandenBosch,Kyle,Vanden Bosch,,DE,Nebraska
+NFL2001,2,35,Atlanta Falcons,AlgeCrumpler,Alge,Crumpler,,TE,NorthCarolina
+NFL2001,2,36,Cincinnati Bengals,ChadJohnson,Chad,Johnson,,WR,OregonState
+NFL2001,2,37,Indianapolis Colts,IdreesBashir,Idrees,Bashir,,FS,Memphis
+NFL2001,2,38,Chicago Bears,AnthonyThomas,Anthony,Thomas,,RB,Michigan
+NFL2001,2,39,Pittsburgh Steelers,KendrellBell,Kendrell,Bell,,LB,Georgia
+NFL2001,2,40,Seattle Seahawks,KenLucas,Ken,Lucas,,CB,Mississippi
+NFL2001,2,41,Green Bay Packers,RobertFerguson,Robert,Ferguson,,WR,TexasA&M
+NFL2001,2,42,St Louis Rams,TommyPolley,Tommy,Polley,,OLB,FloridaState
+NFL2001,2,43,Jacksonville Jaguars,MauriceWilliams,Maurice,Williams,,OT,Michigan
+NFL2001,2,44,Carolina Panthers,KrisJenkins,Kris,Jenkins,,DT,Maryland
+NFL2001,2,45,Washington Redskins,FredSmoot,Fred,Smoot,,CB,MississippiState
+NFL2001,2,46,Buffalo Bills,AaronSchobel,Aaron,Schobel,,DE,TexasChristian
+NFL2001,2,47,San Francisco 49ers,JamieWinborn,Jamie,Winborn,,OLB,Vanderbilt
+NFL2001,2,48,New England Patriots,MattLight,Matt,Light,,OT,Purdue
+NFL2001,2,49,New York Jets,LamontJordan,Lamont,Jordan,,RB,Maryland
+NFL2001,2,50,Detroit Lions,DominicRaiola,Dominic,Raiola,,C,Nebraska
+NFL2001,2,51,Denver Broncos,PaulToviessi,Paul,Toviessi,,DE,Marshall
+NFL2001,2,52,Miami Dolphins,ChrisChambers,Chris,Chambers,,WR,Wisconsin
+NFL2001,2,53,Dallas Cowboys,QuincyCarter,Quincy,Carter,,QB,Georgia
+NFL2001,2,54,Arizona Cardinals,MichaelStone,Michael,Stone,,SS,Memphis
+NFL2001,2,55,Philadelphia Eagles,QuintonCaver,Quinton,Caver,,LB,Arkansas
+NFL2001,2,56,Dallas Cowboys,TonyDixon,Tony,Dixon,,SS,Alabama
+NFL2001,2,57,Minnesota Vikings,WillieHoward,Willie,Howard,,DE,Stanford
+NFL2001,2,58,Buffalo Bills,TravisHenry,Travis,Henry,,RB,Tennessee
+NFL2001,2,59,Oakland Raiders,MarquesTuiasosopo,Marques,Tuiasosopo,,QB,Washington
+NFL2001,2,60,Tennessee Titans,AndreDyson,Andre,Dyson,,CB,Utah
+NFL2001,2,61,Detroit Lions,ShaunRogers,Shaun,Rogers,,DT,Texas
+NFL2001,2,62,Baltimore Ravens,GaryBaxter,Gary,Baxter,,CB,Baylor
+NFL2001,3,63,Philadelphia Eagles,DerrickBurgess,Derrick,Burgess,,DE,Mississippi
+NFL2001,3,64,Arizona Cardinals,AdrianWilson,Adrian,Wilson,,SS,NCState
+NFL2001,3,65,Cleveland Browns,JamesJackson-2001,James,Jackson,,RB,MiamiFL
+NFL2001,3,66,Cincinnati Bengals,SeanBrewer,Sean,Brewer,,TE,SanJoseState
+NFL2001,3,67,San Diego Chargers,TayCody,Tay,Cody,,CB,FloridaState
+NFL2001,3,68,Chicago Bears,MikeGandy,Mike,Gandy,,OT,NotreDame
+NFL2001,3,69,Minnesota Vikings,EricKelly,Eric,Kelly,,CB,Kentucky
+NFL2001,3,70,New Orleans Saints,SedrickHodge,Sedrick,Hodge,,OLB,NorthCarolina
+NFL2001,3,71,Green Bay Packers,BhawohJue,Bhawoh,Jue,,FS,PennState
+NFL2001,3,72,Green Bay Packers,TorranceMarshall,Torrance,Marshall,,ILB,Oklahoma
+NFL2001,3,73,Jacksonville Jaguars,EricWestmoreland,Eric,Westmoreland,,OLB,Tennessee
+NFL2001,3,74,Carolina Panthers,SteveSmith-2001,Steve,Smith,,WR,Utah
+NFL2001,3,75,Kansas City Chiefs,EricDowning,Eric,Downing,,DT,Syracuse
+NFL2001,3,76,Buffalo Bills,RonEdwards,Ron,Edwards,,DT,TexasA&M
+NFL2001,3,77,Kansas City Chiefs,MarvinMinnis,Marvin,Minnis,,WR,FloridaState
+NFL2001,3,78,New York Giants,WillPeterson,Will,Peterson,,CB,WesternIllinois
+NFL2001,3,79,New York Jets,KareemMcKenzie,Kareem,McKenzie,,OT,PennState
+NFL2001,3,80,San Francisco 49ers,KevanBarlow,Kevan,Barlow,,RB,Pittsburgh
+NFL2001,3,81,New Orleans Saints,KennySmith,Kenny,Smith,,DT,Alabama
+NFL2001,3,82,Seattle Seahawks,HeathEvans,Heath,Evans,,FB,Auburn
+NFL2001,3,83,St Louis Rams,BrianAllen-2001,Brian,Allen,,OLB,FloridaState
+NFL2001,3,84,Tampa Bay Buccaneers,DwightSmith,Dwight,Smith,,SS,Akron
+NFL2001,3,85,Miami Dolphins,TravisMinor,Travis,Minor,,RB,FloridaState
+NFL2001,3,86,New England Patriots,BrockWilliams,Brock,Williams,,CB,NotreDame
+NFL2001,3,87,Denver Broncos,ReggieHayward,Reggie,Hayward,,DE,IowaState
+NFL2001,3,88,Miami Dolphins,MorlonGreenwood,Morlon,Greenwood,,ILB,Syracuse
+NFL2001,3,89,Oakland Raiders,DeLawrenceGrant,DeLawrence,Grant,,OLB,OregonState
+NFL2001,3,90,Tennessee Titans,ShadMeier,Shad,Meier,,TE,KansasState
+NFL2001,3,91,Indianapolis Colts,CoryBird,Cory,Bird,,SS,VirginiaTech
+NFL2001,3,92,Baltimore Ravens,CaseyRabach,Casey,Rabach,,C,Wisconsin
+NFL2001,3,93,Dallas Cowboys,WillieBlade,Willie,Blade,,DT,MississippiState
+NFL2001,3,94,Jacksonville Jaguars,JamesBoyd,James,Boyd,,SS,PennState
+NFL2001,3,95,Buffalo Bills,JonasJennings,Jonas,Jennings,,OT,Georgia
+NFL2001,4,96,New England Patriots,KenyattaJones,Kenyatta,Jones,,OT,SouthFlorida
+NFL2001,4,97,Cleveland Browns,AnthonyHenry,Anthony,Henry,,CB,SouthFlorida
+NFL2001,4,98,Arizona Cardinals,BillGramatica,Bill,Gramatica,,K,SouthFlorida
+NFL2001,4,99,Atlanta Falcons,RobertoGarza,Roberto,Garza,,C,TexasA&M–Kingsville
+NFL2001,4,100,Cincinnati Bengals,RudiJohnson,Rudi,Johnson,,RB,Auburn
+NFL2001,4,101,New York Jets,JamieHenderson,Jamie,Henderson,,CB,Georgia
+NFL2001,4,102,Atlanta Falcons,MattStewart,Matt,Stewart,,OLB,Vanderbilt
+NFL2001,4,103,Chicago Bears,KaronRiley,Karon,Riley,,DE,Minnesota
+NFL2001,4,104,Seattle Seahawks,OrlandoHuff,Orlando,Huff,,OLB,FresnoState
+NFL2001,4,105,Green Bay Packers,BillFerrario,Bill,Ferrario,,G,Wisconsin
+NFL2001,4,106,Carolina Panthers,ChrisWeinke,Chris,Weinke,,QB,FloridaState
+NFL2001,4,107,Kansas City Chiefs,MontyBeisel,Monty,Beisel,,ILB,KansasState
+NFL2001,4,108,Kansas City Chiefs,GeorgeLayne,George,Layne,,RB,TexasChristian
+NFL2001,4,109,Washington Redskins,SageRosenfels,Sage,Rosenfels,,QB,IowaState
+NFL2001,4,110,Buffalo Bills,BrandonSpoon,Brandon,Spoon,,ILB,NorthCarolina
+NFL2001,4,111,Pittsburgh Steelers,MathiasNkwenti,Mathias,Nkwenti,,OT,Temple
+NFL2001,4,112,San Diego Chargers,CarlosPolk,Carlos,Polk,,OLB,Nebraska
+NFL2001,4,113,Denver Broncos,BenHamilton,Ben,Hamilton,,G,Minnesota
+NFL2001,4,114,New York Giants,CedricScott,Cedric,Scott,,DE,SouthernMississippi
+NFL2001,4,115,New Orleans Saints,MoranNorris,Moran,Norris,,FB,Kansas
+NFL2001,4,116,St Louis Rams,MiltonWynn,Milton,Wynn,,WR,WashingtonState
+NFL2001,4,117,Tampa Bay Buccaneers,JohnHowell,John,Howell,,SS,ColoradoState
+NFL2001,4,118,Indianapolis Colts,RyanDiem,Ryan,Diem,,OT,NIU
+NFL2001,4,119,New England Patriots,JabariHolloway,Jabari,Holloway,,TE,NotreDame
+NFL2001,4,120,Denver Broncos,NickHarris,Nick,Harris,,P,California
+NFL2001,4,121,Philadelphia Eagles,CorrellBuckhalter,Correll,Buckhalter,,RB,Nebraska
+NFL2001,4,122,Dallas Cowboys,MarkusSteele,Markus,Steele,,OLB,USC
+NFL2001,4,123,Arizona Cardinals,MarcusBell,Marcus,Bell,,DT,Memphis
+NFL2001,4,124,Tennessee Titans,JustinMcCareins,Justin,McCareins,,WR,NIU
+NFL2001,4,125,New York Giants,JessePalmer,Jesse,Palmer,,QB,Florida
+NFL2001,4,126,Baltimore Ravens,EdgertonHartwell,Edgerton,Hartwell,,ILB,WesternIllinois
+NFL2001,4,127,Seattle Seahawks,CurtisFuller,Curtis,Fuller,,FS,TexasChristian
+NFL2001,4,128,Seattle Seahawks,FloydWomack,Floyd,Womack,,OT,MississippiState
+NFL2001,4,129,St Louis Rams,BrandonManumaleuna,Brandon,Manumaleuna,,TE,Arizona
+NFL2001,4,130,Minnesota Vikings,ShawnWorthen,Shawn,Worthen,,DT,TexasChristian
+NFL2001,4,131,Minnesota Vikings,CedricJames,Cedric,James,,WR,TexasChristian
+NFL2001,5,132,San Diego Chargers,ElliotSilvers,Elliot,Silvers,,OT,Washington
+NFL2001,5,133,Arizona Cardinals,MarioFatafehi,Mario,Fatafehi,,DT,KansasState
+NFL2001,5,134,Cleveland Browns,JeremiahPharms,Jeremiah,Pharms,,LB,Washington
+NFL2001,5,135,Cincinnati Bengals,VictorLeyva,Victor,Leyva,,OT,ArizonaState
+NFL2001,5,136,Atlanta Falcons,VinnySutherland,Vinny,Sutherland,,WR,Purdue
+NFL2001,5,137,Dallas Cowboys,MattLehr,Matt,Lehr,,G,VirginiaTech
+NFL2001,5,138,Chicago Bears,BernardRobertson,Bernard,Robertson,,OT,Tulane
+NFL2001,5,139,San Diego Chargers,ZekeMoreno,Zeke,Moreno,,ILB,USC
+NFL2001,5,140,Seattle Seahawks,AlexBannister,Alex,Bannister,,WR,EasternKentucky
+NFL2001,5,141,Kansas City Chiefs,BillyBaber,Billy,Baber,,TE,Virginia
+NFL2001,5,142,Jacksonville Jaguars,DavidLeaverton,David,Leaverton,,P,Tennessee
+NFL2001,5,143,Carolina Panthers,JarrodCooper,Jarrod,Cooper,,SS,KansasState
+NFL2001,5,144,Buffalo Bills,MarquesSullivan,Marques,Sullivan,,OT,Illinois
+NFL2001,5,145,St Louis Rams,JerametriusButler,Jerametrius,Butler,,CB,KansasState
+NFL2001,5,146,Pittsburgh Steelers,ChukkyOkobi,Chukky,Okobi,,C,Purdue
+NFL2001,5,147,Philadelphia Eagles,TonyStewart-2001,Tony,Stewart,,TE,PennState
+NFL2001,5,148,Detroit Lions,ScottyAnderson,Scotty,Anderson,,WR,GramblingState
+NFL2001,5,149,Detroit Lions,MikeMcMahon,Mike,McMahon,,QB,Rutgers
+NFL2001,5,150,Kansas City Chiefs,DerrickBlaylock,Derrick,Blaylock,,RB,StephenFAustin
+NFL2001,5,151,Tampa Bay Buccaneers,RussHochstein,Russ,Hochstein,,G,Nebraska
+NFL2001,5,152,Indianapolis Colts,RaymondWalls,Raymond,Walls,,CB,SouthernMiss
+NFL2001,5,153,New Orleans Saints,OnomeOjo,Onome,Ojo,,WR,UCDavis
+NFL2001,5,154,Washington Redskins,DarnerienMcCants,Darnerien,McCants,,WR,DelawareState
+NFL2001,5,155,Philadelphia Eagles,AJFeeley,AJ,Feeley,,QB,Oregon
+NFL2001,5,156,Miami Dolphins,ShawnDraper,Shawn,Draper,,TE,Alabama
+NFL2001,5,157,Minnesota Vikings,PatrickChukwurah,Patrick,Chukwurah,,OLB,Wyoming
+NFL2001,5,158,Oakland Raiders,RayPerryman,Ray,Perryman,,SS,NorthernArizona
+NFL2001,5,159,Tennessee Titans,EddieBerlin,Eddie,Berlin,,WR,NorthernIowa
+NFL2001,5,160,New York Giants,JohnMarkham,John,Markham,,K,Vanderbilt
+NFL2001,5,161,Baltimore Ravens,ChrisBarnes,Chris,Barnes,,RB,NewMexicoState
+NFL2001,5,162,New York Giants,JonathanCarter,Jonathan,Carter,,WR,Troy
+NFL2001,5,163,New England Patriots,HakimAkbar,Hakim,Akbar,,OLB,Washington
+NFL2001,6,164,Miami Dolphins,BrandonWiney,Brandon,Winey,,OT,LSU
+NFL2001,6,165,Cleveland Browns,MichaelJameson,Michael,Jameson,,CB,TexasA&M
+NFL2001,6,166,Arizona Cardinals,BobbyNewcombe,Bobby,Newcombe,,WR,Nebraska
+NFL2001,6,167,Atlanta Falcons,RandyGarner,Randy,Garner,,DE,Arkansas
+NFL2001,6,168,Cincinnati Bengals,RiallJohnson,Riall,Johnson,,OLB,Stanford
+NFL2001,6,169,San Francisco 49ers,CedrickWilsonSr,Cedrick,Wilson,Sr.,WR,Tennessee
+NFL2001,6,170,Jacksonville Jaguars,ChadWard,Chad,Ward,,G,Washington
+NFL2001,6,171,Dallas Cowboys,DaleroyStewart,Daleroy,Stewart,,DT,SouthernMiss
+NFL2001,6,172,Seattle Seahawks,JoshBooty,Josh,Booty,,QB,LSU
+NFL2001,6,173,Detroit Lions,JasonGlenn,Jason,Glenn,,OLB,TexasA&M
+NFL2001,6,174,Tampa Bay Buccaneers,JameelCook,Jameel,Cook,,FB,Illinois
+NFL2001,6,175,Carolina Panthers,DeeBrown,Dee,Brown,,RB,Syracuse
+NFL2001,6,176,Kansas City Chiefs,AlexSulfsted,Alex,Sulfsted,,G,MiamiOH
+NFL2001,6,177,Miami Dolphins,JoshHeupel,Josh,Heupel,,QB,Oklahoma
+NFL2001,6,178,Buffalo Bills,TonyDriver,Tony,Driver,,FS,NotreDame
+NFL2001,6,179,San Francisco 49ers,RashadHolman,Rashad,Holman,,CB,Louisville
+NFL2001,6,180,New England Patriots,ArtherLove,Arther,Love,,TE,SouthCarolinaState
+NFL2001,6,181,Pittsburgh Steelers,RodneyBailey,Rodney,Bailey,,DE,OhioState
+NFL2001,6,182,Pittsburgh Steelers,RogerKnight,Roger,Knight,,OLB,Wisconsin
+NFL2001,6,183,Tampa Bay Buccaneers,EllisWyms,Ellis,Wyms,,DT,MississippiState
+NFL2001,6,184,Oakland Raiders,ChrisCooper,Chris,Cooper,,DT,Nebraska–Omaha
+NFL2001,6,185,New Orleans Saints,MitchWhite,Mitch,White,,OT,OregonState
+NFL2001,6,186,Washington Redskins,MarioMonds,Mario,Monds,,DT,Cincinnati
+NFL2001,6,187,Miami Dolphins,OtisLeverette,Otis,Leverette,,DE,UAB
+NFL2001,6,188,Miami Dolphins,RickCrowell,Rick,Crowell,,LB,ColoradoState
+NFL2001,6,189,Minnesota Vikings,CareyScott,Carey,Scott,,CB,KentuckyState
+NFL2001,6,190,Denver Broncos,KevinKasper,Kevin,Kasper,,WR,Iowa
+NFL2001,6,191,San Francisco 49ers,MensonHolloway,Menson,Holloway,,DE,Texas-ElPaso
+NFL2001,6,192,Tennessee Titans,DanAlexander-2001,Dan,Alexander,,RB,Nebraska
+NFL2001,6,193,Indianapolis Colts,JasonDoering,Jason,Doering,,FS,Wisconsin
+NFL2001,6,194,Baltimore Ravens,JoeMaese,Joe,Maese,,LS,NewMexico
+NFL2001,6,195,Buffalo Bills,DanO'Leary,Dan,O'Leary,,TE,NotreDame
+NFL2001,6,196,Buffalo Bills,JimmyWilliams-2001,Jimmy,Williams,,CB,Vanderbilt
+NFL2001,6,197,St Louis Rams,FrancisSt.Paul,Francis,St Paul,,WR,NorthernArizona
+NFL2001,6,198,Green Bay Packers,DavidMartin,David,Martin,,TE,Tennessee
+NFL2001,6,199,Tennessee Titans,AdamHaayer,Adam,Haayer,,OT,Minnesota
+NFL2001,6,200,New England Patriots,LeonardMyers,Leonard,Myers,,CB,MiamiFL
+NFL2001,7,201,San Diego Chargers,BrandonGorin,Brandon,Gorin,,OT,Purdue
+NFL2001,7,202,Arizona Cardinals,RenaldoHill,Renaldo,Hill,,CB,MichiganState
+NFL2001,7,203,Cleveland Browns,PaulZukauskas,Paul,Zukauskas,,G,BostonCollege
+NFL2001,7,204,Cincinnati Bengals,TJHoushmandzadeh,TJ,Houshmandzadeh,,WR,OregonState
+NFL2001,7,205,Tampa Bay Buccaneers,DauntaeFinger,Dauntae,Finger,,TE,NorthCarolina
+NFL2001,7,206,New York Jets,JamesReed-2001,James,Reed,,DT,IowaState
+NFL2001,7,207,Dallas Cowboys,ColstonWeatherington,Colston,Weatherington,,DT,CentralMissouriState
+NFL2001,7,208,Chicago Bears,JohnCapel,John,Capel,,WR,Florida
+NFL2001,7,209,San Francisco 49ers,AlexLincoln,Alex,Lincoln,,LB,Auburn
+NFL2001,7,210,Seattle Seahawks,HaroldBlackmon,Harold,Blackmon,,SS,Northwestern
+NFL2001,7,211,Carolina Panthers,LouisWilliams,Louis,Williams,,C,LSU
+NFL2001,7,212,Kansas City Chiefs,ShaunardHarts,Shaunard,Harts,,S,BoiseState
+NFL2001,7,213,Jacksonville Jaguars,AnthonyDenman,Anthony,Denman,,OLB,NotreDame
+NFL2001,7,214,Buffalo Bills,ReggieGermany,Reggie,Germany,,WR,OhioState
+NFL2001,7,215,Atlanta Falcons,CoreyHall,Corey,Hall,,FS,AppalachianState
+NFL2001,7,216,New England Patriots,OwenPochman,Owen,Pochman,,K,BYU
+NFL2001,7,217,New York Jets,TupePeko,Tupe,Peko,,G,MichiganState
+NFL2001,7,218,Pittsburgh Steelers,ChrisTaylor,Chris,Taylor,,WR,TexasA&M
+NFL2001,7,219,Atlanta Falcons,KynanForney,Kynan,Forney,,G,Hawaii
+NFL2001,7,220,Indianapolis Colts,RickDeMulling,Rick,DeMulling,,G,Idaho
+NFL2001,7,221,New Orleans Saints,EnnisDavis,Ennis,Davis,,DT,USC
+NFL2001,7,222,Seattle Seahawks,DennisNorman,Dennis,Norman,,C,Princeton
+NFL2001,7,223,Tampa Bay Buccaneers,ThanMerrill,Than,Merrill,,SS,Yale
+NFL2001,7,224,San Francisco 49ers,EricJohnson,Eric,Johnson,,TE,Yale
+NFL2001,7,225,Minnesota Vikings,BrianCrawford,Brian,Crawford,,OT,WesternOregon
+NFL2001,7,226,Atlanta Falcons,RonaldFlemons,Ronald,Flemons,,DE,TexasA&M
+NFL2001,7,227,Carolina Panthers,MikeRoberg,Mike,Roberg,,TE,Idaho
+NFL2001,7,228,Oakland Raiders,DerekCombs,Derek,Combs,,CB,OhioState
+NFL2001,7,229,Oakland Raiders,Ken-YonRambo,Ken-Yon,Rambo,,WR,OhioState
+NFL2001,7,230,New York Giants,RossKolodziej,Ross,Kolodziej,,DT,Wisconsin
+NFL2001,7,231,Baltimore Ravens,DwayneMissouri,Dwayne,Missouri,,DE,Northwestern
+NFL2001,7,232,Tennessee Titans,KeithAdams,Keith,Adams,,OLB,Clemson
+NFL2001,7,233,Jacksonville Jaguars,MarlonMcCree,Marlon,McCree,,SS,Kentucky
+NFL2001,7,234,Tampa Bay Buccaneers,JoeTafoya,Joe,Tafoya,,DE,Arizona
+NFL2001,7,235,Jacksonville Jaguars,RichmondFlowersIII,Richmond,Flowers,III,WR,Tennessee–Chattanooga
+NFL2001,7,236,Atlanta Falcons,QuentinMcCord,Quentin,McCord,,WR,Kentucky
+NFL2001,7,237,Seattle Seahawks,KrisKocurek,Kris,Kocurek,,DT,TexasTech
+NFL2001,7,238,Buffalo Bills,TyroneRobertson,Tyrone,Robertson,,DT,Georgia
+NFL2001,7,239,New England Patriots,TJTurner-2001,TJ,Turner,,OLB,MichiganState
+NFL2001,7,240,Dallas Cowboys,JohnNix,John,Nix,,NT,SouthernMississippi
+NFL2001,7,241,Jacksonville Jaguars,RandyChevrier,Randy,Chevrier,,DT,McGill
+NFL2001,7,242,Dallas Cowboys,Char-ronDorsey,Char-ron,Dorsey,,OT,FloridaState
+NFL2001,7,243,Kansas City Chiefs,TerdellSands,Terdell,Sands,,DT,Tennessee–Chattanooga
+NFL2001,7,244,San Diego Chargers,RobertCarswell,Robert,Carswell,,SS,Clemson
+NFL2001,7,245,Cleveland Browns,AndreKing,Andre,King,,WR,MiamiFL
+NFL2001,7,246,Arizona Cardinals,TevitaOfahengaue,Tevita,Ofahengaue,,TE,BYU

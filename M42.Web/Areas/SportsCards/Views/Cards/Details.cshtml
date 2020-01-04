@@ -1,0 +1,74 @@
+﻿@model M42.Web.SportsCards.CardViewModel
+
+@{
+    ViewData["Title"] = @Model.DisplayName;
+}
+
+
+    <section id="detailsView" class="detailsView">
+
+        <header>
+            <h2>@Model.DisplayName</h2>
+        </header>
+
+        <div style="float:left">
+            @Html.Label("Release")
+            <a asp-area="SportsCards" asp-controller="Releases" asp-action="Details" asp-route-id="@Model.Card.Set.Release.Id">@Model.Card.Set.Release.Name</a>
+
+        </div>
+        <div style="clear:both"></div>
+
+        <div style="float:left">
+            @Html.Label("Set")
+            @Model.Card.Set.Name
+        </div>
+        <div style="clear:both"></div>
+
+        <div style="float:left">
+            @Html.Label("Card #")
+            @Model.Card.CardNumber
+        </div>
+        <div style="clear:both"></div>
+
+        <div style="float:left">
+            @Html.Label("Players")
+            @foreach (var person in Model.Card.People)
+            {
+                <a asp-area="SportsCards" asp-controller="People" asp-action="Details" asp-route-id="@person.Id">@person.Name</a>
+            }
+        </div>
+        <div style="clear:both"></div>
+
+        @if (Model.Card.Attributes.Count > 0)
+        {
+        <div style="float:left">
+            @Html.Label("Attributes")
+        </div>
+        <div style="float:left">
+            @foreach (var attribute in Model.Card.Attributes)
+            {
+                @Html.Label(attribute)
+                <br />
+            }
+        </div>
+        <div style="clear:both"></div>
+        }
+    </section>
+
+<hr />
+@*<section id="inventoryList">
+    @if (Model.Card.Inventories.Count == 0)
+    {
+        <p>No inventory of this card in stock.</p>
+    }
+
+    @foreach (var inventory in Model.Card.Inventories)
+    {
+        <a asp-area="SportsCards" asp-controller="Locations" asp-action="Details" asp-route-id="@inventory.Location.Id">@inventory.Location.Name</a>
+        <br />
+    }
+</section>*@
+
+
+
+

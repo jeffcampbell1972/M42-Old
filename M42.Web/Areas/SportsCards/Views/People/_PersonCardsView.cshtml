@@ -1,0 +1,12 @@
+﻿@model PersonViewModel
+
+<ul id="playersTeamList" style="font-size:8pt;  list-style-type: none;     margin: 0; padding: 0; column-count: @Model.NumColumns; column-fill: auto; height: 300px; width:100%">
+
+    @foreach (var card in Model.Person.Cards)
+    {
+        <li>
+            <a asp-area="SportsCards" asp-controller="Cards" asp-action="Details" asp-route-id="@card.Id">@card.Name</a>
+        </li>
+    }
+
+</ul>

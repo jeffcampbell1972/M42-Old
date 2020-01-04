@@ -1,0 +1,31 @@
+﻿@model FranchiseViewModel
+
+@{
+    ViewData["Title"] = @Model.DisplayName;
+}
+
+
+    <section id="detailsView" class="detailsView">
+        <header>
+            <h2>@Model.DisplayName</h2>
+        </header>
+
+        @await Html.PartialAsync(@Model.DetailsView, @Model)
+    </section>
+
+    <hr />
+
+    <section id="menuSection" class="menuSection">
+
+        <nav id="menuOptions" class="menuItems">
+            @await Html.PartialAsync("~/Views/Shared/_Menu.cshtml", @Model.Menu)
+        </nav>
+    
+        <section id="selectedMenuItemView" class="selectedMenuItemView">
+            @await Html.PartialAsync(@Model.SelectedMenuItemView, @Model)
+        </section>
+
+        <div style="clear:both"></div>
+    </section>
+
+

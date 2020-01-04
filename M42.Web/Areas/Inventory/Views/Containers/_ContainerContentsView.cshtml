@@ -1,0 +1,26 @@
+﻿@model M42.Web.Inventory.ContainerViewModel
+
+    <section id="inventoryList">
+        @if (Model.Container.Contents.Count == 0)
+        {
+            <p>No inventory in this location.</p>
+        }
+
+        <ul style="list-style-type: none; font-size:7pt;
+            margin: 0;
+            padding: 0;
+            column-count: 4;
+            column-fill: auto;
+            height: 320px;">
+
+            @foreach (var inventory in Model.ContentsPage)
+            {
+            <li>
+                <a asp-area="Inventory" asp-controller="InventoryItems" asp-action="Details" asp-route-id="@inventory.Id">@inventory.Name</a>
+            </li>
+            }
+
+        </ul>
+
+    </section>
+

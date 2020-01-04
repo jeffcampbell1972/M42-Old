@@ -1,0 +1,25 @@
+﻿@model M42.Web.SportsCards.ReleaseYearViewModel
+
+
+@foreach (var manufacturer in Model.ReleaseYear.Manufacturers)
+{
+    <div style="float:left; width:20%">
+        <a asp-area="SportsCards" asp-controller="Manufacturers" asp-action="Details" asp-route-id="@manufacturer.Id">@manufacturer.Name</a>
+        <br />
+        <br />
+        <ul id="sportReleaseYears" style="list-style-type: none; margin: 0; padding: 0; height: 300px;">
+            @foreach (var release in Model.ReleaseYear.Releases)
+            {
+                @if (manufacturer.Id == release.Manufacturer.Id)
+                {
+                    <li>
+                        <a asp-area="SportsCards" asp-controller="Releases" asp-action="Details" asp-route-id="@release.Id">@release.Name</a>
+                    </li>
+                }
+            }
+        </ul>
+    </div>
+   
+}
+
+<div style="clear:both"></div>

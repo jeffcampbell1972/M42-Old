@@ -1,0 +1,12 @@
+﻿@model PositionViewModel
+
+    <ul id="hofClass" class="detailsViewList">
+
+        @foreach (var person in Model.Position.People)
+        {
+            <li>
+                <a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@person.Id">@person.Name</a>
+            </li>
+        }
+
+    </ul>

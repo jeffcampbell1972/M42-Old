@@ -1,0 +1,7 @@
+﻿@model PositionViewModel
+
+    <div id="sport">
+        @Html.Label("Sport")
+        <a asp-area="Sports" asp-controller="Sports" asp-action="Details" asp-route-id="@Model.Position.Sport.Id">@Model.Position.Sport.Name</a>
+    </div>
+

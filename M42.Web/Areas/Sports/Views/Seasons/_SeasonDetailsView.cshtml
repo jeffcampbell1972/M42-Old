@@ -1,0 +1,54 @@
+﻿@model SeasonViewModel
+
+<div style="float:left; width:33%">
+
+    <div id="league">
+        @Html.Label("League")
+        <a asp-area="Sports" asp-controller="Leagues" asp-action="Details" asp-route-id="@Model.Season.League.Id">@Model.Season.League.Name</a>
+    </div>
+
+    @if (Model.Season.Commissioner != null)
+    {
+        <div id="commissioner">
+            @Html.Label("Commissioner")
+            <a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@Model.Season.Commissioner.Id">@Model.Season.Commissioner.Name</a>
+        </div>
+    }
+
+</div>
+<div style="float: left; width:33%">
+    <div id="NumTeams">
+        @Html.Label("# of Teams")
+        @Html.DisplayFor(x => x.Season.NumTeams)
+    </div>
+
+    <div id="NumGames">
+        @Html.Label("# of Games")
+        @Html.DisplayFor(x => x.Season.NumGames)
+    </div>
+</div>
+<div style="float: left; width:25%">
+    @if (Model.Season.Champion != null)
+    {
+        <div id="commissioner">
+            @Html.Label("Super Bowl")
+            <a asp-area="Sports" asp-controller="Teams" asp-action="Details" asp-route-id="@Model.Season.Champion.Id">@Model.Season.Champion.Name</a>
+        </div>
+    }
+
+</div>
+
+<div style="float:left; width:33%">
+    @if (Model.Season.Championship != null)
+    {
+    <div id="commissioner">
+        @Html.Label(Model.Season.Championship.Title)
+        <a asp-area="Sports" asp-controller="Teams" asp-action="Details" asp-route-id="@Model.Season.Championship.WinningTeam.Id">@Model.Season.Championship.WinningTeam.Name</a>
+        def
+        <a asp-area="Sports" asp-controller="Teams" asp-action="Details" asp-route-id="@Model.Season.Championship.LosingTeam.Id">@Model.Season.Championship.LosingTeam.Name</a>
+        (@Model.Season.Championship.Score)
+    </div>
+    }
+</div>
+
+<div style="clear:both"></div>

@@ -1,0 +1,34 @@
+﻿@model M42.Web.Inventory.ContainerIndexViewModel
+
+@{
+    ViewData["Title"] = @Model.DisplayName;
+}
+
+
+<section id="detailsView" class="detailsView">
+    <header>
+        <h2>@Model.DisplayName</h2>
+    </header>
+</section>
+
+<hr />
+
+<section id="menuSection" class="menuSection">
+
+    <nav id="menuOptions" style="font-size:7pt;width: 7%; float: left;">
+        @await Html.PartialAsync("~/Views/Shared/_Menu.cshtml", @Model.Menu)
+    </nav>
+
+    <section id="selectedMenuItemView" class="selectedMenuItemView">
+        @if (Model.SelectedMenuItemView != null)
+        {
+            @await Html.PartialAsync(@Model.SelectedMenuItemView, @Model)
+        }
+    </section>
+
+    <div style="clear:both"></div>
+</section>
+
+
+
+

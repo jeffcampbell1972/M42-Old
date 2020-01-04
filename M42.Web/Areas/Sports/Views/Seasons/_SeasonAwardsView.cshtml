@@ -1,0 +1,25 @@
+﻿@model SeasonViewModel
+
+    <ul style="list-style-type: none; margin: 0; padding: 0; column-count: 1; height: 300px; width:100%">
+        @if (Model.Season.MVP != null)
+        {
+            <li id="mvp">
+                @Html.Label("MVP")
+                <a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@Model.Season.MVP.Id">@Model.Season.MVP.Name</a>
+            </li>
+        }
+        @if (Model.Season.MVP != null)
+        {
+            <li id="offensiveroy">
+                @Html.Label("Offensive ROY")
+                <a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@Model.Season.OffensiveROY.Id">@Model.Season.OffensiveROY.Name</a>
+            </li>
+        }
+        @if (Model.Season.MVP != null)
+        {
+            <li id="defensiveroy">
+                @Html.Label("Defensive ROY")
+                <a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@Model.Season.DefensiveROY.Id">@Model.Season.DefensiveROY.Name</a>
+            </li>
+        }
+    </ul>

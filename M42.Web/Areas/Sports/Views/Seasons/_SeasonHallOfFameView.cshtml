@@ -1,0 +1,16 @@
+﻿@model SeasonViewModel
+
+    <div id="hallOfFame" style="width:30%">
+        <a asp-area="Sports" asp-controller="HallsOfFame" asp-action="Details" asp-route-id="@Model.Season.League.HallOfFame.Id">@Model.Season.League.HallOfFame.Name</a>
+        - Class of @Model.Season.Year
+        <hr />
+    </div>
+    
+    <ul style="list-style-type: none; margin: 0; padding: 0; column-count: 1; height: 300px; width:100%">
+        @foreach (var hallOfFamer in Model.Season.HallOfFamers)
+        {
+            <li>
+                <a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@hallOfFamer.Person.Id">@hallOfFamer.Person.Name</a>
+            </li>
+        }
+    </ul>

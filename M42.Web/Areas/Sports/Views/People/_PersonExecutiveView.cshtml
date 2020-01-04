@@ -1,0 +1,12 @@
+﻿@model PersonViewModel
+
+<ul id="coachesTeamList" class="detailsViewList">
+
+    @foreach (var commissioner in Model.Person.LeagueCommissionerSeasons)
+    {
+        <li>
+            <a asp-area="Sports" asp-controller="Seasons" asp-action="Details" asp-route-id="@commissioner.Id">@commissioner.Name</a>
+        </li>
+    }
+
+</ul>

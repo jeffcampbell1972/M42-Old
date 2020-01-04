@@ -1,0 +1,19 @@
+﻿@model TeamViewModel
+
+@if (Model.Team.HallOfFamers.Count == 0)
+{
+    <div>No Hall of Famers on the roster.</div>
+}
+else
+{
+    <ul id="teamHallOfFamers" class="detailsViewList">
+
+        @foreach (var hallOfFamer in Model.Team.HallOfFamers)
+        {
+            <li>
+                <a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@hallOfFamer.Person.Id">@hallOfFamer.Person.Name</a>
+            </li>
+        }
+
+    </ul>
+}

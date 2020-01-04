@@ -1,0 +1,19 @@
+﻿@model M42.Web.Inventory.ContainerIndexViewModel
+
+<ul style="list-style-type: none;
+        margin: 0;
+        padding: 0;
+        font-size: 8pt;
+        column-count: 4;
+        column-fill: auto;
+        height: 300px;">
+
+    @foreach (var container in Model.Containers)
+    {
+        <li>
+            <a asp-area="Inventory" asp-controller="Containers" asp-action="Details" asp-route-id="@container.Id">@container.Name</a>
+        </li>
+
+    }
+
+</ul>

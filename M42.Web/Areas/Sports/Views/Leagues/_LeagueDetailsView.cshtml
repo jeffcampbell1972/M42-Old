@@ -1,0 +1,49 @@
+﻿@model LeagueViewModel
+
+<div style="float: left; width:33%">
+    <div id="name">
+        @Html.Label("Name")
+        @Html.DisplayFor(x => x.League.Name)
+    </div>
+    <div id="established">
+        @Html.Label("Established")
+        @Html.DisplayFor(x => x.League.YearEstablished)
+    </div>
+
+    @if (Model.League.YearEnded != null)
+    {
+        <div id="ended">
+            @Html.Label("Ended")
+            @Html.DisplayFor(x => x.League.YearEnded)
+        </div>
+    }
+    @if (Model.League.Commissioner != null)
+    {
+        <div id="commissioner">
+            @Html.Label("Commissioner")
+            <a asp-area="Sports" asp-controller="People" asp-action="Details" asp-route-id="@Model.League.Commissioner.Id">@Model.League.Commissioner.Name</a>
+        </div>
+    }
+</div>
+
+<div style="float: left; width:33%">
+
+    <div id="numFranchises">
+        @Html.Label("# of Teams")
+        @Html.DisplayFor(x => x.League.NumFranchises)
+    </div>
+    <div id="numGames">
+        @Html.Label("# of Games")
+        @Html.DisplayFor(x => x.League.NumGames)
+    </div>
+</div>
+
+<div style="float: left; width:33%">
+
+</div>
+
+
+    <div style="clear: both"></div>
+
+
+

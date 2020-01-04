@@ -1,0 +1,24 @@
+﻿@model PersonViewModel
+
+@{
+    ViewData["Title"] = @Model.DisplayName;
+}
+
+
+<section id="detailsView" class="detailsView">
+    <header>
+        <h2>@Model.DisplayName</h2>
+    </header>
+
+    @await Html.PartialAsync(@Model.DetailsView, @Model)
+</section>
+
+<hr />
+
+<section id="cardsSections">
+
+    @await Html.PartialAsync("~/Areas/SportsCards/Views/People/_PersonCardsView.cshtml", @Model)
+
+</section>
+
+

@@ -1,0 +1,12 @@
+﻿@model M42.Web.SportsCards.SportViewModel
+
+
+<ul id="sportReleaseYears" class="detailsViewList8">
+    @foreach (var releaseYear in Model.Sport.ReleaseYears)
+    {
+        <li>
+            <a asp-area="SportsCards" asp-controller="ReleaseYears" asp-action="Details" asp-route-identifier="@releaseYear.Identifier">@releaseYear.Year</a>
+        </li>
+    }
+</ul>
+

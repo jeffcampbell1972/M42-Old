@@ -1,0 +1,16 @@
+﻿@model  HomeViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome to M42</h1>
+
+        <p>@Model.WelcomeMessage</p>
+
+        @if (Model.ShowSeedDataLink)
+        {
+            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Initialize">Click here to Initialize the Database</a>
+        }
+    </div>

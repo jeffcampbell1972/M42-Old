@@ -1,0 +1,20 @@
+﻿@model LeagueViewModel
+
+<ul id="leagueChampionsList" style="font-size:8pt; list-style-type: none;
+    margin: 0;
+    padding: 0;
+    column-count: 6;
+    column-fill: auto;
+    height: 300px;">
+
+    @foreach (var championship in Model.League.Championships)
+    {
+    <li>
+        @championship.Year
+        <a asp-area="Sports" asp-controller="Teams" asp-action="Details" asp-route-id="@championship.WinningTeam.Id">@championship.WinningTeam.Name</a>
+        def
+        <a asp-area="Sports" asp-controller="Teams" asp-action="Details" asp-route-id="@championship.LosingTeam.Id">@championship.LosingTeam.Name</a>
+    </li>
+    }
+
+</ul>

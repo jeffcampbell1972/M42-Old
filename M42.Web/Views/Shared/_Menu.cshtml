@@ -1,0 +1,24 @@
+﻿@model M42.Models.MenuVM
+
+
+
+    <ul id="@Model.Identifier" class="menuOptions">
+
+        @foreach (var menuItem in Model.MenuItems)
+        {
+            if (menuItem.Id > 0)
+            {
+                <li id="@menuItem.Identifier" class="@menuItem.CssClass">
+                    @Html.ActionLink(menuItem.Text, menuItem.Action, menuItem.Controller, new { id = menuItem.Id, viewOption = menuItem.ViewOption, area = menuItem.Area }, null)
+                </li>
+            }
+            else
+            {
+                <li id="@menuItem.Identifier" class="@menuItem.CssClass">
+                    @Html.ActionLink(menuItem.Text, menuItem.Action, menuItem.Controller, new { viewOption = menuItem.ViewOption, area = menuItem.Area }, null)
+                </li>
+            }
+        }
+
+    </ul>
+

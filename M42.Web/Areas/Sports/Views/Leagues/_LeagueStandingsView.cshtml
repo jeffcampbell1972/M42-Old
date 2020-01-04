@@ -1,0 +1,51 @@
+﻿@model LeagueViewModel
+
+@foreach (var conference in Model.League.Conferences)
+{
+    <section id="@conference.Identifier" style="float:left; width: 50%; font-size:9pt">
+
+        <header>
+            <h5 style="font-size:9pt; font-weight: bold">
+                @conference.Name
+            </h5>
+        </header>
+
+        @foreach (var division in conference.Divisions)
+        {
+            <nav id="@division.Identifier" style="float:left; width:50%">
+                <h5 style="font-size:9pt; font-weight: bold">
+                    @division.Name
+                </h5>
+                <ul id="leagues" style="list-style-type: none; margin: 0; height:125px; padding: 0; column-count: 1; width:100%">
+                    @foreach (var franchise in division.Franchises)
+                    {
+                    <li style="width:100%">
+                        <div id="franchiseLink" style="float:left; width:65%">
+                            <a asp-area="Sports" asp-controller="Franchises" asp-action="Details" asp-route-id="@franchise.Id">@franchise.Name</a>
+                        </div>
+
+                        <div id="wins" style="float: left; width:10%">
+                            @franchise.Wins
+                        </div>
+                        <div id="losses" style="float: left; width:10%">
+                            @franchise.Losses
+                        </div>
+                        <div id="ties" style="float: left; width:10%">
+                            @franchise.Ties
+                        </div>
+                        <div style="clear:both"></div>
+                    </li>
+                    }
+                </ul>
+            </nav>
+
+            @if (division.SortOrder % 2 == 0)
+            {
+                <div style="clear:both"></div>
+            }
+        }
+
+    </section>
+}
+
+<div style="clear:both"></div>
