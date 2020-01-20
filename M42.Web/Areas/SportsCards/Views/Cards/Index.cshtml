@@ -1,0 +1,79 @@
+﻿@model CardSearchViewModel
+
+
+    <section id="cardSearch">
+        <header>
+            <h2>M42 Sports Cards - Search</h2>
+        </header>
+
+        <form asp-controller="Cards" asp-action="Index" method="post">
+
+            <div id="col1" style="float:left; width:33%">
+                <label>Year</label>
+                <select asp-for="@Model.CardSearch.Year" asp-items="@Model.Years"></select>
+
+                <br />
+                <label>Sport</label>
+                <select asp-for="@Model.CardSearch.SportId" asp-items="@Model.Sports"></select>
+
+                <br />
+                <label>Person</label>
+                <select asp-for="@Model.CardSearch.PersonId" asp-items="@Model.People"></select>
+
+                <br />
+            </div>
+
+            <div id="col2" style="float:left; width:33%">
+                
+                <label>Rookie Cards Only</label>
+                <input type="checkbox" asp-for="@Model.CardSearch.IsRC" />
+
+                <br />
+
+                
+                <label>Autographs Only</label>
+                <input type="checkbox" asp-for="@Model.CardSearch.IsAutograph" />
+
+                <br />
+
+                
+                <label>Relics Only</label>
+                <input type="checkbox" asp-for="@Model.CardSearch.IsRelic" />
+
+            </div>
+            <div style="clear:both"></div>
+
+             <button >Search</button>
+           
+        </form>
+
+    </section>
+
+<hr />
+
+<section id="cardList">
+
+    <ul style="list-style-type: none; margin: 0; padding: 0; column-count: 2; column-fill: auto; height: 300px;">
+
+        @foreach(var card in Model.CardSearch.Cards)
+        {
+        <li>
+
+            <div style="float:left; width:150px; font-size: 8pt">@card.Set.Release.Name</div>
+            <div style="float:left; width:100px; font-size: 8pt">@card.Set.Name</div>
+            <div style="float:left; width:35px; font-size: 8pt">#@card.CardNumber</div>
+            <div style="float:left; width:100px; font-size: 8pt">
+                @foreach (var person in card.People)
+                {
+                    @person.Name
+                }
+            </div>
+            <div style="clear:both"></div>
+        </li>
+        }
+
+    </ul>
+
+</section>
+
+

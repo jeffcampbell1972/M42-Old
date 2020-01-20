@@ -1,5 +1,5 @@
-1948LeafNFLBase,1948LeafNFL,Base,1
 1948BowmanNFLBase,1948BowmanNFL,Base,1
+1948LeafNFLBase,1948LeafNFL,Base,1
 1949LeafNFLBase,1949LeafNFL,Base,1
 1950BowmanNFLBase,1950BowmanNFL,Base,1
 1950FeltBacksNFLBase,1950FeltBacksNFL,Base,1
@@ -61,16 +61,16 @@
 1977ToppsNFLBase,1977ToppsNFL,Base,1
 1978FleerNFLBase,1978FleerNFL,Base,1
 1978ToppsNFLBase,1978ToppsNFL,Base,1
-1979ToppsMLBBase,1979ToppsMLB,Base,1
 1979FleerNFLBase,1979FleerNFL,Base,1
+1979ToppsMLBBase,1979ToppsMLB,Base,1
 1979ToppsNFLBase,1979ToppsNFL,Base,1
 1980FleerNFLBase,1980FleerNFL,Base,1
 1980ToppsNFLBase,1980ToppsNFL,Base,1
 1981FleerNFLBase,1981FleerNFL,Base,1
 1981ToppsNFLBase,1981ToppsNFL,Base,1
 1981ToppsStickersNFLBase,1981ToppsStickersNFL,Base,1
-1982ToppsMLBBase,1982ToppsMLB,Base,1
 1982FleerNFLBase,1982FleerNFL,Base,1
+1982ToppsMLBBase,1982ToppsMLB,Base,1
 1982ToppsNFLBase,1982ToppsNFL,Base,1
 1982ToppsNFLStickers,1982ToppsNFL,Stickers,0
 1983FleerNFLBase,1983FleerNFL,Base,1
@@ -83,123 +83,131 @@
 1984ToppsUSFLUSFLBase,1984ToppsUSFLUSFL,Base,1
 1985DonrussMLBBase,1985DonrussMLB,Base,1
 1985DonrussMLBHighlights,1985DonrussMLB,Highlights,0
-1985ToppsMLBBase,1985ToppsMLB,Base,1
 1985FleerNFLBase,1985FleerNFL,Base,1
+1985ToppsMLBBase,1985ToppsMLB,Base,1
 1985ToppsNFLBase,1985ToppsNFL,Base,1
 1985ToppsStickersNFLBase,1985ToppsStickersNFL,Base,1
 1985ToppsUSFLUSFLBase,1985ToppsUSFLUSFL,Base,1
+1986FleerNFLBase,1986FleerNFL,Base,1
 1986ToppsMLBBase,1986ToppsMLB,Base,1
 1986ToppsMLBTraded,1986ToppsMLB,Traded,0
-1986ToppsSmallMLBBase,1986ToppsSmallMLB,Base,1
-1986FleerNFLBase,1986FleerNFL,Base,1
 1986ToppsNFL1000yardclub,1986ToppsNFL,1000 yard club,0
 1986ToppsNFLBase,1986ToppsNFL,Base,1
+1986ToppsSmallMLBBase,1986ToppsSmallMLB,Base,1
 1987DonrussMLBBase,1987DonrussMLB,Base,1
 1987FleerAwardWinnersMLBBase,1987FleerAwardWinnersMLB,Base,1
+1987FleerNFLBase,1987FleerNFL,Base,1
 1987ToppsMLBBase,1987ToppsMLB,Base,1
 1987ToppsMLBTraded,1987ToppsMLB,Traded,0
-1987FleerNFLBase,1987FleerNFL,Base,1
 1987ToppsNFL1000yardclub,1987ToppsNFL,1000 yard club,0
 1987ToppsNFLBase,1987ToppsNFL,Base,1
 1987ToppsSmallNFLBase,1987ToppsSmallNFL,Base,1
 1988DonrussMLBBase,1988DonrussMLB,Base,1
 1988LeafMLBBase,1988LeafMLB,Base,1
+1988MaxxNASCARBase,1988MaxxNASCAR,Base,1
+1988MaxxNASCARBase,1988MaxxNASCAR,Base,1
 1988PacificMLBBase,1988PacificMLB,Base,1
 1988PaniniStickersMLBBase,1988PaniniStickersMLB,Base,1
 1988ScoreMLBBase,1988ScoreMLB,Base,1
 1988ToppsMLBBase,1988ToppsMLB,Base,1
-1988MaxxNASCARBase,1988MaxxNASCAR,Base,1
 1988ToppsNFL1000Yd,1988ToppsNFL,1000 Yd,0
 1988ToppsNFLBase,1988ToppsNFL,Base,1
+1989ActionPackedNFLBase,1989ActionPackedNFL,Base,1
 1989DonrussMLBBase,1989DonrussMLB,Base,1
 1989DonrussMLBTheRookies,1989DonrussMLB,The Rookies,0
 1989FleerMLBBase,1989FleerMLB,Base,1
-1989ScoreMLBBase,1989ScoreMLB,Base,1
-1989ToppsMLBBase,1989ToppsMLB,Base,1
-1989ToppsMLBTraded,1989ToppsMLB,Traded,0
-1989ToppsSmallMLBBase,1989ToppsSmallMLB,Base,1
-1989UpperDeckMLBBase,1989UpperDeckMLB,Base,1
-1989MaxxNASCARBase,1989MaxxNASCAR,Base,1
 1989HoopsNBAA,1989HoopsNBA,A,0
 1989HoopsNBABase,1989HoopsNBA,Base,1
-1989ActionPackedNFLBase,1989ActionPackedNFL,Base,1
-1989ScoreNFLBase,1989ScoreNFL,Base,1
-1989ScoreNFLSupplemental,1989ScoreNFL,Supplemental,0
+1989MaxxNASCARBase,1989MaxxNASCAR,Base,1
+1989MaxxNASCARBase,1989MaxxNASCAR,Base,1
+1989MaxxNASCARBase,1989MaxxNASCAR,Base,1
+1989MaxxNASCARBase,1989MaxxNASCAR,Base,1
+1989MaxxNASCARBase,1989MaxxNASCAR,Base,1
+1989MaxxNASCARBase,1989MaxxNASCAR,Base,1
+1989MaxxNASCARBase,1989MaxxNASCAR,Base,1
+1989MaxxNASCARBase,1989MaxxNASCAR,Base,1
 1989ProsetNFLBase,1989ProsetNFL,Base,1
 1989ProsetNFLBroadcasters,1989ProsetNFL,Broadcasters,0
 1989ProsetNFLSuperBowls,1989ProsetNFL,Super Bowls,0
 1989ProsetNFLVariations,1989ProsetNFL,Variations,0
+1989ScoreMLBBase,1989ScoreMLB,Base,1
+1989ScoreNFLBase,1989ScoreNFL,Base,1
+1989ScoreNFLSupplemental,1989ScoreNFL,Supplemental,0
+1989ToppsMLBBase,1989ToppsMLB,Base,1
+1989ToppsMLBTraded,1989ToppsMLB,Traded,0
 1989ToppsNFL1000Yd,1989ToppsNFL,1000 Yd,0
 1989ToppsNFLBase,1989ToppsNFL,Base,1
 1989ToppsNFLTraded,1989ToppsNFL,Traded,0
-1990DonrussMLBBase,1990DonrussMLB,Base,1
-1990DonrussMLBTransposedPhotos,1990DonrussMLB,Transposed Photos,0
-1990FleerMLBAwardWinners,1990FleerMLB,Award Winners,0
-1990FleerMLBBase,1990FleerMLB,Base,1
-1990FleerMLBSoaringStars,1990FleerMLB,Soaring Stars,0
-1990FleerAwardWinnersMLBBase,1990FleerAwardWinnersMLB,Base,1
-1990ScoreMLBBase,1990ScoreMLB,Base,1
-1990BowmanMLBBase,1990BowmanMLB,Base,1
-1990KaybeeMLBBase,1990KaybeeMLB,Base,1
-1990PostMLBBase,1990PostMLB,Base,1
-1990ToppsMLBBase,1990ToppsMLB,Base,1
-1990ToppsMLBTraded,1990ToppsMLB,Traded,0
-1990ToppsSmallMLBBase,1990ToppsSmallMLB,Base,1
-1990WoolworthMLBBase,1990WoolworthMLB,Base,1
-1990UpperDeckMLBBase,1990UpperDeckMLB,Base,1
-1990SkyboxNBABase,1990SkyboxNBA,Base,1
+1989ToppsSmallMLBBase,1989ToppsSmallMLB,Base,1
+1989UpperDeckMLBBase,1989UpperDeckMLB,Base,1
 1990ActionPackedNFLAllMaddenTeam,1990ActionPackedNFL,All Madden Team,0
 1990ActionPackedNFLBase,1990ActionPackedNFL,Base,1
 1990ActionPackedNFLRookieUpdate,1990ActionPackedNFL,Rookie Update,0
+1990BowmanMLBBase,1990BowmanMLB,Base,1
+1990DonrussMLBBase,1990DonrussMLB,Base,1
+1990DonrussMLBTransposedPhotos,1990DonrussMLB,Transposed Photos,0
+1990FleerAwardWinnersMLBBase,1990FleerAwardWinnersMLB,Base,1
+1990FleerMLBAwardWinners,1990FleerMLB,Award Winners,0
+1990FleerMLBBase,1990FleerMLB,Base,1
+1990FleerMLBSoaringStars,1990FleerMLB,Soaring Stars,0
 1990FleerNFLAllPro,1990FleerNFL,AllPro,0
 1990FleerNFLBase,1990FleerNFL,Base,1
 1990FleerNFLUpdate,1990FleerNFL,Update,0
-1990StarsandStripesNFLBase,1990StarsandStripesNFL,Base,1
+1990KaybeeMLBBase,1990KaybeeMLB,Base,1
 1990PaniniStickersNFLBase,1990PaniniStickersNFL,Base,1
-1990ScoreNFLBase,1990ScoreNFL,Base,1
-1990ScoreNFLHotCards,1990ScoreNFL,Hot Cards,0
-1990ScoreNFLSupplemental,1990ScoreNFL,Supplemental,0
+1990PostMLBBase,1990PostMLB,Base,1
 1990ProsetNFLBase,1990ProsetNFL,Base,1
 1990ProsetNFLCollectaBook,1990ProsetNFL,CollectaBook,0
 1990ProsetNFLInserts,1990ProsetNFL,Inserts,0
 1990ProsetNFLSuperBowlMVPs,1990ProsetNFL,Super Bowl MVPs,0
 1990ProsetNFLSuperBowls,1990ProsetNFL,Super Bowls,0
+1990ScoreMLBBase,1990ScoreMLB,Base,1
+1990ScoreNFLBase,1990ScoreNFL,Base,1
+1990ScoreNFLHotCards,1990ScoreNFL,Hot Cards,0
+1990ScoreNFLSupplemental,1990ScoreNFL,Supplemental,0
+1990SkyboxNBABase,1990SkyboxNBA,Base,1
+1990StarsandStripesNFLBase,1990StarsandStripesNFL,Base,1
 1990SwellNFLBase,1990SwellNFL,Base,1
+1990ToppsMLBBase,1990ToppsMLB,Base,1
+1990ToppsMLBTraded,1990ToppsMLB,Traded,0
 1990ToppsNFL1000Yd,1990ToppsNFL,1000 Yd,0
 1990ToppsNFLBase,1990ToppsNFL,Base,1
 1990ToppsNFLTraded,1990ToppsNFL,Traded,0
+1990ToppsSmallMLBBase,1990ToppsSmallMLB,Base,1
+1990UpperDeckMLBBase,1990UpperDeckMLB,Base,1
+1990WoolworthMLBBase,1990WoolworthMLB,Base,1
 1991ActionPackedNFL24KGold,1991ActionPackedNFL,24K Gold,0
 1991ActionPackedNFLBase,1991ActionPackedNFL,Base,1
-1991ActionPackedNFLRookieUpdate,1991ActionPackedNFL,Rookie Update,0
 1991ActionPackedNFLRookies24KGold,1991ActionPackedNFL,Rookies 24K Gold,0
-1991HallofFameNFLBase,1991HallofFameNFL,Base,1
+1991ActionPackedNFLRookieUpdate,1991ActionPackedNFL,Rookie Update,0
+1991BowmanNFLBase,1991BowmanNFL,Base,1
+1991DominosNFLBase,1991DominosNFL,Base,1
+1991DominosNFLQuarterbackChallenge,1991DominosNFL,Quarterback Challenge,0
 1991FleerNFLAllPro,1991FleerNFL,All Pro,0
 1991FleerNFLBase,1991FleerNFL,Base,1
 1991FleerNFLProVisions,1991FleerNFL,Pro Visions,0
-1991StarsandStripesNFLBase,1991StarsandStripesNFL,Base,1
-1991UltraNFLBase,1991UltraNFL,Base,1
-1991UltraNFLUltraAllStars,1991UltraNFL,Ultra All Stars,0
-1991UltraNFLUltraPerformances,1991UltraNFL,Ultra Performances,0
-1991UltraNFLUpdate,1991UltraNFL,Update,0
+1991HallofFameNFLBase,1991HallofFameNFL,Base,1
 1991PacificNFLBase,1991PacificNFL,Base,1
 1991PacificNFLPicksthePros,1991PacificNFL,Picks the Pros,0
 1991PinnacleNFLBase,1991PinnacleNFL,Base,1
-1991ScoreNFLBase,1991ScoreNFL,Base,1
-1991ScoreNFLHotRookies,1991ScoreNFL,Hot Rookies,0
-1991ScoreNFLSupplemental,1991ScoreNFL,Supplemental,0
 1991ProLineNFLBase,1991ProLineNFL,Base,1
-1991ProLineNFLPortraitWives,1991ProLineNFL,Portrait Wives,0
 1991ProLineNFLPortraitsCollectibles,1991ProLineNFL,Portraits Collectibles,0
+1991ProLineNFLPortraitWives,1991ProLineNFL,Portrait Wives,0
 1991ProsetNFLBase,1991ProsetNFL,Base,1
 1991ProsetNFLInserts,1991ProsetNFL,Inserts,0
 1991ProsetPlatinumNFLBase,1991ProsetPlatinumNFL,Base,1
 1991ProsetPlatinumNFLPlatinumPC,1991ProsetPlatinumNFL,Platinum PC,0
-1991BowmanNFLBase,1991BowmanNFL,Base,1
-1991StadiumClubNFLBase,1991StadiumClubNFL,Base,1
-1991ToppsNFLBase,1991ToppsNFL,Base,1
-1991DominosNFLBase,1991DominosNFL,Base,1
-1991DominosNFLQuarterbackChallenge,1991DominosNFL,Quarterback Challenge,0
+1991ScoreNFLBase,1991ScoreNFL,Base,1
+1991ScoreNFLHotRookies,1991ScoreNFL,Hot Rookies,0
+1991ScoreNFLSupplemental,1991ScoreNFL,Supplemental,0
 1991SPNFLBase,1991SPNFL,Base,1
+1991StadiumClubNFLBase,1991StadiumClubNFL,Base,1
+1991StarsandStripesNFLBase,1991StarsandStripesNFL,Base,1
+1991ToppsNFLBase,1991ToppsNFL,Base,1
+1991UltraNFLBase,1991UltraNFL,Base,1
+1991UltraNFLUltraAllStars,1991UltraNFL,Ultra All Stars,0
+1991UltraNFLUltraPerformances,1991UltraNFL,Ultra Performances,0
+1991UltraNFLUpdate,1991UltraNFL,Update,0
 1991UpperDeckNFLBase,1991UpperDeckNFL,Base,1
 1991UpperDeckNFLGameBreakerHolograms,1991UpperDeckNFL,Game Breaker Holograms,0
 1991UpperDeckNFLJoeMonanaHeros,1991UpperDeckNFL,Joe Monana Heroes,0
@@ -210,21 +218,18 @@
 1992ActionPackedNFL24KGold,1992ActionPackedNFL,24K Gold,0
 1992ActionPackedNFLAllMaddenTeam,1992ActionPackedNFL,All Madden Team,0
 1992ActionPackedNFLBase,1992ActionPackedNFL,Base,1
-1992ActionPackedNFLRookieUpdate,1992ActionPackedNFL,Rookie Update,0
 1992ActionPackedNFLRookies24KGold,1992ActionPackedNFL,Rookies 24K Gold,0
+1992ActionPackedNFLRookieUpdate,1992ActionPackedNFL,Rookie Update,0
 1992AWSportsNFLBase,1992AWSportsNFL,Base,1
 1992AWSportsNFLGreats/Rookies,1992AWSportsNFL,Greats/Rookies,0
 1992AWSportsNFLLegendsandRookies,1992AWSportsNFL,Legends and Rookies,0
+1992BowmanNFLBase,1992BowmanNFL,Base,1
 1992CollectorsEdgeNFLBase,1992CollectorsEdgeNFL,Base,1
 1992DogtagsNFLBase,1992DogtagsNFL,Base,1
 1992FleerNFLAllPro,1992FleerNFL,All Pro,0
 1992FleerNFLBase,1992FleerNFL,Base,1
 1992FleerNFLMarkRypien,1992FleerNFL,Mark Rypien,0
 1992FleerNFLRookieSensations,1992FleerNFL,Rookie Sensations,0
-1992UltraNFLAwardWinners,1992UltraNFL,Award Winners,0
-1992UltraNFLBase,1992UltraNFL,Base,1
-1992UltraNFLChrisMiller,1992UltraNFL,Chris Miller,0
-1992UltraNFLReggieWhite,1992UltraNFL,Reggie White,0
 1992PacificNFLBase,1992PacificNFL,Base,1
 1992PacificNFLBobGriese,1992PacificNFL,Bob Griese,0
 1992PacificNFLPickthePros,1992PacificNFL,Pick the Pros,0
@@ -234,24 +239,23 @@
 1992PinnacleNFLBase,1992PinnacleNFL,Base,1
 1992PinnacleNFLTeam2000,1992PinnacleNFL,Team 2000,0
 1992PinnacleNFLTeamPinnacle,1992PinnacleNFL,Team Pinnacle,0
-1992ScoreNFLBase,1992ScoreNFL,Base,1
-1992ScoreNFLDreamTeam,1992ScoreNFL,Dream Team,0
-1992ScoreNFLGridironStars,1992ScoreNFL,Gridiron Stars,0
 1992PlayoffNFLBase,1992PlayoffNFL,Base,1
+1992ProfilesNFLBase,1992ProfilesNFL,Base,1
 1992ProLineNFLBase,1992ProLineNFL,Base,1
 1992ProLineNFLCollectibles,1992ProLineNFL,Collectibles,0
 1992ProLineNFLPortaitsQBGold,1992ProLineNFL,Portaits QB Gold,0
 1992ProLineNFLPortraitsRookieGold,1992ProLineNFL,Portraits Rookie Gold,0
 1992ProLineNFLPortraitsTeamNFL,1992ProLineNFL,Portraits Team NFL,0
 1992ProLineNFLPortraitsWives,1992ProLineNFL,Portraits Wives,0
-1992ProfilesNFLBase,1992ProfilesNFL,Base,1
 1992ProsetNFLBase,1992ProsetNFL,Base,1
 1992ProsetNFLEmmittSmithHolograms,1992ProsetNFL,Emmitt Smith Holograms,0
 1992ProsetNFLGoldMVPs,1992ProsetNFL,Gold MVPs,0
 1992ProsetNFLHOF2000,1992ProsetNFL,HOF 2000,0
+1992ScoreNFLBase,1992ScoreNFL,Base,1
+1992ScoreNFLDreamTeam,1992ScoreNFL,Dream Team,0
+1992ScoreNFLGridironStars,1992ScoreNFL,Gridiron Stars,0
 1992SkyboxNFLBase,1992SkyboxNFL,Base,1
 1992SkyboxNFLHolographs,1992SkyboxNFL,Holographs,0
-1992BowmanNFLBase,1992BowmanNFL,Base,1
 1992StadiumClubNFLBase,1992StadiumClubNFL,Base,1
 1992StadiumClubNFLNo1DraftPicks,1992StadiumClubNFL,No 1 Draft Picks,1
 1992StadiumClubNFLQBLegends,1992StadiumClubNFL,QB Legends,0
@@ -259,6 +263,10 @@
 1992ToppsNFLBase,1992ToppsNFL,Base,1
 1992ToppsNFLGold,1992ToppsNFL,Gold,0
 1992ToppsNFLNo1DraftPicks,1992ToppsNFL,No 1 Draft Picks,0
+1992UltraNFLAwardWinners,1992UltraNFL,Award Winners,0
+1992UltraNFLBase,1992UltraNFL,Base,1
+1992UltraNFLChrisMiller,1992UltraNFL,Chris Miller,0
+1992UltraNFLReggieWhite,1992UltraNFL,Reggie White,0
 1992UpperDeckNFLBase,1992UpperDeckNFL,Base,1
 1992UpperDeckNFLCoach'sReport,1992UpperDeckNFL,Coach's Report,0
 1992UpperDeckNFLDanMarinoHeroes,1992UpperDeckNFL,Dan Marino Heroes,0
@@ -279,6 +287,7 @@
 1993ActionPackedNFLQBClub,1993ActionPackedNFL,QBClub,0
 1993ActionPackedNFLRookiePreviews,1993ActionPackedNFL,Rookie Previews,0
 1993ActionPackedNFLRushers,1993ActionPackedNFL,Rushers,0
+1993BowmanNFLBase,1993BowmanNFL,Base,1
 1993CollectorsEdgeNFLBase,1993CollectorsEdgeNFL,Base,1
 1993CollectorsEdgeNFLElwayPrisms,1993CollectorsEdgeNFL,Elway Prisms,0
 1993CollectorsEdgeNFLRookiesFX,1993CollectorsEdgeNFL,Rookies FX,0
@@ -288,13 +297,6 @@
 1993FleerNFLRookieSensations,1993FleerNFL,Rookie Sensations,0
 1993FleerNFLSteveYoung,1993FleerNFL,Steve Young,0
 1993FleerNFLTeamLeaders,1993FleerNFL,Team Leaders,0
-1993UltraNFLAwardWinners,1993UltraNFL,Award Winners,0
-1993UltraNFLBase,1993UltraNFL,Base,1
-1993UltraNFLLeagueLeaders,1993UltraNFL,League Leaders,0
-1993UltraNFLMichaelIrvin,1993UltraNFL,Michael Irvin,0
-1993UltraNFLRookies,1993UltraNFL,Rookies,0
-1993UltraNFLStars,1993UltraNFL,Stars,0
-1993UltraNFLTouchdownKings,1993UltraNFL,Touchdown Kings,0
 1993PacificNFLBase,1993PacificNFL,Base,1
 1993PacificNFLPickstheProsGold,1993PacificNFL,Picks the Pros Gold,0
 1993PacificNFLSilverPrismInserts,1993PacificNFL,Silver Prism Inserts,0
@@ -305,9 +307,9 @@
 1993PinnacleNFLSuperBowlXXVII,1993PinnacleNFL,Super Bowl XXVII,0
 1993PinnacleNFLTeam2001,1993PinnacleNFL,Team 2001,0
 1993PinnacleNFLTeamPinnacle,1993PinnacleNFL,Team Pinnacle,0
-1993ScoreNFLBase,1993ScoreNFL,Base,1
-1993ScoreNFLDreamTeam,1993ScoreNFL,Dream Team,0
-1993ScoreNFLFranchise,1993ScoreNFL,Franchise,0
+1993PlayoffContendersNFLBase,1993PlayoffContendersNFL,Base,1
+1993PlayoffContendersNFLRickMirer,1993PlayoffContendersNFL,Rick Mirer,0
+1993PlayoffContendersNFLRookieContenders,1993PlayoffContendersNFL,Rookie Contenders,0
 1993PlayoffNFLBase,1993PlayoffNFL,Base,1
 1993PlayoffNFLBrettFavre,1993PlayoffNFL,Brett Favre,0
 1993PlayoffNFLChecklists,1993PlayoffNFL,Checklists,0
@@ -316,16 +318,15 @@
 1993PlayoffNFLPromoInserts,1993PlayoffNFL,Promo Inserts,0
 1993PlayoffNFLRickyWatters,1993PlayoffNFL,Ricky Watters,0
 1993PlayoffNFLRookieRoundupRedemption,1993PlayoffNFL,Rookie Roundup Redemption,0
-1993PlayoffContendersNFLBase,1993PlayoffContendersNFL,Base,1
-1993PlayoffContendersNFLRickMirer,1993PlayoffContendersNFL,Rick Mirer,0
-1993PlayoffContendersNFLRookieContenders,1993PlayoffContendersNFL,Rookie Contenders,0
 1993ProLineNFLBase,1993ProLineNFL,Base,1
 1993ProsetNFLAllRookies,1993ProsetNFL,All Rookies,0
 1993ProsetNFLBase,1993ProsetNFL,Base,1
 1993ProsetNFLCollegeConnections,1993ProsetNFL,College Connections,0
 1993ProsetNFLRookieQuarterbacks,1993ProsetNFL,Rookie Quarterbacks,0
 1993ProsetNFLRookieRunningBacks,1993ProsetNFL,Rookie Running Backs,0
-1993BowmanNFLBase,1993BowmanNFL,Base,1
+1993ScoreNFLBase,1993ScoreNFL,Base,1
+1993ScoreNFLDreamTeam,1993ScoreNFL,Dream Team,0
+1993ScoreNFLFranchise,1993ScoreNFL,Franchise,0
 1993StadiumClubNFLBase,1993StadiumClubNFL,Base,1
 1993StadiumClubNFLFirstDayIssue,1993StadiumClubNFL,First Day Issue,0
 1993StadiumClubNFLMasterPhotosI,1993StadiumClubNFL,Master Photos I,0
@@ -337,6 +338,13 @@
 1993ToppsNFLBase,1993ToppsNFL,Base,1
 1993ToppsNFLBlackGold,1993ToppsNFL,Black Gold,0
 1993ToppsNFLGold,1993ToppsNFL,Gold,0
+1993UltraNFLAwardWinners,1993UltraNFL,Award Winners,0
+1993UltraNFLBase,1993UltraNFL,Base,1
+1993UltraNFLLeagueLeaders,1993UltraNFL,League Leaders,0
+1993UltraNFLMichaelIrvin,1993UltraNFL,Michael Irvin,0
+1993UltraNFLRookies,1993UltraNFL,Rookies,0
+1993UltraNFLStars,1993UltraNFL,Stars,0
+1993UltraNFLTouchdownKings,1993UltraNFL,Touchdown Kings,0
 1993UpperDeckNFLAmerica'sTeam,1993UpperDeckNFL,America's Team,0
 1993UpperDeckNFLBase,1993UpperDeckNFL,Base,1
 1993UpperDeckNFLFutureHeroes,1993UpperDeckNFL,Future Heroes,0
@@ -361,6 +369,7 @@
 1994ActionPackedNFLQuarterbackChallenge,1994ActionPackedNFL,Quarterback Challenge,0
 1994ActionPackedNFLQuarterbackClub,1994ActionPackedNFL,Quarterback Club,0
 1994ActionPackedNFLWarpSpeed,1994ActionPackedNFL,Warp Speed,0
+1994BowmanNFLBase,1994BowmanNFL,Base,1
 1994CollectorsEdgeNFLBase,1994CollectorsEdgeNFL,Base,1
 1994CollectorsEdgeNFLBossRookies,1994CollectorsEdgeNFL,Boss Rookies,0
 1994CollectorsEdgeNFLBossRookiesUpdateGreen,1994CollectorsEdgeNFL,Boss Rookies Update Green,0
@@ -373,12 +382,11 @@
 1994FleerNFLJeromeBettis,1994FleerNFL,Jerome Bettis,0
 1994FleerNFLLeagueLeaders,1994FleerNFL,League Leaders,0
 1994FleerNFLLivingLegends,1994FleerNFL,Living Legends,0
-1994FleerNFLProVisions,1994FleerNFL,Pro Visions,0
 1994FleerNFLProspects,1994FleerNFL,Prospects,0
+1994FleerNFLProVisions,1994FleerNFL,Pro Visions,0
 1994FleerNFLRookieExchange,1994FleerNFL,Rookie Exchange,0
 1994FleerNFLRookieSensations,1994FleerNFL,Rookie Sensations,0
 1994FleerNFLScoringMachines,1994FleerNFL,Scoring Machines,0
-1994UltraNFLBase,1994UltraNFL,Base,1
 1994PacificNFLBase,1994PacificNFL,Base,1
 1994PacificNFLCrystaline,1994PacificNFL,Crystaline,0
 1994PacificNFLGemsoftheCrown,1994PacificNFL,Gems of the Crown,0
@@ -391,40 +399,40 @@
 1994PinnacleNFLPickPinnacle,1994PinnacleNFL,Pick Pinnacle,0
 1994PinnacleNFLTeamPinnacle,1994PinnacleNFL,Team Pinnacle,0
 1994PinnacleNFLTrophyCollection,1994PinnacleNFL,Trophy Collection,0
-1994ScoreNFLBase,1994ScoreNFL,Base,1
 1994PlayoffNFLBase,1994PlayoffNFL,Base,1
-1994BowmanNFLBase,1994BowmanNFL,Base,1
+1994ScoreNFLBase,1994ScoreNFL,Base,1
 1994StadiumClubNFLBase,1994StadiumClubNFL,Base,1
-1994ToppsNFLBase,1994ToppsNFL,Base,1
 1994ToppsFinestNFLBase,1994ToppsFinestNFL,Base,1
 1994ToppsFinestNFLRefractors,1994ToppsFinestNFL,Refractors,0
 1994ToppsFinestNFLRookieJumbos,1994ToppsFinestNFL,Rookie Jumbos,0
+1994ToppsNFLBase,1994ToppsNFL,Base,1
+1994UltraNFLBase,1994UltraNFL,Base,1
 1994UpperDeckCollectorsChoiceNFLBase,1994UpperDeckCollectorsChoiceNFL,Base,1
 1995CollectorsEdgeNFLBase,1995CollectorsEdgeNFL,Base,1
 1995PacificNFLBase,1995PacificNFL,Base,1
 1995PacificNFLSuperBowls,1995PacificNFL,Super Bowls,0
 1995ScoreNFLBase,1995ScoreNFL,Base,1
 1995SkyboxImpactNFLBase,1995SkyboxImpactNFL,Base,1
+1995SPNFLBase,1995SPNFL,Base,1
+1995SPNFLPremiereProspects,1995SPNFL,Premiere Prospects,0
 1995ToppsNFLBase,1995ToppsNFL,Base,1
 1995ToppsNFLProfiles,1995ToppsNFL,Profiles,0
 1995ToppsNFLProfilesbySteveYoung,1995ToppsNFL,Profiles by Steve Young,0
-1995SPNFLBase,1995SPNFL,Base,1
-1995SPNFLPremiereProspects,1995SPNFL,Premiere Prospects,0
-1996PlayoffNFLBase,1996PlayoffNFL,Base,1
 1996PacificNFLBase,1996PacificNFL,Base,1
+1996PlayoffNFLBase,1996PlayoffNFL,Base,1
 1996PlayoffNFLBlue,1996PlayoffNFL,Blue,0
 1996PlayoffNFLGreen,1996PlayoffNFL,Green,0
 1996PlayoffNFLGrey,1996PlayoffNFL,Grey,0
+1996PlayoffNFLLeatherbound,1996PlayoffNFL,Leatherbound,0
 1996StadiumClubNFLBase,1996StadiumClubNFL,Base,1
+1996ToppsGiltEdgeNFLBase,1996ToppsGiltEdgeNFL,Base,1
 1996ToppsNFLBase,1996ToppsNFL,Base,1
 1996ToppsNFLBroadwaysReview,1996ToppsNFL,Broadways Review,0
 1996ToppsNFLGamebill,1996ToppsNFL,Gamebill,0
 1996ToppsNFLReplicas,1996ToppsNFL,Replicas,0
 1996ToppsNFLThrowbacks,1996ToppsNFL,Throwbacks,0
-1996ToppsGiltEdgeNFLBase,1996ToppsGiltEdgeNFL,Base,1
 1996UpperDeckCollectorsChoiceNFLBase,1996UpperDeckCollectorsChoiceNFL,Base,1
 1996UpperDeckCollectorsChoiceNFLMVP,1996UpperDeckCollectorsChoiceNFL,MVP,0
-1997UpperDeckCollectorsChoiceNFLBase,1997UpperDeckCollectorsChoiceNFL,Base,1
 1997PacificNFLBase,1997PacificNFL,Base,1
 1997PlayoffNFLBase,1997PlayoffNFL,Base,1
 1997PlayoffNFLFrenzy,1997PlayoffNFL,Frenzy,0
@@ -432,35 +440,22 @@
 1997PlayoffNFLPrimeTarget,1997PlayoffNFL,Prime Target,0
 1997ToppsNFLBase,1997ToppsNFL,Base,1
 1997ToppsNFLHallofFame,1997ToppsNFL,Hall of Fame,0
+1997UpperDeckCollectorsChoiceNFLBase,1997UpperDeckCollectorsChoiceNFL,Base,1
 1998PacificRevolutionNFLBase,1998PacificRevolutionNFL,Base,1
 1998ToppsNFLBase,1998ToppsNFL,Base,1
 1998UpperDeckNFLBase,1998UpperDeckNFL,Base,1
-1999PressPassNCAAFAutographs,1999PressPassNCAAF,Autographs,0
-1999PressPassNCAAFBase,1999PressPassNCAAF,Base,1
-1999CollectorsEdgeNFLBase,1999CollectorsEdgeNFL,Base,1
-1999ScoreNFLBase,1999ScoreNFL,Base,1
-1999FleerMystiqueNFLBase,1999FleerMystiqueNFL,Base,1
-1999SportsIllustratedNFLAutographCollection,1999SportsIllustratedNFL,Autograph Collection,0
-1999SportsIllustratedNFLBase,1999SportsIllustratedNFL,Base,1
-1999SkyboxPremiumNFLBase,1999SkyboxPremiumNFL,Base,1
 1999BowmansBestNFLBase,1999BowmansBestNFL,Base,1
 1999BowmansBestNFLRefractors,1999BowmansBestNFL,Refractors,0
-1999ToppsNFLBase,1999ToppsNFL,Base,1
+1999CollectorsEdgeNFLBase,1999CollectorsEdgeNFL,Base,1
+1999FleerMystiqueNFLBase,1999FleerMystiqueNFL,Base,1
+1999PressPassNCAAFAutographs,1999PressPassNCAAF,Autographs,0
+1999PressPassNCAAFBase,1999PressPassNCAAF,Base,1
+1999ScoreNFLBase,1999ScoreNFL,Base,1
+1999SkyboxPremiumNFLBase,1999SkyboxPremiumNFL,Base,1
+1999SportsIllustratedNFLAutographCollection,1999SportsIllustratedNFL,Autograph Collection,0
+1999SportsIllustratedNFLBase,1999SportsIllustratedNFL,Base,1
 1999SPSignatureEditionNFLBase,1999SPSignatureEditionNFL,Base,1
-2000PressPassNCAAFAuthentics,2000PressPassNCAAF,Authentics,0
-2000PressPassNCAAFBase,2000PressPassNCAAF,Base,1
-2000CollectorsEdgeNFLBase,2000CollectorsEdgeNFL,Base,1
-2000CollectorsEdgeOdysseyNFLBase,2000CollectorsEdgeOdysseyNFL,Base,1
-2000CollectorsEdgeT3NFLBase,2000CollectorsEdgeT3NFL,Base,1
-2000DonrussNFLTouchdownKing,2000DonrussNFL,Touchdown King,0
-2000LeafQuantumNFLBase,2000LeafQuantumNFL,Base,1
-2000LeafRookiesandStarsNFLBase,2000LeafRookiesandStarsNFL,Base,1
-2000ScoreNFLBase,2000ScoreNFL,Base,1
-2000FleerNFLAuthenticAutograph,2000FleerNFL,Authentic Autograph,0
-2000FleerNFLAutographics,2000FleerNFL,Autographics,0
-2000FleerNFLBase,2000FleerNFL,Base,1
-2000FleerNFLGreatsoftheGame,2000FleerNFL,Greats of the Game,0
-2000PacificNFLBase,2000PacificNFL,Base,1
+1999ToppsNFLBase,1999ToppsNFL,Base,1
 2000BowmanNFLAutographs,2000BowmanNFL,Autographs,0
 2000BowmanNFLBase,2000BowmanNFL,Base,1
 2000BowmanNFLBreakthroughDiscoveries,2000BowmanNFL,Breakthrough Discoveries,0
@@ -468,21 +463,34 @@
 2000BowmanNFLRookieRising,2000BowmanNFL,Rookie Rising,0
 2000BowmanNFLScoutsChoice,2000BowmanNFL,Scouts Choice,0
 2000BowmansBestNFLBase,2000BowmansBestNFL,Base,1
+2000CollectorsEdgeNFLBase,2000CollectorsEdgeNFL,Base,1
+2000CollectorsEdgeOdysseyNFLBase,2000CollectorsEdgeOdysseyNFL,Base,1
+2000CollectorsEdgeT3NFLBase,2000CollectorsEdgeT3NFL,Base,1
+2000DonrussNFLTouchdownKing,2000DonrussNFL,Touchdown King,0
+2000FleerNFLAuthenticAutograph,2000FleerNFL,Authentic Autograph,0
+2000FleerNFLAutographics,2000FleerNFL,Autographics,0
+2000FleerNFLBase,2000FleerNFL,Base,1
+2000FleerNFLGreatsoftheGame,2000FleerNFL,Greats of the Game,0
+2000LeafQuantumNFLBase,2000LeafQuantumNFL,Base,1
+2000LeafRookiesandStarsNFLBase,2000LeafRookiesandStarsNFL,Base,1
+2000PacificNFLBase,2000PacificNFL,Base,1
+2000PressPassNCAAFAuthentics,2000PressPassNCAAF,Authentics,0
+2000PressPassNCAAFBase,2000PressPassNCAAF,Base,1
+2000ScoreNFLBase,2000ScoreNFL,Base,1
 2000StadiumClubNFLBase,2000StadiumClubNFL,Base,1
 2000ToppsNFLBase,2000ToppsNFL,Base,1
+2000UpperDeckLegendsNFLBase,2000UpperDeckLegendsNFL,Base,1
 2000UpperDeckNFLBase,2000UpperDeckNFL,Base,1
 2000UpperDeckNFLProsandProspects,2000UpperDeckNFL,Pros and Prospects,0
-2000UpperDeckLegendsNFLBase,2000UpperDeckLegendsNFL,Base,1
 2000UpperDeckVictoryNFLBase,2000UpperDeckVictoryNFL,Base,1
-2001ScoreNFLBase,2001ScoreNFL,Base,1
-2001PacificNFLBase,2001PacificNFL,Base,1
 2001PacificInvincibleNFLBase,2001PacificInvincibleNFL,Base,1
+2001PacificNFLBase,2001PacificNFL,Base,1
+2001ScoreNFLBase,2001ScoreNFL,Base,1
 2001StadiumClubNFLAllProJerseys,2001StadiumClubNFL,All Pro Jerseys,0
 2001StadiumClubNFLBase,2001StadiumClubNFL,Base,1
 2001StadiumClubNFLHighlightReels,2001StadiumClubNFL,Highlight Reels,0
 2001StadiumClubNFLInFocus,2001StadiumClubNFL,In Focus,0
 2001StadiumClubNFLSteppingUp,2001StadiumClubNFL,Stepping Up,0
-2001ToppsNFLBase,2001ToppsNFL,Base,1
 2001ToppsArchivesNFLBase,2001ToppsArchivesNFL,Base,1
 2001ToppsArchivesNFLReserve,2001ToppsArchivesNFL,Reserve,0
 2001ToppsGalleryNFLBase,2001ToppsGalleryNFL,Base,1
@@ -492,22 +500,23 @@
 2001ToppsHeritageNFLClassicRenditions,2001ToppsHeritageNFL,Classic Renditions,0
 2001ToppsHeritageNFLNewAgePerformers,2001ToppsHeritageNFL,New Age Performers,0
 2001ToppsHeritageNFLThen&Now,2001ToppsHeritageNFL,Then & Now,0
-2001UpperDeckNFLBase,2001UpperDeckNFL,Base,1
+2001ToppsNFLBase,2001ToppsNFL,Base,1
 2001UpperDeckLegendsNFLBase,2001UpperDeckLegendsNFL,Base,1
+2001UpperDeckNFLBase,2001UpperDeckNFL,Base,1
 2001UpperDeckVictoryNFLBase,2001UpperDeckVictoryNFL,Base,1
+2002AdrenalineNFLBase,2002AdrenalineNFL,Base,1
+2002BowmanNFLBase,2002BowmanNFL,Base,1
+2002BowmanNFLRookieFlashbackJersey,2002BowmanNFL,Rookie Flashback Jersey,0
 2002LeafCertifiedMaterialsNFLBase,2002LeafCertifiedMaterialsNFL,Base,1
 2002LeafCertifiedMaterialsNFLFabricoftheGameTeamLogo,2002LeafCertifiedMaterialsNFL,Fabric of the Game Team Logo,0
 2002LeafCertifiedMaterialsNFLGold,2002LeafCertifiedMaterialsNFL,Gold,0
 2002LeafCertifiedMaterialsNFLMirrorGoldFabrics,2002LeafCertifiedMaterialsNFL,Mirror Gold Fabrics,0
 2002LeafRookiesandStarsNFLBase,2002LeafRookiesandStarsNFL,Base,1
+2002PacificPrivateStockNFLBase,2002PacificPrivateStockNFL,Base,1
 2002PlayoffPrestigeNFLBannerSeasons,2002PlayoffPrestigeNFL,Banner Seasons,0
 2002PlayoffPrestigeNFLBase,2002PlayoffPrestigeNFL,Base,1
 2002ScoreNFLBase,2002ScoreNFL,Base,1
-2002AdrenalineNFLBase,2002AdrenalineNFL,Base,1
-2002PacificPrivateStockNFLBase,2002PacificPrivateStockNFL,Base,1
-2002BowmanNFLBase,2002BowmanNFL,Base,1
-2002BowmanNFLRookieFlashbackJersey,2002BowmanNFL,Rookie Flashback Jersey,0
-2002ToppsNFLBase,2002ToppsNFL,Base,1
+2002SPAuthenticNFLBase,2002SPAuthenticNFL,Base,1
 2002ToppsHeritageNFLBase,2002ToppsHeritageNFL,Base,1
 2002ToppsHeritageNFLBlackBack,2002ToppsHeritageNFL,Black Back,0
 2002ToppsHeritageNFLClassicRenditions,2002ToppsHeritageNFL,Classic Renditions,0
@@ -515,35 +524,47 @@
 2002ToppsHeritageNFLNewAgePerformers,2002ToppsHeritageNFL,New Age Performers,0
 2002ToppsHeritageNFLRefractors,2002ToppsHeritageNFL,Refractors,0
 2002ToppsHeritageNFLReprints,2002ToppsHeritageNFL,Reprints,0
-2002SPAuthenticNFLBase,2002SPAuthenticNFL,Base,1
+2002ToppsNFLBase,2002ToppsNFL,Base,1
 2002UpperDeckNFLBase,2002UpperDeckNFL,Base,1
+2003BowmanChromeNFLBase,2003BowmanChromeNFL,Base,1
+2003BowmanNFLBase,2003BowmanNFL,Base,1
 2003DonrussClassicsNFLBase,2003DonrussClassicsNFL,Base,1
 2003DonrussClassicsNFLSignificantSignatures,2003DonrussClassicsNFL,Significant Signatures,0
 2003DonrussEliteNFLBacktotheFuture,2003DonrussEliteNFL,Back to the Future,0
 2003DonrussEliteNFLBase,2003DonrussEliteNFL,Base,1
 2003DonrussEliteNFLPassingtheTorch,2003DonrussEliteNFL,Passing the Torch,0
+2003FleerPlatinumNFLBase,2003FleerPlatinumNFL,Base,1
+2003FleerTraditionNFLBase,2003FleerTraditionNFL,Base,1
 2003LeafRookiesandStarsNFLBase,2003LeafRookiesandStarsNFL,Base,1
 2003ScoreNFLBase,2003ScoreNFL,Base,1
 2003ScoreNFLNumberGame,2003ScoreNFL,Number Game,0
 2003ScoreNFLReflextions,2003ScoreNFL,Reflextions,0
 2003ScoreNFLTheFranchise,2003ScoreNFL,The Franchise,0
-2003FleerPlatinumNFLBase,2003FleerPlatinumNFL,Base,1
-2003FleerTraditionNFLBase,2003FleerTraditionNFL,Base,1
-2003BowmanNFLBase,2003BowmanNFL,Base,1
-2003BowmanChromeNFLBase,2003BowmanChromeNFL,Base,1
-2003ToppsNFLBase,2003ToppsNFL,Base,1
 2003SPAuthenticNFLBase,2003SPAuthenticNFL,Base,1
 2003SPAuthenticNFLStarStatus,2003SPAuthenticNFL,Star Status,0
 2003SPAuthenticNFLTripleThreads,2003SPAuthenticNFL,Triple Threads,0
+2003ToppsNFLBase,2003ToppsNFL,Base,1
 2003UpperDeckNFLBase,2003UpperDeckNFL,Base,1
 2003UpperDeckNFLGameJerseys,2003UpperDeckNFL,Game Jerseys,0
 2003UpperDeckNFLPowerSurge,2003UpperDeckNFL,Power Surge,0
 2003UpperDeckNFLRookiePremiers,2003UpperDeckNFL,Rookie Premiers,0
 2003UpperDeckNFLSuperPowers,2003UpperDeckNFL,Super Powers,0
 2003UpperDeckProsandProspectsNFLBase,2003UpperDeckProsandProspectsNFL,Base,1
+2004BazookaNFLBase,2004BazookaNFL,Base,1
+2004BowmanChromeNFLBase,2004BowmanChromeNFL,Base,1
+2004BowmanChromeNFLUncirculatedRookies,2004BowmanChromeNFL,Uncirculated Rookies,0
+2004BowmanNFLBase,2004BowmanNFL,Base,1
+2004BowmanNFLChromeRefractors,2004BowmanNFL,Chrome Refractors,0
+2004BowmanNFLChromeXfractors,2004BowmanNFL,Chrome Xfractors,0
+2004BowmanNFLUncirculatedRookies,2004BowmanNFL,Uncirculated Rookies,0
 2004DonrussClassicsNFLBase,2004DonrussClassicsNFL,Base,1
 2004DonrussClassicsNFLSignificantSignaturesRed,2004DonrussClassicsNFL,Significant Signatures Red,0
 2004DonrussEliteNFLBase,2004DonrussEliteNFL,Base,1
+2004FleerInscribedNFLBase,2004FleerInscribedNFL,Base,1
+2004FleerPlatinumNFLBase,2004FleerPlatinumNFL,Base,1
+2004FleerPlatinumNFLFinish,2004FleerPlatinumNFL,Finish,0
+2004FleerTraditionNFLBase,2004FleerTraditionNFL,Base,1
+2004FleerTraditionNFLClassicCombinations,2004FleerTraditionNFL,Classic Combinations,0
 2004LeafCertifiedMaterialsNFLBase,2004LeafCertifiedMaterialsNFL,Base,1
 2004LeafCertifiedMaterialsNFLCertifiedPotentialRelics,2004LeafCertifiedMaterialsNFL,Certified Potential Relics,0
 2004LeafCertifiedMaterialsNFLFreshmanFabric,2004LeafCertifiedMaterialsNFL,Freshman Fabric,0
@@ -561,44 +582,45 @@
 2004PlayoffHoggHeavenNFLBase,2004PlayoffHoggHeavenNFL,Base,1
 2004PlayoffPrimeSignaturesNFLBase,2004PlayoffPrimeSignaturesNFL,Base,1
 2004PlayoffPrimeSignaturesNFLGold,2004PlayoffPrimeSignaturesNFL,Gold,0
-2004FleerInscribedNFLBase,2004FleerInscribedNFL,Base,1
-2004FleerPlatinumNFLBase,2004FleerPlatinumNFL,Base,1
-2004FleerPlatinumNFLFinish,2004FleerPlatinumNFL,Finish,0
-2004FleerTraditionNFLBase,2004FleerTraditionNFL,Base,1
-2004FleerTraditionNFLClassicCombinations,2004FleerTraditionNFL,Classic Combinations,0
-2004UltraNFLBase,2004UltraNFL,Base,1
-2004UltraNFLGold,2004UltraNFL,Gold,0
-2004BazookaNFLBase,2004BazookaNFL,Base,1
-2004BowmanNFLBase,2004BowmanNFL,Base,1
-2004BowmanNFLChromeRefractors,2004BowmanNFL,Chrome Refractors,0
-2004BowmanNFLChromeXfractors,2004BowmanNFL,Chrome Xfractors,0
-2004BowmanNFLUncirculatedRookies,2004BowmanNFL,Uncirculated Rookies,0
-2004BowmanChromeNFLBase,2004BowmanChromeNFL,Base,1
-2004BowmanChromeNFLUncirculatedRookies,2004BowmanChromeNFL,Uncirculated Rookies,0
-2004ToppsNFLBase,2004ToppsNFL,Base,1
-2004ToppsNFLGreyBorder,2004ToppsNFL,Grey Border,0
+2004SPAuthenticNFLAuthenticArtifacts,2004SPAuthenticNFL,Authentic Artifacts,0
+2004SPAuthenticNFLBase,2004SPAuthenticNFL,Base,1
+2004SPAuthenticNFLScriptsforSuccess,2004SPAuthenticNFL,Scripts for Success,0
 2004ToppsAllTimeFanFavoritesNFLBase,2004ToppsAllTimeFanFavoritesNFL,Base,1
 2004ToppsChromeNFLBase,2004ToppsChromeNFL,Base,1
 2004ToppsDraftPicksandProspectsNFLBase,2004ToppsDraftPicksandProspectsNFL,Base,1
 2004ToppsFinestNFLBase,2004ToppsFinestNFL,Base,1
+2004ToppsNFLBase,2004ToppsNFL,Base,1
+2004ToppsNFLGreyBorder,2004ToppsNFL,Grey Border,0
 2004ToppsTotalNFLAwardWinners,2004ToppsTotalNFL,Award Winners,0
 2004ToppsTotalNFLBase,2004ToppsTotalNFL,Base,1
 2004ToppsTotalNFLTeamChecklists,2004ToppsTotalNFL,Team Checklists,0
 2004ToppsTotalNFLTotalProduction,2004ToppsTotalNFL,Total Production,0
 2004ToppsTotalNFLTotalTopps,2004ToppsTotalNFL,Total Topps,0
-2004SPAuthenticNFLAuthenticArtifacts,2004SPAuthenticNFL,Authentic Artifacts,0
-2004SPAuthenticNFLBase,2004SPAuthenticNFL,Base,1
-2004SPAuthenticNFLScriptsforSuccess,2004SPAuthenticNFL,Scripts for Success,0
+2004UltraNFLBase,2004UltraNFL,Base,1
+2004UltraNFLGold,2004UltraNFL,Gold,0
+2004UpperDeckLegendsNFLBase,2004UpperDeckLegendsNFL,Base,1
 2004UpperDeckNFLBase,2004UpperDeckNFL,Base,1
 2004UpperDeckNFLFoundations,2004UpperDeckNFL,Foundations,0
 2004UpperDeckNFLLegendarySignatures,2004UpperDeckNFL,Legendary Signatures,0
 2004UpperDeckNFLRookieProspects,2004UpperDeckNFL,Rookie Prospects,0
 2004UpperDeckNFLRookieReviews,2004UpperDeckNFL,Rookie Reviews,0
-2004UpperDeckLegendsNFLBase,2004UpperDeckLegendsNFL,Base,1
 2004UpperDeckSweetSpotNFLBase,2004UpperDeckSweetSpotNFL,Base,1
-2005ToppsMLBBase,2005ToppsMLB,Base,1
-2005ToppsMLBUpdate,2005ToppsMLB,Update,0
-2005ToppsTotalNBABase,2005ToppsTotalNBA,Base,1
+2005BazookaNFLBase,2005BazookaNFL,Base,1
+2005BazookaNFLBlue,2005BazookaNFL,Blue,0
+2005BazookaNFLComics,2005BazookaNFL,Comics,0
+2005BazookaNFLGold,2005BazookaNFL,Gold,0
+2005BazookaNFLOriginals,2005BazookaNFL,Originals,0
+2005BazookaNFLRookieThreads,2005BazookaNFL,Rookie Threads,0
+2005BazookaNFLStickers,2005BazookaNFL,Stickers,0
+2005BazookaNFLWindowClings,2005BazookaNFL,Window Clings,0
+2005BeckettNFLBase,2005BeckettNFL,Base,1
+2005BowmanChromeNFLBase,2005BowmanChromeNFL,Base,1
+2005BowmanChromeNFLBlueRefractors,2005BowmanChromeNFL,Blue Refractors,0
+2005BowmanChromeNFLCyanPrintingPlates,2005BowmanChromeNFL,Cyan Printing Plates,0
+2005BowmanChromeNFLRedRefractors,2005BowmanChromeNFL,Red Refractors,0
+2005BowmanNFLBase,2005BowmanNFL,Base,1
+2005BowmanNFLBronzeBorder,2005BowmanNFL,Bronze Border,0
+2005BowmanNFLFabricoftheFuture,2005BowmanNFL,Fabric of the Future,0
 2005DonrussEliteNFLBase,2005DonrussEliteNFL,Base,1
 2005DonrussEliteNFLEliteSeries,2005DonrussEliteNFL,Elite Series,0
 2005DonrussThrowbackThreadsNFLAtomic,2005DonrussThrowbackThreadsNFL,Atomic,0
@@ -620,13 +642,6 @@
 2005LeafLimitedNFLRoundbyRound,2005LeafLimitedNFL,Round by Round,0
 2005LeafLimitedNFLSpotlight,2005LeafLimitedNFL,Spotlight,0
 2005LeafLimitedNFLTrademarks,2005LeafLimitedNFL,Trademarks,0
-2005LeafRookiesandStarsNFLBase,2005LeafRookiesandStarsNFL,Base,1
-2005LeafRookiesandStarsNFLCrusadeRed,2005LeafRookiesandStarsNFL,Crusade Red,0
-2005LeafRookiesandStarsNFLGreatAmericanHeros,2005LeafRookiesandStarsNFL,Great American Heros,0
-2005LeafRookiesandStarsNFLLongevityHolofoil,2005LeafRookiesandStarsNFL,Longevity Holofoil,0
-2005LeafRookiesandStarsNFLMasks,2005LeafRookiesandStarsNFL,Masks,0
-2005LeafRookiesandStarsNFLSlideshow,2005LeafRookiesandStarsNFL,Slideshow,0
-2005LeafRookiesandStarsNFLTicketmasters,2005LeafRookiesandStarsNFL,Ticketmasters,0
 2005LeafRookiesandStarsLongevityNFLBase,2005LeafRookiesandStarsLongevityNFL,Base,1
 2005LeafRookiesandStarsLongevityNFLBlack,2005LeafRookiesandStarsLongevityNFL,Black,0
 2005LeafRookiesandStarsLongevityNFLEmerald,2005LeafRookiesandStarsLongevityNFL,Emerald,0
@@ -636,6 +651,13 @@
 2005LeafRookiesandStarsLongevityNFLRubyJerseys,2005LeafRookiesandStarsLongevityNFL,Ruby Jerseys,0
 2005LeafRookiesandStarsLongevityNFLSapphire,2005LeafRookiesandStarsLongevityNFL,Sapphire,0
 2005LeafRookiesandStarsLongevityNFLSapphireJerseys,2005LeafRookiesandStarsLongevityNFL,Sapphire Jerseys,0
+2005LeafRookiesandStarsNFLBase,2005LeafRookiesandStarsNFL,Base,1
+2005LeafRookiesandStarsNFLCrusadeRed,2005LeafRookiesandStarsNFL,Crusade Red,0
+2005LeafRookiesandStarsNFLGreatAmericanHeros,2005LeafRookiesandStarsNFL,Great American Heros,0
+2005LeafRookiesandStarsNFLLongevityHolofoil,2005LeafRookiesandStarsNFL,Longevity Holofoil,0
+2005LeafRookiesandStarsNFLMasks,2005LeafRookiesandStarsNFL,Masks,0
+2005LeafRookiesandStarsNFLSlideshow,2005LeafRookiesandStarsNFL,Slideshow,0
+2005LeafRookiesandStarsNFLTicketmasters,2005LeafRookiesandStarsNFL,Ticketmasters,0
 2005PlayoffAbsoluteMemorabiliaNFLBase,2005PlayoffAbsoluteMemorabiliaNFL,Base,1
 2005PlayoffAbsoluteMemorabiliaNFLRetail,2005PlayoffAbsoluteMemorabiliaNFL,Retail,0
 2005PlayoffAbsoluteMemorabiliaNFLTeamTandems,2005PlayoffAbsoluteMemorabiliaNFL,Team Tandems,0
@@ -651,36 +673,11 @@
 2005PlayoffPrestigeNFLXtraPointsRefractorsPurple,2005PlayoffPrestigeNFL,Xtra Points Refractors Purple,0
 2005ScoreNFLBase,2005ScoreNFL,Base,1
 2005ScoreNFLScorecard,2005ScoreNFL,Scorecard,0
-2005UltraNFLBase,2005UltraNFL,Base,1
-2005UltraNFLGold,2005UltraNFL,Gold,0
-2005UltraNFLRoundedEdge,2005UltraNFL,Rounded Edge,0
-2005UltraNFLTDKings,2005UltraNFL,TD Kings,0
-2005BazookaNFLBase,2005BazookaNFL,Base,1
-2005BazookaNFLBlue,2005BazookaNFL,Blue,0
-2005BazookaNFLComics,2005BazookaNFL,Comics,0
-2005BazookaNFLGold,2005BazookaNFL,Gold,0
-2005BazookaNFLOriginals,2005BazookaNFL,Originals,0
-2005BazookaNFLRookieThreads,2005BazookaNFL,Rookie Threads,0
-2005BazookaNFLStickers,2005BazookaNFL,Stickers,0
-2005BazookaNFLWindowClings,2005BazookaNFL,Window Clings,0
-2005BeckettNFLBase,2005BeckettNFL,Base,1
-2005BowmanNFLBase,2005BowmanNFL,Base,1
-2005BowmanNFLBronzeBorder,2005BowmanNFL,Bronze Border,0
-2005BowmanNFLFabricoftheFuture,2005BowmanNFL,Fabric of the Future,0
-2005BowmanChromeNFLBase,2005BowmanChromeNFL,Base,1
-2005BowmanChromeNFLBlueRefractors,2005BowmanChromeNFL,Blue Refractors,0
-2005BowmanChromeNFLCyanPrintingPlates,2005BowmanChromeNFL,Cyan Printing Plates,0
-2005BowmanChromeNFLRedRefractors,2005BowmanChromeNFL,Red Refractors,0
-2005ToppsNFL50thAnniversaryRookies,2005ToppsNFL,50th Anniversary Rookies,0
-2005ToppsNFLBase,2005ToppsNFL,Base,1
-2005ToppsNFLBlackBorder,2005ToppsNFL,Black Border,0
-2005ToppsNFLGlisteningGold,2005ToppsNFL,Glistening Gold,0
-2005ToppsNFLGoldBorder,2005ToppsNFL,Gold Border,0
-2005ToppsNFLGoldNuggets,2005ToppsNFL,Gold Nuggets,0
-2005ToppsNFLGoldenAnniversary,2005ToppsNFL,Golden Anniversary,0
-2005ToppsNFLHiddenGold,2005ToppsNFL,Hidden Gold,0
-2005ToppsNFLRookieThrowbackJerseys,2005ToppsNFL,Rookie Throwback Jerseys,0
-2005ToppsNFLThrowbacks,2005ToppsNFL,Throwbacks,0
+2005SPAuthenticNFLBase,2005SPAuthenticNFL,Base,1
+2005SPAuthenticNFLRookieAuthentics,2005SPAuthenticNFL,Rookie Authentics,0
+2005SPAuthenticNFLScriptsforSuccess,2005SPAuthenticNFL,Scripts for Success,0
+2005SPAuthenticNFLSignoftheTimes,2005SPAuthenticNFL,Sign of the Times,0
+2005SPxNFLBase,2005SPxNFL,Base,1
 2005ToppsChromeNFLBase,2005ToppsChromeNFL,Base,1
 2005ToppsFinestNFLBase,2005ToppsFinestNFL,Base,1
 2005ToppsFinestNFLXFractors,2005ToppsFinestNFL,XFractors,0
@@ -693,6 +690,19 @@
 2005ToppsHeritageNFLRookiePremiere,2005ToppsHeritageNFL,Rookie Premiere,0
 2005ToppsHeritageNFLTHC,2005ToppsHeritageNFL,THC,0
 2005ToppsHeritageNFLThenandNow,2005ToppsHeritageNFL,Then and Now,0
+2005ToppsMLBBase,2005ToppsMLB,Base,1
+2005ToppsMLBUpdate,2005ToppsMLB,Update,0
+2005ToppsNFL50thAnniversaryRookies,2005ToppsNFL,50th Anniversary Rookies,0
+2005ToppsNFLBase,2005ToppsNFL,Base,1
+2005ToppsNFLBlackBorder,2005ToppsNFL,Black Border,0
+2005ToppsNFLGlisteningGold,2005ToppsNFL,Glistening Gold,0
+2005ToppsNFLGoldBorder,2005ToppsNFL,Gold Border,0
+2005ToppsNFLGoldenAnniversary,2005ToppsNFL,Golden Anniversary,0
+2005ToppsNFLGoldNuggets,2005ToppsNFL,Gold Nuggets,0
+2005ToppsNFLHiddenGold,2005ToppsNFL,Hidden Gold,0
+2005ToppsNFLRookieThrowbackJerseys,2005ToppsNFL,Rookie Throwback Jerseys,0
+2005ToppsNFLThrowbacks,2005ToppsNFL,Throwbacks,0
+2005ToppsTotalNBABase,2005ToppsTotalNBA,Base,1
 2005ToppsTotalNFLBase,2005ToppsTotalNFL,Base,1
 2005ToppsTotalNFLTotalProduction,2005ToppsTotalNFL,Total Production,0
 2005ToppsTotalNFLTotalTopps,2005ToppsTotalNFL,Total Topps,0
@@ -701,11 +711,14 @@
 2005ToppsTurkeyRedNFLJerseys,2005ToppsTurkeyRedNFL,Jerseys,0
 2005ToppsTurkeyRedNFLRed,2005ToppsTurkeyRedNFL,Red,0
 2005ToppsTurkeyRedNFLWhite,2005ToppsTurkeyRedNFL,White,0
-2005SPAuthenticNFLBase,2005SPAuthenticNFL,Base,1
-2005SPAuthenticNFLRookieAuthentics,2005SPAuthenticNFL,Rookie Authentics,0
-2005SPAuthenticNFLScriptsforSuccess,2005SPAuthenticNFL,Scripts for Success,0
-2005SPAuthenticNFLSignoftheTimes,2005SPAuthenticNFL,Sign of the Times,0
-2005SPxNFLBase,2005SPxNFL,Base,1
+2005UltraNFLBase,2005UltraNFL,Base,1
+2005UltraNFLGold,2005UltraNFL,Gold,0
+2005UltraNFLRoundedEdge,2005UltraNFL,Rounded Edge,0
+2005UltraNFLTDKings,2005UltraNFL,TD Kings,0
+2005UpperDeckESPNNFLBase,2005UpperDeckESPNNFL,Base,1
+2005UpperDeckKickoffNFLBase,2005UpperDeckKickoffNFL,Base,1
+2005UpperDeckLegendsNFLBase,2005UpperDeckLegendsNFL,Base,1
+2005UpperDeckLegendsNFLLegendarySignatures,2005UpperDeckLegendsNFL,Legendary Signatures,0
 2005UpperDeckNFLBase,2005UpperDeckNFL,Base,1
 2005UpperDeckNFLExclusives,2005UpperDeckNFL,Exclusives,0
 2005UpperDeckNFLFootballHeroes,2005UpperDeckNFL,Football Heroes,0
@@ -714,52 +727,31 @@
 2005UpperDeckNFLMVPPredictor,2005UpperDeckNFL,MVP Predictor,0
 2005UpperDeckNFLRookieFuturesJerseys,2005UpperDeckNFL,Rookie Futures Jerseys,0
 2005UpperDeckNFLRookieProspects,2005UpperDeckNFL,Rookie Prospects,0
-2005UpperDeckESPNNFLBase,2005UpperDeckESPNNFL,Base,1
-2005UpperDeckKickoffNFLBase,2005UpperDeckKickoffNFL,Base,1
-2005UpperDeckLegendsNFLBase,2005UpperDeckLegendsNFL,Base,1
-2005UpperDeckLegendsNFLLegendarySignatures,2005UpperDeckLegendsNFL,Legendary Signatures,0
 2005UpperDeckRookieMaterialsNFLBase,2005UpperDeckRookieMaterialsNFL,Base,1
 2005UpperDeckRookieMaterialsNFLIcons,2005UpperDeckRookieMaterialsNFL,Icons,0
 2005UpperDeckRookiePremiereNFLBase,2005UpperDeckRookiePremiereNFL,Base,1
 2005UpperDeckVictoryNHLBase,2005UpperDeckVictoryNHL,Base,1
-2006PressPassNCAAFA,2006PressPassNCAAF,A,0
-2006PressPassNCAAFAuthentics,2006PressPassNCAAF,Authentics,0
-2006PressPassNCAAFB,2006PressPassNCAAF,B,0
-2006PressPassNCAAFBase,2006PressPassNCAAF,Base,1
-2006PressPassNCAAFBigNumbers,2006PressPassNCAAF,Big Numbers,0
-2006PressPassNCAAFBlue,2006PressPassNCAAF,Blue,0
-2006PressPassNCAAFPaydirt,2006PressPassNCAAF,Paydirt,0
-2006PressPassNCAAFPowerPick,2006PressPassNCAAF,Power Pick,0
-2006PressPassNCAAFTeammatesAutograph,2006PressPassNCAAF,Teammates Autograph,0
-2006PressPassLegendsNCAAFAutographs,2006PressPassLegendsNCAAF,Autographs,0
-2006PressPassLegendsNCAAFBase,2006PressPassLegendsNCAAF,Base,1
-2006PressPassLegendsNCAAFBronze,2006PressPassLegendsNCAAF,Bronze,0
-2006PressPassLegendsNCAAFGold,2006PressPassLegendsNCAAF,Gold,0
-2006PressPassLegendsNCAAFLegendaryLegacy,2006PressPassLegendsNCAAF,Legendary Legacy,0
-2006PressPassLegendsNCAAFSaturdaySwatches,2006PressPassLegendsNCAAF,Saturday Swatches,0
-2006PressPassLegendsNCAAFSilver,2006PressPassLegendsNCAAF,Silver,0
-2006PressPassSENCAAFAuthentics,2006PressPassSENCAAF,Authentics,0
-2006PressPassSENCAAFBase,2006PressPassSENCAAF,Base,1
-2006PressPassSENCAAFClassof2006,2006PressPassSENCAAF,Class of 2006,0
-2006PressPassSENCAAFGold,2006PressPassSENCAAF,Gold,0
-2006PressPassSENCAAFOldSchool,2006PressPassSENCAAF,Old School,0
 2006AspireNCAAF5Star,2006AspireNCAAF,5 Star,0
 2006AspireNCAAFAutographs,2006AspireNCAAF,Autographs,0
 2006AspireNCAAFBase,2006AspireNCAAF,Base,1
-2006SageGameExclusivesNCAAFAuthenticAutographsBronze,2006SageGameExclusivesNCAAF,Authentic Autographs Bronze,0
-2006SageGameExclusivesNCAAFAuthenticJerseys,2006SageGameExclusivesNCAAF,Authentic Jerseys,0
-2006SageGameExclusivesNCAAFBase,2006SageGameExclusivesNCAAF,Base,1
-2006SageGameExclusivesNCAAFCGBronze,2006SageGameExclusivesNCAAF,CG Bronze,0
-2006SageGameExclusivesNCAAFMattLeinartSilver,2006SageGameExclusivesNCAAF,Matt Leinart Silver,0
-2006SageGameExclusivesNCAAFReggieBushBronze,2006SageGameExclusivesNCAAF,Reggie Bush Bronze,0
-2006SageGameExclusivesNCAAFVinceYoungBronze,2006SageGameExclusivesNCAAF,Vince Young Bronze,0
-2006SageHitNCAAFAuthenticAutographsBlue,2006SageHitNCAAF,Authentic Autographs Blue,0
-2006SageHitNCAAFAuthenticAutographsGold,2006SageHitNCAAF,Authentic Autographs Gold,0
-2006SageHitNCAAFAuthenticAutographsSilver,2006SageHitNCAAF,Authentic Autographs Silver,0
-2006SageHitNCAAFAuthenticJerseys,2006SageHitNCAAF,Authentic Jerseys,0
-2006SageHitNCAAFBase,2006SageHitNCAAF,Base,1
-2006SageHitNCAAFDesignforSuccess,2006SageHitNCAAF,Design for Success,0
-2006SageHitNCAAFTheWriteStuff,2006SageHitNCAAF,The Write Stuff,0
+2006BowmanChromeNFLBase,2006BowmanChromeNFL,Base,1
+2006BowmanChromeNFLOwntheGame,2006BowmanChromeNFL,Own the Game,0
+2006BowmanChromeNFLRefractors,2006BowmanChromeNFL,Refractors,0
+2006BowmanNFLBase,2006BowmanNFL,Base,1
+2006BowmanNFLBlue,2006BowmanNFL,Blue,0
+2006BowmanNFLGold,2006BowmanNFL,Gold,0
+2006BowmanSterlingNFLAutographs,2006BowmanSterlingNFL,Autographs,0
+2006BowmanSterlingNFLBase,2006BowmanSterlingNFL,Base,1
+2006BowmanSterlingNFLBlackRefractorAU,2006BowmanSterlingNFL,Black Refractor AU,0
+2006BowmanSterlingNFLDualAutographs,2006BowmanSterlingNFL,Dual Autographs,0
+2006BowmanSterlingNFLGoldRefractorAutographs,2006BowmanSterlingNFL,Gold Refractor Autographs,0
+2006BowmanSterlingNFLGoldRefractorJSYAU,2006BowmanSterlingNFL,Gold Refractor JSY AU,0
+2006BowmanSterlingNFLJerseyRefractors,2006BowmanSterlingNFL,Jersey Refractors,0
+2006BowmanSterlingNFLJerseys,2006BowmanSterlingNFL,Jerseys,0
+2006BowmanSterlingNFLJSYAU,2006BowmanSterlingNFL,JSY AU,0
+2006BowmanSterlingNFLRefractorAU,2006BowmanSterlingNFL,Refractor AU,0
+2006BowmanSterlingNFLRefractorJSYAU,2006BowmanSterlingNFL,Refractor JSY AU,0
+2006BowmanSterlingNFLRefractors,2006BowmanSterlingNFL,Refractors,0
 2006DonrussClassicsNFLAutographs,2006DonrussClassicsNFL,Autographs,0
 2006DonrussClassicsNFLBase,2006DonrussClassicsNFL,Base,1
 2006DonrussClassicsNFLClassicCombos,2006DonrussClassicsNFL,Classic Combos,0
@@ -816,6 +808,20 @@
 2006DonrussThreadsNFLHolograms,2006DonrussThreadsNFL,Holograms,0
 2006DonrussThreadsNFLJerseys,2006DonrussThreadsNFL,Jerseys,0
 2006DonrussThreadsNFLRookieCollectionJerseys,2006DonrussThreadsNFL,Rookie Collection Jerseys,0
+2006FlairNFLBase,2006FlairNFL,Base,1
+2006FlairNFLFieldLevelRookies,2006FlairNFL,Field Level Rookies,0
+2006FlairNFLFreshInk,2006FlairNFL,Fresh Ink,0
+2006FlairNFLHotNumbers,2006FlairNFL,Hot Numbers,0
+2006FlairNFLLuxurySuite,2006FlairNFL,Luxury Suite,0
+2006FlairNFLShowcaseStars,2006FlairNFL,Showcase Stars,0
+2006FlairNFLShowcaseStitches,2006FlairNFL,Showcase Stitches,0
+2006FleerHotProspectsNFLBase,2006FleerHotProspectsNFL,Base,1
+2006FleerNFLBase,2006FleerNFL,Base,1
+2006FleerNFLFabric,2006FleerNFL,Fabric,0
+2006FleerNFLFantasyStandouts,2006FleerNFL,Fantasy Standouts,0
+2006FleerNFLFreshFaces,2006FleerNFL,Fresh Faces,0
+2006FleerNFLSeekandDestroy,2006FleerNFL,Seek and Destroy,0
+2006FleerNFLTheFranchise,2006FleerNFL,The Franchise,0
 2006LeafCertifiedMaterialsNFLBase,2006LeafCertifiedMaterialsNFL,Base,1
 2006LeafCertifiedMaterialsNFLBlue,2006LeafCertifiedMaterialsNFL,Blue,0
 2006LeafCertifiedMaterialsNFLCertifiedPotential,2006LeafCertifiedMaterialsNFL,Certified Potential,0
@@ -883,36 +889,52 @@
 2006PlayoffPrestigeNFLStarsoftheNFL,2006PlayoffPrestigeNFL,Star sof the NFL,0
 2006PlayoffPrestigeNFLStarsoftheNFLJerseys,2006PlayoffPrestigeNFL,Stars of the NFL Jerseys,0
 2006PlayoffPrestigeNFLXtraPoints,2006PlayoffPrestigeNFL,Xtra Points,0
+2006PressPassLegendsNCAAFAutographs,2006PressPassLegendsNCAAF,Autographs,0
+2006PressPassLegendsNCAAFBase,2006PressPassLegendsNCAAF,Base,1
+2006PressPassLegendsNCAAFBronze,2006PressPassLegendsNCAAF,Bronze,0
+2006PressPassLegendsNCAAFGold,2006PressPassLegendsNCAAF,Gold,0
+2006PressPassLegendsNCAAFLegendaryLegacy,2006PressPassLegendsNCAAF,Legendary Legacy,0
+2006PressPassLegendsNCAAFSaturdaySwatches,2006PressPassLegendsNCAAF,Saturday Swatches,0
+2006PressPassLegendsNCAAFSilver,2006PressPassLegendsNCAAF,Silver,0
+2006PressPassNCAAFA,2006PressPassNCAAF,A,0
+2006PressPassNCAAFAuthentics,2006PressPassNCAAF,Authentics,0
+2006PressPassNCAAFB,2006PressPassNCAAF,B,0
+2006PressPassNCAAFBase,2006PressPassNCAAF,Base,1
+2006PressPassNCAAFBigNumbers,2006PressPassNCAAF,Big Numbers,0
+2006PressPassNCAAFBlue,2006PressPassNCAAF,Blue,0
+2006PressPassNCAAFPaydirt,2006PressPassNCAAF,Paydirt,0
+2006PressPassNCAAFPowerPick,2006PressPassNCAAF,Power Pick,0
+2006PressPassNCAAFTeammatesAutograph,2006PressPassNCAAF,Teammates Autograph,0
+2006PressPassSENCAAFAuthentics,2006PressPassSENCAAF,Authentics,0
+2006PressPassSENCAAFBase,2006PressPassSENCAAF,Base,1
+2006PressPassSENCAAFClassof2006,2006PressPassSENCAAF,Class of 2006,0
+2006PressPassSENCAAFGold,2006PressPassSENCAAF,Gold,0
+2006PressPassSENCAAFOldSchool,2006PressPassSENCAAF,Old School,0
+2006SageGameExclusivesNCAAFAuthenticAutographsBronze,2006SageGameExclusivesNCAAF,Authentic Autographs Bronze,0
+2006SageGameExclusivesNCAAFAuthenticJerseys,2006SageGameExclusivesNCAAF,Authentic Jerseys,0
+2006SageGameExclusivesNCAAFBase,2006SageGameExclusivesNCAAF,Base,1
+2006SageGameExclusivesNCAAFCGBronze,2006SageGameExclusivesNCAAF,CG Bronze,0
+2006SageGameExclusivesNCAAFMattLeinartSilver,2006SageGameExclusivesNCAAF,Matt Leinart Silver,0
+2006SageGameExclusivesNCAAFReggieBushBronze,2006SageGameExclusivesNCAAF,Reggie Bush Bronze,0
+2006SageGameExclusivesNCAAFVinceYoungBronze,2006SageGameExclusivesNCAAF,Vince Young Bronze,0
+2006SageHitNCAAFAuthenticAutographsBlue,2006SageHitNCAAF,Authentic Autographs Blue,0
+2006SageHitNCAAFAuthenticAutographsGold,2006SageHitNCAAF,Authentic Autographs Gold,0
+2006SageHitNCAAFAuthenticAutographsSilver,2006SageHitNCAAF,Authentic Autographs Silver,0
+2006SageHitNCAAFAuthenticJerseys,2006SageHitNCAAF,Authentic Jerseys,0
+2006SageHitNCAAFBase,2006SageHitNCAAF,Base,1
+2006SageHitNCAAFDesignforSuccess,2006SageHitNCAAF,Design for Success,0
+2006SageHitNCAAFTheWriteStuff,2006SageHitNCAAF,The Write Stuff,0
 2006ScoreNFLBase,2006ScoreNFL,Base,1
 2006ScoreNFLHotRookies,2006ScoreNFL,Hot Rookies,0
-2006BowmanNFLBase,2006BowmanNFL,Base,1
-2006BowmanNFLBlue,2006BowmanNFL,Blue,0
-2006BowmanNFLGold,2006BowmanNFL,Gold,0
-2006BowmanChromeNFLBase,2006BowmanChromeNFL,Base,1
-2006BowmanChromeNFLOwntheGame,2006BowmanChromeNFL,Own the Game,0
-2006BowmanChromeNFLRefractors,2006BowmanChromeNFL,Refractors,0
-2006BowmanSterlingNFLAutographs,2006BowmanSterlingNFL,Autographs,0
-2006BowmanSterlingNFLBase,2006BowmanSterlingNFL,Base,1
-2006BowmanSterlingNFLBlackRefractorAU,2006BowmanSterlingNFL,Black Refractor AU,0
-2006BowmanSterlingNFLDualAutographs,2006BowmanSterlingNFL,Dual Autographs,0
-2006BowmanSterlingNFLGoldRefractorAutographs,2006BowmanSterlingNFL,Gold Refractor Autographs,0
-2006BowmanSterlingNFLGoldRefractorJSYAU,2006BowmanSterlingNFL,Gold Refractor JSY AU,0
-2006BowmanSterlingNFLJerseyRefractors,2006BowmanSterlingNFL,Jersey Refractors,0
-2006BowmanSterlingNFLJerseys,2006BowmanSterlingNFL,Jerseys,0
-2006BowmanSterlingNFLJSYAU,2006BowmanSterlingNFL,JSY AU,0
-2006BowmanSterlingNFLRefractorAU,2006BowmanSterlingNFL,Refractor AU,0
-2006BowmanSterlingNFLRefractorJSYAU,2006BowmanSterlingNFL,Refractor JSY AU,0
-2006BowmanSterlingNFLRefractors,2006BowmanSterlingNFL,Refractors,0
-2006ToppsNFL83/06,2006ToppsNFL,83/06,0
-2006ToppsNFLBase,2006ToppsNFL,Base,1
-2006ToppsNFLGold,2006ToppsNFL,Gold,0
-2006ToppsNFLHallofFamers,2006ToppsNFL,Hall of Famers,0
-2006ToppsNFLHobbyMasters,2006ToppsNFL,Hobby Masters,0
-2006ToppsNFLMadden07,2006ToppsNFL,Madden 07,0
-2006ToppsNFLOwntheGame,2006ToppsNFL,Own the Game,0
-2006ToppsNFLRedHotRookies,2006ToppsNFL,Red Hot Rookies,0
-2006ToppsNFLToppsTrueChampions,2006ToppsNFL,Topps True Champions,0
-2006ToppsNFLTurnBacktheClock,2006ToppsNFL,Turn Back the Clock,0
+2006SPAuthenticNFLAutographs,2006SPAuthenticNFL,Autographs,0
+2006SPAuthenticNFLBase,2006SPAuthenticNFL,Base,1
+2006SPxNFLBase,2006SPxNFL,Base,1
+2006SPxNFLSPXcellence,2006SPxNFL,SPXcellence,0
+2006SPxNFLSPxcitingRookies,2006SPxNFL,Spxciting Rookies,0
+2006SPxNFLSPxclusives,2006SPxNFL,SPxclusives,0
+2006SPxNFLSuperScripts,2006SPxNFL,Super Scripts,0
+2006SPxNFLSwatchSupremacy,2006SPxNFL,Swatch Supremacy,0
+2006SPxNFLWinningMaterials,2006SPxNFL,Winning Materials,0
 2006ToppsChromeNFL8306,2006ToppsChromeNFL,8306,0
 2006ToppsChromeNFLBase,2006ToppsChromeNFL,Base,1
 2006ToppsChromeNFLHOF,2006ToppsChromeNFL,HOF,0
@@ -946,6 +968,16 @@
 2006ToppsHeritageNFLTHC,2006ToppsHeritageNFL,THC,0
 2006ToppsHeritageNFLTHCRefractors,2006ToppsHeritageNFL,THC Refractors,0
 2006ToppsHeritageNFLThenandNow,2006ToppsHeritageNFL,Then and Now,0
+2006ToppsNFL83/06,2006ToppsNFL,83/06,0
+2006ToppsNFLBase,2006ToppsNFL,Base,1
+2006ToppsNFLGold,2006ToppsNFL,Gold,0
+2006ToppsNFLHallofFamers,2006ToppsNFL,Hall of Famers,0
+2006ToppsNFLHobbyMasters,2006ToppsNFL,Hobby Masters,0
+2006ToppsNFLMadden07,2006ToppsNFL,Madden 07,0
+2006ToppsNFLOwntheGame,2006ToppsNFL,Own the Game,0
+2006ToppsNFLRedHotRookies,2006ToppsNFL,Red Hot Rookies,0
+2006ToppsNFLToppsTrueChampions,2006ToppsNFL,Topps True Champions,0
+2006ToppsNFLTurnBacktheClock,2006ToppsNFL,Turn Back the Clock,0
 2006ToppsTotalNFLBase,2006ToppsTotalNFL,Base,1
 2006ToppsTotalNFLBlueBorder,2006ToppsTotalNFL,Blue Border,0
 2006ToppsTotalNFLChecklists,2006ToppsTotalNFL,Checklists,0
@@ -963,29 +995,6 @@
 2006ToppsTurkeyRedNFLGold,2006ToppsTurkeyRedNFL,Gold,0
 2006ToppsTurkeyRedNFLJerseys,2006ToppsTurkeyRedNFL,Jerseys,0
 2006ToppsTurkeyRedNFLRed,2006ToppsTurkeyRedNFL,Red,0
-2006FlairNFLBase,2006FlairNFL,Base,1
-2006FlairNFLFieldLevelRookies,2006FlairNFL,Field Level Rookies,0
-2006FlairNFLFreshInk,2006FlairNFL,Fresh Ink,0
-2006FlairNFLHotNumbers,2006FlairNFL,Hot Numbers,0
-2006FlairNFLLuxurySuite,2006FlairNFL,Luxury Suite,0
-2006FlairNFLShowcaseStars,2006FlairNFL,Showcase Stars,0
-2006FlairNFLShowcaseStitches,2006FlairNFL,Showcase Stitches,0
-2006FleerNFLBase,2006FleerNFL,Base,1
-2006FleerNFLFabric,2006FleerNFL,Fabric,0
-2006FleerNFLFantasyStandouts,2006FleerNFL,Fantasy Standouts,0
-2006FleerNFLFreshFaces,2006FleerNFL,Fresh Faces,0
-2006FleerNFLSeekandDestroy,2006FleerNFL,Seek and Destroy,0
-2006FleerNFLTheFranchise,2006FleerNFL,The Franchise,0
-2006FleerHotProspectsNFLBase,2006FleerHotProspectsNFL,Base,1
-2006SPAuthenticNFLAutographs,2006SPAuthenticNFL,Autographs,0
-2006SPAuthenticNFLBase,2006SPAuthenticNFL,Base,1
-2006SPxNFLBase,2006SPxNFL,Base,1
-2006SPxNFLSPXcellence,2006SPxNFL,SPXcellence,0
-2006SPxNFLSPxcitingRookies,2006SPxNFL,Spxciting Rookies,0
-2006SPxNFLSPxclusives,2006SPxNFL,SPxclusives,0
-2006SPxNFLSuperScripts,2006SPxNFL,Super Scripts,0
-2006SPxNFLSwatchSupremacy,2006SPxNFL,Swatch Supremacy,0
-2006SPxNFLWinningMaterials,2006SPxNFL,Winning Materials,0
 2006UltraNFLAutographs,2006UltraNFL,Autographs,0
 2006UltraNFLAwardWinnersJersey,2006UltraNFL,Award Winners Jersey,0
 2006UltraNFLBase,2006UltraNFL,Base,1
@@ -997,11 +1006,6 @@
 2006UltraNFLSoaringKings,2006UltraNFL,Soaring Kings,0
 2006UltraNFLUltraStars,2006UltraNFL,Ultra Stars,0
 2006UltraNFLUltraStarsJerseys,2006UltraNFL,Ultra Stars Jerseys,0
-2006UpperDeckNFLAllUpperDeckTeam,2006UpperDeckNFL,All Upper Deck Team,0
-2006UpperDeckNFLBase,2006UpperDeckNFL,Base,1
-2006UpperDeckNFLFootballHereos,2006UpperDeckNFL,Football Hereos,0
-2006UpperDeckNFLGameJerseys,2006UpperDeckNFL,Game Jerseys,0
-2006UpperDeckNFLRookieFuturesJerseys,2006UpperDeckNFL,Rookie Futures Jerseys,0
 2006UpperDeckExquisiteNFLBase,2006UpperDeckExquisiteNFL,Base,1
 2006UpperDeckExquisiteNFLExquisitePatches,2006UpperDeckExquisiteNFL,Exquisite Patches,0
 2006UpperDeckExquisiteNFLMaximumJersey,2006UpperDeckExquisiteNFL,Maximum Jersey,0
@@ -1009,6 +1013,11 @@
 2006UpperDeckExquisiteNFLSignatureSwatches,2006UpperDeckExquisiteNFL,Signature Swatches,0
 2006UpperDeckLegendsNFLAutographs,2006UpperDeckLegendsNFL,Autographs,0
 2006UpperDeckLegendsNFLBase,2006UpperDeckLegendsNFL,Base,1
+2006UpperDeckNFLAllUpperDeckTeam,2006UpperDeckNFL,All Upper Deck Team,0
+2006UpperDeckNFLBase,2006UpperDeckNFL,Base,1
+2006UpperDeckNFLFootballHereos,2006UpperDeckNFL,Football Hereos,0
+2006UpperDeckNFLGameJerseys,2006UpperDeckNFL,Game Jerseys,0
+2006UpperDeckNFLRookieFuturesJerseys,2006UpperDeckNFL,Rookie Futures Jerseys,0
 2006UpperDeckRookieDebutNFL2ndRound,2006UpperDeckRookieDebutNFL,2nd Round,0
 2006UpperDeckRookieDebutNFLBase,2006UpperDeckRookieDebutNFL,Base,1
 2006UpperDeckRookieDebutNFLFutureStarMaterials,2006UpperDeckRookieDebutNFL,Future Star Materials,0
@@ -1020,39 +1029,23 @@
 2006UpperDeckRookieDebutNFLSignatures,2006UpperDeckRookieDebutNFL,Signatures,0
 2006UpperDeckRookieDebutNFLStarMaterials,2006UpperDeckRookieDebutNFL,Star Materials,0
 2006UpperDeckSweetSpotNFLBase,2006UpperDeckSweetSpotNFL,Base,1
-2007PressPassLegendsNCAABBAutographs,2007PressPassLegendsNCAABB,Autographs,0
-2007PressPassLegendsNCAABBBase,2007PressPassLegendsNCAABB,Base,1
-2007PressPassNCAAFAllAmerican,2007PressPassNCAAF,All American,0
-2007PressPassNCAAFBase,2007PressPassNCAAF,Base,1
-2007PressPassNCAAFNCAALeaders,2007PressPassNCAAF,NCAA Leaders,0
-2007PressPassNCAAFNCAALeadersRefractors,2007PressPassNCAAF,NCAA Leaders Refractors,0
-2007PressPassNCAAFPrimetimePlayers,2007PressPassNCAAF,Primetime Players,0
-2007PressPassNCAAFReflectors,2007PressPassNCAAF,Reflectors,0
-2007PressPassNCAAFReflectorsRefractors,2007PressPassNCAAF,Reflectors Refractors,0
-2007PressPassNCAAFSophomoreSensations,2007PressPassNCAAF,Sophomore Sensations,0
-2007PressPassNCAAFSophomoreSensationsReflectors,2007PressPassNCAAF,Sophomore Sensations Reflectors,0
-2007PressPassNCAAFTeammates,2007PressPassNCAAF,Teammates,0
-2007PressPassNCAAFTeammatesReflectors,2007PressPassNCAAF,Teammates Reflectors,0
-2007PressPassNCAAFTrophyClub,2007PressPassNCAAF,Trophy Club,0
-2007PressPassLegendsNCAAFAllConference,2007PressPassLegendsNCAAF,All Conference,0
-2007PressPassLegendsNCAAFAllConferenceAutographs,2007PressPassLegendsNCAAF,All Conference Autographs,0
-2007PressPassLegendsNCAAFAllConferenceAutographsRed,2007PressPassLegendsNCAAF,All Conference Autographs Red,0
-2007PressPassLegendsNCAAFAlumniAssociation,2007PressPassLegendsNCAAF,Alumni Association,0
-2007PressPassLegendsNCAAFAutographs,2007PressPassLegendsNCAAF,Autographs,0
-2007PressPassLegendsNCAAFBase,2007PressPassLegendsNCAAF,Base,1
-2007PressPassLegendsNCAAFBronze,2007PressPassLegendsNCAAF,Bronze,0
-2007PressPassLegendsNCAAFGold,2007PressPassLegendsNCAAF,Gold,0
-2007PressPassLegendsNCAAFLegendaryLegacy,2007PressPassLegendsNCAAF,Legendary Legacy,0
-2007PressPassLegendsNCAAFSaturdaySwatchesPatchEdition,2007PressPassLegendsNCAAF,Saturday Swatches Patch Edition,0
-2007PressPassLegendsNCAAFSilver,2007PressPassLegendsNCAAF,Silver,0
-2007PressPassSENCAAFAutographs,2007PressPassSENCAAF,Autographs,0
-2007PressPassSENCAAFBase,2007PressPassSENCAAF,Base,1
-2007PressPassSENCAAFClassof2007,2007PressPassSENCAAF,Class of 2007,0
-2007PressPassSENCAAFGameDayGear,2007PressPassSENCAAF,Game Day Gear,0
-2007PressPassSENCAAFGold,2007PressPassSENCAAF,Gold,0
-2007PressPassSENCAAFGridironGraphs,2007PressPassSENCAAF,Gridiron Graphs,0
-2007PressPassSENCAAFInsiderInsight,2007PressPassSENCAAF,Insider Insight,0
-2007PressPassSENCAAFMarqueeMatchups,2007PressPassSENCAAF,Marquee Matchups,0
+2007BowmanChromeNFLAutographs,2007BowmanChromeNFL,Autographs,0
+2007BowmanChromeNFLBase,2007BowmanChromeNFL,Base,1
+2007BowmanChromeNFLRefractors,2007BowmanChromeNFL,Refractors,0
+2007BowmanChromeNFLUncirculatedRookies,2007BowmanChromeNFL,Uncirculated Rookies,0
+2007BowmanNFLBase,2007BowmanNFL,Base,1
+2007BowmanNFLChrome,2007BowmanNFL,Chrome,0
+2007BowmanNFLGold,2007BowmanNFL,Gold,0
+2007BowmanSterlingNFLBase,2007BowmanSterlingNFL,Base,1
+2007BowmanSterlingNFLDualSignatures,2007BowmanSterlingNFL,Dual Signatures,0
+2007BowmanSterlingNFLGoldAutographs,2007BowmanSterlingNFL,Gold Autographs,0
+2007BowmanSterlingNFLJerseyRefractors,2007BowmanSterlingNFL,Jersey Refractors,0
+2007BowmanSterlingNFLJerseys,2007BowmanSterlingNFL,Jerseys,0
+2007BowmanSterlingNFLRefractors,2007BowmanSterlingNFL,Refractors,0
+2007BowmanSterlingNFLRookieAutographRefractors,2007BowmanSterlingNFL,Rookie Autograph Refractors,0
+2007BowmanSterlingNFLRookieAutographs,2007BowmanSterlingNFL,Rookie Autographs,0
+2007BowmanSterlingNFLRookieRelicAutographRefractors,2007BowmanSterlingNFL,Rookie Relic Autograph Refractors,0
+2007BowmanSterlingNFLRookieRelicAutographs,2007BowmanSterlingNFL,Rookie Relic Autographs,0
 2007DonrussClassicsNFLBase,2007DonrussClassicsNFL,Base,1
 2007DonrussClassicsNFLClassicCombos,2007DonrussClassicsNFL,Classic Combos,0
 2007DonrussClassicsNFLClassicCombosJerseys,2007DonrussClassicsNFL,Classic Combos Jerseys,0
@@ -1122,36 +1115,46 @@
 2007PlayoffPrestigeNFLTurningPro,2007PlayoffPrestigeNFL,Turning Pro,0
 2007PlayoffPrestigeNFLTurningProJerseys,2007PlayoffPrestigeNFL,Turning Pro Jerseys,0
 2007PlayoffPrestigeNFLXtraPoints,2007PlayoffPrestigeNFL,Xtra Points,0
+2007PressPassLegendsNCAABBAutographs,2007PressPassLegendsNCAABB,Autographs,0
+2007PressPassLegendsNCAABBAutographs,2007PressPassLegendsNCAAB,Autographs,0
+2007PressPassLegendsNCAABBBase,2007PressPassLegendsNCAABB,Base,1
+2007PressPassLegendsNCAAFAllConference,2007PressPassLegendsNCAAF,All Conference,0
+2007PressPassLegendsNCAAFAllConferenceAutographs,2007PressPassLegendsNCAAF,All Conference Autographs,0
+2007PressPassLegendsNCAAFAllConferenceAutographsRed,2007PressPassLegendsNCAAF,All Conference Autographs Red,0
+2007PressPassLegendsNCAAFAlumniAssociation,2007PressPassLegendsNCAAF,Alumni Association,0
+2007PressPassLegendsNCAAFAutographs,2007PressPassLegendsNCAAF,Autographs,0
+2007PressPassLegendsNCAAFBase,2007PressPassLegendsNCAAF,Base,1
+2007PressPassLegendsNCAAFBronze,2007PressPassLegendsNCAAF,Bronze,0
+2007PressPassLegendsNCAAFGold,2007PressPassLegendsNCAAF,Gold,0
+2007PressPassLegendsNCAAFLegendaryLegacy,2007PressPassLegendsNCAAF,Legendary Legacy,0
+2007PressPassLegendsNCAAFSaturdaySwatchesPatchEdition,2007PressPassLegendsNCAAF,Saturday Swatches Patch Edition,0
+2007PressPassLegendsNCAAFSilver,2007PressPassLegendsNCAAF,Silver,0
+2007PressPassNCAAFAllAmerican,2007PressPassNCAAF,All American,0
+2007PressPassNCAAFBase,2007PressPassNCAAF,Base,1
+2007PressPassNCAAFNCAALeaders,2007PressPassNCAAF,NCAA Leaders,0
+2007PressPassNCAAFNCAALeadersRefractors,2007PressPassNCAAF,NCAA Leaders Refractors,0
+2007PressPassNCAAFPrimetimePlayers,2007PressPassNCAAF,Primetime Players,0
+2007PressPassNCAAFReflectors,2007PressPassNCAAF,Reflectors,0
+2007PressPassNCAAFReflectorsRefractors,2007PressPassNCAAF,Reflectors Refractors,0
+2007PressPassNCAAFSophomoreSensations,2007PressPassNCAAF,Sophomore Sensations,0
+2007PressPassNCAAFSophomoreSensationsReflectors,2007PressPassNCAAF,Sophomore Sensations Reflectors,0
+2007PressPassNCAAFTeammates,2007PressPassNCAAF,Teammates,0
+2007PressPassNCAAFTeammatesReflectors,2007PressPassNCAAF,Teammates Reflectors,0
+2007PressPassNCAAFTrophyClub,2007PressPassNCAAF,Trophy Club,0
+2007PressPassSENCAAFAutographs,2007PressPassSENCAAF,Autographs,0
+2007PressPassSENCAAFBase,2007PressPassSENCAAF,Base,1
+2007PressPassSENCAAFClassof2007,2007PressPassSENCAAF,Class of 2007,0
+2007PressPassSENCAAFGameDayGear,2007PressPassSENCAAF,Game Day Gear,0
+2007PressPassSENCAAFGold,2007PressPassSENCAAF,Gold,0
+2007PressPassSENCAAFGridironGraphs,2007PressPassSENCAAF,Gridiron Graphs,0
+2007PressPassSENCAAFInsiderInsight,2007PressPassSENCAAF,Insider Insight,0
+2007PressPassSENCAAFMarqueeMatchups,2007PressPassSENCAAF,Marquee Matchups,0
 2007ScoreNFLBase,2007ScoreNFL,Base,1
 2007ScoreNFLGoldZone,2007ScoreNFL,Gold Zone,0
 2007ScoreNFLScoreCard,2007ScoreNFL,ScoreCard,0
-2007BowmanNFLBase,2007BowmanNFL,Base,1
-2007BowmanNFLChrome,2007BowmanNFL,Chrome,0
-2007BowmanNFLGold,2007BowmanNFL,Gold,0
-2007BowmanChromeNFLAutographs,2007BowmanChromeNFL,Autographs,0
-2007BowmanChromeNFLBase,2007BowmanChromeNFL,Base,1
-2007BowmanChromeNFLRefractors,2007BowmanChromeNFL,Refractors,0
-2007BowmanChromeNFLUncirculatedRookies,2007BowmanChromeNFL,Uncirculated Rookies,0
-2007BowmanSterlingNFLBase,2007BowmanSterlingNFL,Base,1
-2007BowmanSterlingNFLDualSignatures,2007BowmanSterlingNFL,Dual Signatures,0
-2007BowmanSterlingNFLGoldAutographs,2007BowmanSterlingNFL,Gold Autographs,0
-2007BowmanSterlingNFLJerseyRefractors,2007BowmanSterlingNFL,Jersey Refractors,0
-2007BowmanSterlingNFLJerseys,2007BowmanSterlingNFL,Jerseys,0
-2007BowmanSterlingNFLRefractors,2007BowmanSterlingNFL,Refractors,0
-2007BowmanSterlingNFLRookieAutographRefractors,2007BowmanSterlingNFL,Rookie Autograph Refractors,0
-2007BowmanSterlingNFLRookieAutographs,2007BowmanSterlingNFL,Rookie Autographs,0
-2007BowmanSterlingNFLRookieRelicAutographRefractors,2007BowmanSterlingNFL,Rookie Relic Autograph Refractors,0
-2007BowmanSterlingNFLRookieRelicAutographs,2007BowmanSterlingNFL,Rookie Relic Autographs,0
-2007ToppsNFLBase,2007ToppsNFL,Base,1
-2007ToppsNFLBrettFavre,2007ToppsNFL,Brett Favre,0
-2007ToppsNFLBronze,2007ToppsNFL,Bronze,0
-2007ToppsNFLGold,2007ToppsNFL,Gold,0
-2007ToppsNFLLeagueLeaderRelics,2007ToppsNFL,League Leader Relics,0
-2007ToppsNFLLTTouchdownTribute,2007ToppsNFL,LT Touchdown Tribute,0
-2007ToppsNFLOwntheGame,2007ToppsNFL,Own the Game,0
-2007ToppsNFLRookieFantasyChallenge,2007ToppsNFL,Rookie Fantasy Challenge,0
-2007ToppsNFLRunningBackRoyalty,2007ToppsNFL,Running Back Royalty,0
-2007ToppsNFLToppsPerformanceAutographs,2007ToppsNFL,Topps Performance Autographs,0
+2007SPAuthenticNFLBase,2007SPAuthenticNFL,Base,1
+2007SPAuthenticNFLBytheLetter,2007SPAuthenticNFL,By the Letter,0
+2007SPxNFLBase,2007SPxNFL,Base,1
 2007ToppsChromeNFLAutographs,2007ToppsChromeNFL,Autographs,0
 2007ToppsChromeNFLBase,2007ToppsChromeNFL,Base,1
 2007ToppsChromeNFLBlue,2007ToppsChromeNFL,Blue,0
@@ -1173,6 +1176,16 @@
 2007ToppsDraftPicksandProspectsNFLClassMarks,2007ToppsDraftPicksandProspectsNFL,Class Marks,0
 2007ToppsDraftPicksandProspectsNFLSeniorStandouts,2007ToppsDraftPicksandProspectsNFL,Senior Standouts,0
 2007ToppsDraftPicksandProspectsNFLSilver,2007ToppsDraftPicksandProspectsNFL,Silver,0
+2007ToppsNFLBase,2007ToppsNFL,Base,1
+2007ToppsNFLBrettFavre,2007ToppsNFL,Brett Favre,0
+2007ToppsNFLBronze,2007ToppsNFL,Bronze,0
+2007ToppsNFLGold,2007ToppsNFL,Gold,0
+2007ToppsNFLLeagueLeaderRelics,2007ToppsNFL,League Leader Relics,0
+2007ToppsNFLLTTouchdownTribute,2007ToppsNFL,LT Touchdown Tribute,0
+2007ToppsNFLOwntheGame,2007ToppsNFL,Own the Game,0
+2007ToppsNFLRookieFantasyChallenge,2007ToppsNFL,Rookie Fantasy Challenge,0
+2007ToppsNFLRunningBackRoyalty,2007ToppsNFL,Running Back Royalty,0
+2007ToppsNFLToppsPerformanceAutographs,2007ToppsNFL,Topps Performance Autographs,0
 2007ToppsTotalNFLAwardWinners,2007ToppsTotalNFL,Award Winners,0
 2007ToppsTotalNFLBase,2007ToppsTotalNFL,Base,1
 2007ToppsTotalNFLBlue,2007ToppsTotalNFL,Blue,0
@@ -1183,9 +1196,6 @@
 2007ToppsTotalNFLTotalProduction,2007ToppsTotalNFL,Total Production,0
 2007ToppsTotalNFLTotalTopps,2007ToppsTotalNFL,Total Topps,0
 2007ToppsTXExclusivesNFLBase,2007ToppsTXExclusivesNFL,Base,1
-2007SPAuthenticNFLBase,2007SPAuthenticNFL,Base,1
-2007SPAuthenticNFLBytheLetter,2007SPAuthenticNFL,By the Letter,0
-2007SPxNFLBase,2007SPxNFL,Base,1
 2007UltraNFLBase,2007UltraNFL,Base,1
 2007UltraNFLFeeltheGame,2007UltraNFL,Feel the Game,0
 2007UltraNFLFieldGenerals,2007UltraNFL,Field Generals,0
@@ -1195,22 +1205,20 @@
 2007UltraNFLPaydirt,2007UltraNFL,Paydirt,0
 2007UltraNFLPaydirtJerseys,2007UltraNFL,Paydirt Jerseys,0
 2007UltraNFLUltraStars,2007UltraNFL,Ultra Stars,0
-2007UpperDeckNFLBase,2007UpperDeckNFL,Base,1
-2007UpperDeckNFLCollegetoPros,2007UpperDeckNFL,College to Pros,0
-2007UpperDeckNFLWhiteBorder,2007UpperDeckNFL,White Border,0
 2007UpperDeckArtifactsNFLBase,2007UpperDeckArtifactsNFL,Base,1
 2007UpperDeckArtifactsNFLPhotoShootFlashbackFabrics,2007UpperDeckArtifactsNFL,Photo Shoot Flashback Fabrics,0
 2007UpperDeckFirstEditionNFLBase,2007UpperDeckFirstEditionNFL,Base,1
 2007UpperDeckFirstEditionNFLGold,2007UpperDeckFirstEditionNFL,Gold,0
-2008PressPassLegendsNCAAFAlumniAssociation,2008PressPassLegendsNCAAF,Alumni Association,0
-2008PressPassLegendsNCAAFBase,2008PressPassLegendsNCAAF,Base,1
-2008PressPassLegendsNCAAFBronze,2008PressPassLegendsNCAAF,Bronze,0
-2008PressPassLegendsNCAAFSaturdaySignatures,2008PressPassLegendsNCAAF,Saturday Signatures,0
-2008PressPassSENCAAFBase,2008PressPassSENCAAF,Base,1
-2008PressPassSENCAAFClassof2008,2008PressPassSENCAAF,Class of 2008,0
-2008PressPassSENCAAFGold,2008PressPassSENCAAF,Gold,0
-2008PressPassSENCAAFInsiderInsight,2008PressPassSENCAAF,Insider Insight,0
-2008PressPassSENCAAFMarqueeMatchups,2008PressPassSENCAAF,Marquee Matchups,0
+2007UpperDeckNFLBase,2007UpperDeckNFL,Base,1
+2007UpperDeckNFLCollegetoPros,2007UpperDeckNFL,College to Pros,0
+2007UpperDeckNFLWhiteBorder,2007UpperDeckNFL,White Border,0
+2008BowmanChromeNFLAutographs,2008BowmanChromeNFL,Autographs,0
+2008BowmanChromeNFLBase,2008BowmanChromeNFL,Base,1
+2008BowmanChromeNFLBlueBorder,2008BowmanChromeNFL,Blue Border,0
+2008BowmanChromeNFLBronzeBorder,2008BowmanChromeNFL,Bronze Border,0
+2008BowmanChromeNFLGoldBorder,2008BowmanChromeNFL,Gold Border,0
+2008BowmanChromeNFLRefractors,2008BowmanChromeNFL,Refractors,0
+2008BowmanChromeNFLXFractors,2008BowmanChromeNFL,XFractors,0
 2008DonrussClassicsNFLBase,2008DonrussClassicsNFL,Base,1
 2008DonrussClassicsNFLClassicCombos,2008DonrussClassicsNFL,Classic Combos,0
 2008DonrussClassicsNFLClassicQuads,2008DonrussClassicsNFL,Classic Quads,0
@@ -1226,8 +1234,8 @@
 2008DonrussClassicsNFLSchoolColorsJerseys,2008DonrussClassicsNFL,School Colors Jerseys,0
 2008DonrussClassicsNFLSundaysBest,2008DonrussClassicsNFL,Sundays Best,0
 2008DonrussClassicsNFLSundaysBestSilver,2008DonrussClassicsNFL,Sundays Best Silver,0
-2008DonrussClassicsNFLTimelessTreasureSilver,2008DonrussClassicsNFL,Timeless Treasure Silver,0
 2008DonrussClassicsNFLTimelessTreasures,2008DonrussClassicsNFL,Timeless Treasures,0
+2008DonrussClassicsNFLTimelessTreasureSilver,2008DonrussClassicsNFL,Timeless Treasure Silver,0
 2008DonrussClassicsNFLTimelessTributes,2008DonrussClassicsNFL,Timeless Tributes,0
 2008DonrussClassicsNFLTimelessTributesGold,2008DonrussClassicsNFL,Timeless Tributes Gold,0
 2008DonrussClassicsNFLTimelessTributesSilver,2008DonrussClassicsNFL,Timeless Tributes Silver,0
@@ -1236,13 +1244,24 @@
 2008LeafCertifiedMaterialsNFLBase,2008LeafCertifiedMaterialsNFL,Base,1
 2008LeafLimitedNFLBase,2008LeafLimitedNFL,Base,1
 2008LeafRookiesandStarsNFLBase,2008LeafRookiesandStarsNFL,Base,1
-2008PlayoffNFLBase,2008PlayoffNFL,Base,1
-2008PlayoffNFLSilverSignatures,2008PlayoffNFL,Silver Signatures,0
+2008MayoCutPlugNFLBase,2008MayoCutPlugNFL,Base,1
+2008MayoCutPlugNFLSuperBowls,2008MayoCutPlugNFL,Super Bowls,0
 2008PlayoffAbsoluteMemorabiliaNFLBase,2008PlayoffAbsoluteMemorabiliaNFL,Base,1
 2008PlayoffAbsoluteMemorabiliaNFLRookiePremieJerseys,2008PlayoffAbsoluteMemorabiliaNFL,Rookie Premie Jerseys,0
 2008PlayoffAbsoluteMemorabiliaNFLSpectrum,2008PlayoffAbsoluteMemorabiliaNFL,Spectrum,0
 2008PlayoffAbsoluteMemorabiliaNFLSpectrumBlue,2008PlayoffAbsoluteMemorabiliaNFL,Spectrum Blue,0
+2008PlayoffNFLBase,2008PlayoffNFL,Base,1
+2008PlayoffNFLSilverSignatures,2008PlayoffNFL,Silver Signatures,0
 2008PlayoffPrestigeNFLBase,2008PlayoffPrestigeNFL,Base,1
+2008PressPassLegendsNCAAFAlumniAssociation,2008PressPassLegendsNCAAF,Alumni Association,0
+2008PressPassLegendsNCAAFBase,2008PressPassLegendsNCAAF,Base,1
+2008PressPassLegendsNCAAFBronze,2008PressPassLegendsNCAAF,Bronze,0
+2008PressPassLegendsNCAAFSaturdaySignatures,2008PressPassLegendsNCAAF,Saturday Signatures,0
+2008PressPassSENCAAFBase,2008PressPassSENCAAF,Base,1
+2008PressPassSENCAAFClassof2008,2008PressPassSENCAAF,Class of 2008,0
+2008PressPassSENCAAFGold,2008PressPassSENCAAF,Gold,0
+2008PressPassSENCAAFInsiderInsight,2008PressPassSENCAAF,Insider Insight,0
+2008PressPassSENCAAFMarqueeMatchups,2008PressPassSENCAAF,Marquee Matchups,0
 2008ScoreNFLBase,2008ScoreNFL,Base,1
 2008ScoreNFLDonrussDecals,2008ScoreNFL,Donruss Decals,0
 2008ScoreNFLFutureFranchise,2008ScoreNFL,Future Franchise,0
@@ -1250,15 +1269,11 @@
 2008ScoreNFLRedZone,2008ScoreNFL,Red Zone,0
 2008ScoreNFLTheFranchise,2008ScoreNFL,The Franchise,0
 2008ScoreNFLYoungStars,2008ScoreNFL,Young Stars,0
-2008BowmanChromeNFLAutographs,2008BowmanChromeNFL,Autographs,0
-2008BowmanChromeNFLBase,2008BowmanChromeNFL,Base,1
-2008BowmanChromeNFLBlueBorder,2008BowmanChromeNFL,Blue Border,0
-2008BowmanChromeNFLBronzeBorder,2008BowmanChromeNFL,Bronze Border,0
-2008BowmanChromeNFLGoldBorder,2008BowmanChromeNFL,Gold Border,0
-2008BowmanChromeNFLRefractors,2008BowmanChromeNFL,Refractors,0
-2008BowmanChromeNFLXFractors,2008BowmanChromeNFL,XFractors,0
-2008MayoCutPlugNFLBase,2008MayoCutPlugNFL,Base,1
-2008MayoCutPlugNFLSuperBowls,2008MayoCutPlugNFL,Super Bowls,0
+2008SPAuthenticNFLBase,2008SPAuthenticNFL,Base,1
+2008SPAuthenticNFLRookieAuthenticSignatures,2008SPAuthenticNFL,Rookie Authentic Signatures,0
+2008SPRookieEditionNFLBase,2008SPRookieEditionNFL,Base,1
+2008SPRookieEditionNFLPremiereProspects,2008SPRookieEditionNFL,Premiere Prospects,0
+2008SPRookieEditionNFLPremiereProspectsAutographs,2008SPRookieEditionNFL,Premiere Prospects Autographs,0
 2008ToppsNFL1969Style,2008ToppsNFL,1969 Style,0
 2008ToppsNFLBase,2008ToppsNFL,Base,1
 2008ToppsNFLBlack,2008ToppsNFL,Black,0
@@ -1274,19 +1289,6 @@
 2008ToppsNFLRingofHonor,2008ToppsNFL,Ring of Honor,0
 2008ToppsRookieProgressionNFLBase,2008ToppsRookieProgressionNFL,Base,1
 2008ToppsRookieProgressionNFLGold,2008ToppsRookieProgressionNFL,Gold,0
-2008SPAuthenticNFLBase,2008SPAuthenticNFL,Base,1
-2008SPAuthenticNFLRookieAuthenticSignatures,2008SPAuthenticNFL,Rookie Authentic Signatures,0
-2008SPRookieEditionNFLBase,2008SPRookieEditionNFL,Base,1
-2008SPRookieEditionNFLPremiereProspects,2008SPRookieEditionNFL,Premiere Prospects,0
-2008SPRookieEditionNFLPremiereProspectsAutographs,2008SPRookieEditionNFL,Premiere Prospects Autographs,0
-2008UpperDeckNFLBase,2008UpperDeckNFL,Base,1
-2008UpperDeckNFLFlashbacks,2008UpperDeckNFL,Flashbacks,0
-2008UpperDeckNFLJerseys,2008UpperDeckNFL,Jerseys,0
-2008UpperDeckNFLMasterpieces,2008UpperDeckNFL,Masterpieces,0
-2008UpperDeckNFLRookieExclusives,2008UpperDeckNFL,Rookie Exclusives,0
-2008UpperDeckNFLSignatureShots,2008UpperDeckNFL,Signature Shots,0
-2008UpperDeckNFLStarquest,2008UpperDeckNFL,Starquest,0
-2008UpperDeckNFLStarquestBlue,2008UpperDeckNFL,Starquest Blue,0
 2008UpperDeckDraftEditionNFLAutographGold,2008UpperDeckDraftEditionNFL,Autograph Gold,0
 2008UpperDeckDraftEditionNFLAutographs,2008UpperDeckDraftEditionNFL,Autographs,0
 2008UpperDeckDraftEditionNFLBase,2008UpperDeckDraftEditionNFL,Base,1
@@ -1311,16 +1313,14 @@
 2008UpperDeckMasterpiecesNFLGreyBorder,2008UpperDeckMasterpiecesNFL,Grey Border,0
 2008UpperDeckMasterpiecesNFLRedBorder,2008UpperDeckMasterpiecesNFL,Red Border,0
 2008UpperDeckMasterpiecesNFLStrokeofGenius,2008UpperDeckMasterpiecesNFL,Stroke of Genius,0
-2009PressPassNCAAFBase,2009PressPassNCAAF,Base,1
-2009PressPassNCAAFSaturdaySignaturesRed,2009PressPassNCAAF,Saturday Signatures Red,0
-2009PressPassNCAAFSaturdaySwatches,2009PressPassNCAAF,Saturday Swatches,0
-2009PressPassLegendsNCAAFAlumniAssociation,2009PressPassLegendsNCAAF,Alumni Association,0
-2009PressPassLegendsNCAAFBase,2009PressPassLegendsNCAAF,Base,1
-2009PressPassLegendsNCAAFBronze,2009PressPassLegendsNCAAF,Bronze,0
-2009PressPassLegendsNCAAFGreen,2009PressPassLegendsNCAAF,Green,0
-2009PressPassLegendsNCAAFLegendsoftheFall,2009PressPassLegendsNCAAF,Legend sof the Fall,0
-2009PressPassLegendsNCAAFSaturdaySignatures,2009PressPassLegendsNCAAF,Saturday Signatures,0
-2009PressPassLegendsNCAAFSilver,2009PressPassLegendsNCAAF,Silver,0
+2008UpperDeckNFLBase,2008UpperDeckNFL,Base,1
+2008UpperDeckNFLFlashbacks,2008UpperDeckNFL,Flashbacks,0
+2008UpperDeckNFLJerseys,2008UpperDeckNFL,Jerseys,0
+2008UpperDeckNFLMasterpieces,2008UpperDeckNFL,Masterpieces,0
+2008UpperDeckNFLRookieExclusives,2008UpperDeckNFL,Rookie Exclusives,0
+2008UpperDeckNFLSignatureShots,2008UpperDeckNFL,Signature Shots,0
+2008UpperDeckNFLStarquest,2008UpperDeckNFL,Starquest,0
+2008UpperDeckNFLStarquestBlue,2008UpperDeckNFL,Starquest Blue,0
 2009DonrussClassicsNFLBase,2009DonrussClassicsNFL,Base,1
 2009DonrussClassicsNFLBlue,2009DonrussClassicsNFL,Blue,0
 2009DonrussClassicsNFLClassicSinglesJerseys,2009DonrussClassicsNFL,Classic Singles Jerseys,0
@@ -1343,12 +1343,6 @@
 2009LeafLimitedNFLProBowlMaterials,2009LeafLimitedNFL,Pro Bowl Materials,0
 2009LeafRookiesandStarsNFLBase,2009LeafRookiesandStarsNFL,Base,1
 2009LeafRookiesandStarsNFLGold,2009LeafRookiesandStarsNFL,Gold,0
-2009PlayoffPrestigeNFLBase,2009PlayoffPrestigeNFL,Base,1
-2009ScoreNFL1989Style,2009ScoreNFL,1989 Style,0
-2009ScoreNFLBase,2009ScoreNFL,Base,1
-2009ScoreNFLFranchise,2009ScoreNFL,Franchise,0
-2009ScoreNFLFutureFranchise,2009ScoreNFL,Future Franchise,0
-2009ScoreNFLHotRookies,2009ScoreNFL,Hot Rookies,0
 2009MayoCutPlugNFLAutographs,2009MayoCutPlugNFL,Autographs,0
 2009MayoCutPlugNFLBase,2009MayoCutPlugNFL,Base,1
 2009MayoCutPlugNFLCabinet,2009MayoCutPlugNFL,Cabinet,0
@@ -1371,17 +1365,27 @@
 2009NationalChicleNFLYoungstersoftheGridiron,2009NationalChicleNFL,Youngsters of the Gridiron,0
 2009PhiladelphiaNFLBase,2009PhiladelphiaNFL,Base,1
 2009PhiladelphiaNFLNC,2009PhiladelphiaNFL,NC,0
-2009ToppsNFLAllAmerican,2009ToppsNFL,All American,0
-2009ToppsNFLBase,2009ToppsNFL,Base,1
-2009ToppsNFLCheerleaders,2009ToppsNFL,Cheerleaders,0
-2009ToppsNFLFlashback,2009ToppsNFL,Flashback,0
-2009ToppsNFLSetInsert,2009ToppsNFL,Set Insert,0
-2009ToppsNFLToppstowncom,2009ToppsNFL,Toppstown.com,0
-2009SPNFLBase,2009SPNFL,Base,1
+2009PlayoffPrestigeNFLBase,2009PlayoffPrestigeNFL,Base,1
+2009PressPassLegendsNCAAFAlumniAssociation,2009PressPassLegendsNCAAF,Alumni Association,0
+2009PressPassLegendsNCAAFBase,2009PressPassLegendsNCAAF,Base,1
+2009PressPassLegendsNCAAFBronze,2009PressPassLegendsNCAAF,Bronze,0
+2009PressPassLegendsNCAAFGreen,2009PressPassLegendsNCAAF,Green,0
+2009PressPassLegendsNCAAFLegendsoftheFall,2009PressPassLegendsNCAAF,Legend sof the Fall,0
+2009PressPassLegendsNCAAFSaturdaySignatures,2009PressPassLegendsNCAAF,Saturday Signatures,0
+2009PressPassLegendsNCAAFSilver,2009PressPassLegendsNCAAF,Silver,0
+2009PressPassNCAAFBase,2009PressPassNCAAF,Base,1
+2009PressPassNCAAFSaturdaySignaturesRed,2009PressPassNCAAF,Saturday Signatures Red,0
+2009PressPassNCAAFSaturdaySwatches,2009PressPassNCAAF,Saturday Swatches,0
+2009ScoreNFL1989Style,2009ScoreNFL,1989 Style,0
+2009ScoreNFLBase,2009ScoreNFL,Base,1
+2009ScoreNFLFranchise,2009ScoreNFL,Franchise,0
+2009ScoreNFLFutureFranchise,2009ScoreNFL,Future Franchise,0
+2009ScoreNFLHotRookies,2009ScoreNFL,Hot Rookies,0
 2009SPAuthenticNFLAmericasTeam,2009SPAuthenticNFL,Americas Team,0
 2009SPAuthenticNFLAmericasTeamJerseys,2009SPAuthenticNFL,Americas Team Jerseys,0
 2009SPAuthenticNFLBase,2009SPAuthenticNFL,Base,1
 2009SPAuthenticNFLByTheLetterPatches,2009SPAuthenticNFL,By The Letter Patches,0
+2009SPNFLBase,2009SPNFL,Base,1
 2009SPSignatureNFLBase,2009SPSignatureNFL,Base,1
 2009SPThreadsNFLBase,2009SPThreadsNFL,Base,1
 2009SPxNFLBase,2009SPxNFL,Base,1
@@ -1394,8 +1398,12 @@
 2009SPxNFLWinningMaterialsGold,2009SPxNFL,Winning Materials Gold,0
 2009SPxNFLWinningMaterialsGreen,2009SPxNFL,Winning Materials Green,0
 2009SPxNFLXFactorSignatures,2009SPxNFL,Xfactor Signatures,0
-2009UpperDeckNFLBase,2009UpperDeckNFL,Base,1
-2009UpperDeckNFLGameDayGear,2009UpperDeckNFL,GameDay Gear,0
+2009ToppsNFLAllAmerican,2009ToppsNFL,All American,0
+2009ToppsNFLBase,2009ToppsNFL,Base,1
+2009ToppsNFLCheerleaders,2009ToppsNFL,Cheerleaders,0
+2009ToppsNFLFlashback,2009ToppsNFL,Flashback,0
+2009ToppsNFLSetInsert,2009ToppsNFL,Set Insert,0
+2009ToppsNFLToppstowncom,2009ToppsNFL,Toppstown.com,0
 2009UpperDeckDraftEditionNFLBase,2009UpperDeckDraftEditionNFL,Base,1
 2009UpperDeckFirstEditionNFLBase,2009UpperDeckFirstEditionNFL,Base,1
 2009UpperDeckFirstEditionNFLBombsAway,2009UpperDeckFirstEditionNFL,Bombs Away,0
@@ -1403,12 +1411,22 @@
 2009UpperDeckFirstEditionNFLStarAttractions,2009UpperDeckFirstEditionNFL,Star Attractions,0
 2009UpperDeckFootballHeroesNFLBase,2009UpperDeckFootballHeroesNFL,Base,1
 2009UpperDeckIconsNFLBase,2009UpperDeckIconsNFL,Base,1
+2009UpperDeckNFLBase,2009UpperDeckNFL,Base,1
+2009UpperDeckNFLGameDayGear,2009UpperDeckNFL,GameDay Gear,0
 2010BowmanMLBBase,2010BowmanMLB,Base,1
-2010ToppsMLB4thofJulyPatch,2010ToppsMLB,4th of July Patch,0
-2010ToppsMLBBase,2010ToppsMLB,Base,1
-2010ToppsMLBPeakPerformance,2010ToppsMLB,Peak Performance,0
-2010ToppsChromeMLBBase,2010ToppsChromeMLB,Base,1
-2010PressPassNCAAFBase,2010PressPassNCAAF,Base,1
+2010BowmanSterlingNFLAutographs,2010BowmanSterlingNFL,Autographs,0
+2010BowmanSterlingNFLBase,2010BowmanSterlingNFL,Base,1
+2010BowmanSterlingNFLDualJerseyAutographs,2010BowmanSterlingNFL,Dual Jersey Autographs,0
+2010BowmanSterlingNFLDualJerseys,2010BowmanSterlingNFL,Dual Jerseys,0
+2010BowmanSterlingNFLJerseyAutographs,2010BowmanSterlingNFL,Jersey Autographs,0
+2010BowmanSterlingNFLJerseys,2010BowmanSterlingNFL,Jerseys,0
+2010BowmanSterlingNFLRefractorAutographs50,2010BowmanSterlingNFL,Refractor Autographs 50,0
+2010BowmanSterlingNFLRefractorDualJerseys,2010BowmanSterlingNFL,Refractor Dual Jerseys,0
+2010BowmanSterlingNFLRefractorJerseys299,2010BowmanSterlingNFL,Refractor Jerseys 299,0
+2010BowmanSterlingNFLRefractorJerseysBlue99,2010BowmanSterlingNFL,Refractor Jerseys Blue 99,0
+2010BowmanSterlingNFLRefractors299,2010BowmanSterlingNFL,Refractors 299,0
+2010BowmanSterlingNFLRefractors50,2010BowmanSterlingNFL,Refractors 50,0
+2010BowmanSterlingNFLRefractorsBlue99,2010BowmanSterlingNFL,Refractors Blue 99,0
 2010DonrussClassicsNFL50thAnniversaryTeam,2010DonrussClassicsNFL,50th Anniversary Team,0
 2010DonrussClassicsNFLBase,2010DonrussClassicsNFL,Base,1
 2010DonrussClassicsNFLBlue25,2010DonrussClassicsNFL,Blue 25,0
@@ -1438,30 +1456,6 @@
 2010DonrussEliteNFLSuperBowlXLIV,2010DonrussEliteNFL,Super Bowl XLIV,0
 2010DonrussEliteNFLTurnoftheCentury,2010DonrussEliteNFL,Turn of the Century,0
 2010DonrussEliteNFLZoningCommision,2010DonrussEliteNFL,Zoning Commision,0
-2010LeafCertifiedMaterialsNFLBase,2010LeafCertifiedMaterialsNFL,Base,1
-2010LeafCertifiedMaterialsNFLCertifiedPotential,2010LeafCertifiedMaterialsNFL,Certified Potential,0
-2010LeafCertifiedMaterialsNFLCertifiedPotential50,2010LeafCertifiedMaterialsNFL,Certified Potential 50,0
-2010LeafCertifiedMaterialsNFLFabricoftheGame,2010LeafCertifiedMaterialsNFL,Fabric of the Game,0
-2010LeafCertifiedMaterialsNFLFreshmanFabric,2010LeafCertifiedMaterialsNFL,Freshman Fabric,0
-2010LeafCertifiedMaterialsNFLGold,2010LeafCertifiedMaterialsNFL,Gold,0
-2010LeafCertifiedMaterialsNFLImmortalsMirrorRed,2010LeafCertifiedMaterialsNFL,Immortal sMirror Red,0
-2010LeafCertifiedMaterialsNFLMirrorBlue,2010LeafCertifiedMaterialsNFL,Mirror Blue,0
-2010LeafCertifiedMaterialsNFLMirrorRed,2010LeafCertifiedMaterialsNFL,Mirror Red,0
-2010PlayoffAbsoluteMemorabiliaNFLBase,2010PlayoffAbsoluteMemorabiliaNFL,Base,1
-2010PlayoffAbsoluteMemorabiliaNFLNFLIcons,2010PlayoffAbsoluteMemorabiliaNFL,NFL Icons,0
-2010PlayoffAbsoluteMemorabiliaNFLRetail,2010PlayoffAbsoluteMemorabiliaNFL,Retail,0
-2010PlayoffAbsoluteMemorabiliaNFLRookieJerseyCollection,2010PlayoffAbsoluteMemorabiliaNFL,Rookie Jersey Collection,0
-2010PlayoffAbsoluteMemorabiliaNFLSpectrum50,2010PlayoffAbsoluteMemorabiliaNFL,Spectrum 50,0
-2010PlayoffAbsoluteMemorabiliaNFLToolsoftheTradePatches50,2010PlayoffAbsoluteMemorabiliaNFL,Tools of the Trade Patches 50,0
-2010PlayoffAbsoluteMemorabiliaNFLWarRoom,2010PlayoffAbsoluteMemorabiliaNFL,War Room,0
-2010PlayoffAbsoluteMemorabiliaNFLWarRoomPatches50,2010PlayoffAbsoluteMemorabiliaNFL,War Room Patches 50,0
-2010PlayoffNationalTreasuresNFLBase,2010PlayoffNationalTreasuresNFL,Base,1
-2010ScoreNFLAllPro,2010ScoreNFL,All Pro,0
-2010ScoreNFLBase,2010ScoreNFL,Base,1
-2010ScoreNFLBigHeads,2010ScoreNFL,Big Heads,0
-2010ScoreNFLFranchise,2010ScoreNFL,Franchise,0
-2010ScoreNFLGoldZone299,2010ScoreNFL,Gold Zone 299,0
-2010ScoreNFLScoreCard499,2010ScoreNFL,ScoreCard 499,0
 2010EpixNFLBallHawks,2010EpixNFL,Ball Hawks,0
 2010EpixNFLBase,2010EpixNFL,Base,1
 2010EpixNFLCantonLettermen,2010EpixNFL,Canton Lettermen,0
@@ -1476,6 +1470,15 @@
 2010EpixNFLRushHour,2010EpixNFL,Rush Hour,0
 2010EpixNFLSeason,2010EpixNFL,Season,0
 2010EpixNFLSpellbound,2010EpixNFL,Spellbound,0
+2010LeafCertifiedMaterialsNFLBase,2010LeafCertifiedMaterialsNFL,Base,1
+2010LeafCertifiedMaterialsNFLCertifiedPotential,2010LeafCertifiedMaterialsNFL,Certified Potential,0
+2010LeafCertifiedMaterialsNFLCertifiedPotential50,2010LeafCertifiedMaterialsNFL,Certified Potential 50,0
+2010LeafCertifiedMaterialsNFLFabricoftheGame,2010LeafCertifiedMaterialsNFL,Fabric of the Game,0
+2010LeafCertifiedMaterialsNFLFreshmanFabric,2010LeafCertifiedMaterialsNFL,Freshman Fabric,0
+2010LeafCertifiedMaterialsNFLGold,2010LeafCertifiedMaterialsNFL,Gold,0
+2010LeafCertifiedMaterialsNFLImmortalsMirrorRed,2010LeafCertifiedMaterialsNFL,Immortal sMirror Red,0
+2010LeafCertifiedMaterialsNFLMirrorBlue,2010LeafCertifiedMaterialsNFL,Mirror Blue,0
+2010LeafCertifiedMaterialsNFLMirrorRed,2010LeafCertifiedMaterialsNFL,Mirror Red,0
 2010LeafLimitedNFLAmericasTeamAutographs,2010LeafLimitedNFL,Americas Team Autographs,0
 2010LeafLimitedNFLAutographs,2010LeafLimitedNFL,Autographs,0
 2010LeafLimitedNFLBase,2010LeafLimitedNFL,Base,1
@@ -1492,35 +1495,24 @@
 2010PaniniPlates&PatchesNFLRookieBlitz,2010PaniniPlates&PatchesNFL,Rookie Blitz,0
 2010PaniniPlates&PatchesNFLSilver100,2010PaniniPlates&PatchesNFL,Silver 100,0
 2010PaniniPlates&PatchesNFLUncirculated,2010PaniniPlates&PatchesNFL,Uncirculated,0
+2010PlayoffAbsoluteMemorabiliaNFLBase,2010PlayoffAbsoluteMemorabiliaNFL,Base,1
+2010PlayoffAbsoluteMemorabiliaNFLNFLIcons,2010PlayoffAbsoluteMemorabiliaNFL,NFL Icons,0
+2010PlayoffAbsoluteMemorabiliaNFLRetail,2010PlayoffAbsoluteMemorabiliaNFL,Retail,0
+2010PlayoffAbsoluteMemorabiliaNFLRookieJerseyCollection,2010PlayoffAbsoluteMemorabiliaNFL,Rookie Jersey Collection,0
+2010PlayoffAbsoluteMemorabiliaNFLSpectrum50,2010PlayoffAbsoluteMemorabiliaNFL,Spectrum 50,0
+2010PlayoffAbsoluteMemorabiliaNFLToolsoftheTradePatches50,2010PlayoffAbsoluteMemorabiliaNFL,Tools of the Trade Patches 50,0
+2010PlayoffAbsoluteMemorabiliaNFLWarRoom,2010PlayoffAbsoluteMemorabiliaNFL,War Room,0
+2010PlayoffAbsoluteMemorabiliaNFLWarRoomPatches50,2010PlayoffAbsoluteMemorabiliaNFL,War Room Patches 50,0
+2010PlayoffNationalTreasuresNFLBase,2010PlayoffNationalTreasuresNFL,Base,1
 2010PlayoffPrestigeNFLBase,2010PlayoffPrestigeNFL,Base,1
-2010BowmanSterlingNFLAutographs,2010BowmanSterlingNFL,Autographs,0
-2010BowmanSterlingNFLBase,2010BowmanSterlingNFL,Base,1
-2010BowmanSterlingNFLDualJerseyAutographs,2010BowmanSterlingNFL,Dual Jersey Autographs,0
-2010BowmanSterlingNFLDualJerseys,2010BowmanSterlingNFL,Dual Jerseys,0
-2010BowmanSterlingNFLJerseyAutographs,2010BowmanSterlingNFL,Jersey Autographs,0
-2010BowmanSterlingNFLJerseys,2010BowmanSterlingNFL,Jerseys,0
-2010BowmanSterlingNFLRefractorAutographs50,2010BowmanSterlingNFL,Refractor Autographs 50,0
-2010BowmanSterlingNFLRefractorDualJerseys,2010BowmanSterlingNFL,Refractor Dual Jerseys,0
-2010BowmanSterlingNFLRefractorJerseys299,2010BowmanSterlingNFL,Refractor Jerseys 299,0
-2010BowmanSterlingNFLRefractorJerseysBlue99,2010BowmanSterlingNFL,Refractor Jerseys Blue 99,0
-2010BowmanSterlingNFLRefractors299,2010BowmanSterlingNFL,Refractors 299,0
-2010BowmanSterlingNFLRefractors50,2010BowmanSterlingNFL,Refractors 50,0
-2010BowmanSterlingNFLRefractorsBlue99,2010BowmanSterlingNFL,Refractors Blue 99,0
-2010ToppsNFL1954,2010ToppsNFL,1954,0
-2010ToppsNFL75th,2010ToppsNFL,75th,0
-2010ToppsNFLAttax,2010ToppsNFL,Attax,0
-2010ToppsNFLBase,2010ToppsNFL,Base,1
-2010ToppsNFLExtraCards,2010ToppsNFL,Extra Cards,0
-2010ToppsNFLGold,2010ToppsNFL,Gold,0
-2010ToppsNFLGridironGiveaway,2010ToppsNFL,Gridiron Giveaway,0
-2010ToppsNFLGridironLineage,2010ToppsNFL,Gridiron Lineage,0
-2010ToppsNFLNologo,2010ToppsNFL,No logo,0
-2010ToppsNFLPeakPerformance,2010ToppsNFL,Peak Performance,0
-2010ToppsNFLPeakPerformanceAutos,2010ToppsNFL,Peak Performance Autos,0
-2010ToppsNFLPeakPerformanceJerseys,2010ToppsNFL,Peak Performance Jerseys,0
-2010ToppsNFLRingofHonor,2010ToppsNFL,Ring of Honor,0
-2010ToppsNFLRookieReprints,2010ToppsNFL,Rookie Reprints,0
-2010ToppsNFLYouSketchIt!,2010ToppsNFL,You Sketch It!,0
+2010PressPassNCAAFBase,2010PressPassNCAAF,Base,1
+2010ScoreNFLAllPro,2010ScoreNFL,All Pro,0
+2010ScoreNFLBase,2010ScoreNFL,Base,1
+2010ScoreNFLBigHeads,2010ScoreNFL,Big Heads,0
+2010ScoreNFLFranchise,2010ScoreNFL,Franchise,0
+2010ScoreNFLGoldZone299,2010ScoreNFL,Gold Zone 299,0
+2010ScoreNFLScoreCard499,2010ScoreNFL,ScoreCard 499,0
+2010ToppsChromeMLBBase,2010ToppsChromeMLB,Base,1
 2010ToppsChromeNFLBase,2010ToppsChromeNFL,Base,1
 2010ToppsChromeNFLGridironLineage,2010ToppsChromeNFL,Gridiron Lineage,0
 2010ToppsChromeNFLPurple555,2010ToppsChromeNFL,Purple 555,0
@@ -1546,6 +1538,26 @@
 2010ToppsMagicNFLRookieStars,2010ToppsMagicNFL,Rookie Stars,0
 2010ToppsMagicNFLSmall,2010ToppsMagicNFL,Small,0
 2010ToppsMagicNFLSmallBlack,2010ToppsMagicNFL,Small Black,0
+2010ToppsMLB4thofJulyPatch,2010ToppsMLB,4th of July Patch,0
+2010ToppsMLBBase,2010ToppsMLB,Base,1
+2010ToppsMLBCommemorativePatches,2010ToppsMLB,Commemorative Patches,0
+2010ToppsMLBCommemorativePatches,2010ToppsMLB,Commemorative Patches,0
+2010ToppsMLBPeakPerformance,2010ToppsMLB,Peak Performance,0
+2010ToppsNFL1954,2010ToppsNFL,1954,0
+2010ToppsNFL75th,2010ToppsNFL,75th,0
+2010ToppsNFLAttax,2010ToppsNFL,Attax,0
+2010ToppsNFLBase,2010ToppsNFL,Base,1
+2010ToppsNFLExtraCards,2010ToppsNFL,Extra Cards,0
+2010ToppsNFLGold,2010ToppsNFL,Gold,0
+2010ToppsNFLGridironGiveaway,2010ToppsNFL,Gridiron Giveaway,0
+2010ToppsNFLGridironLineage,2010ToppsNFL,Gridiron Lineage,0
+2010ToppsNFLNologo,2010ToppsNFL,No logo,0
+2010ToppsNFLPeakPerformance,2010ToppsNFL,Peak Performance,0
+2010ToppsNFLPeakPerformanceAutos,2010ToppsNFL,Peak Performance Autos,0
+2010ToppsNFLPeakPerformanceJerseys,2010ToppsNFL,Peak Performance Jerseys,0
+2010ToppsNFLRingofHonor,2010ToppsNFL,Ring of Honor,0
+2010ToppsNFLRookieReprints,2010ToppsNFL,Rookie Reprints,0
+2010ToppsNFLYouSketchIt!,2010ToppsNFL,You Sketch It!,0
 2010ToppsPlatinumNFLAutographedRefractorPatch,2010ToppsPlatinumNFL,Autographed Refractor Patch,0
 2010ToppsPlatinumNFLBase,2010ToppsPlatinumNFL,Base,1
 2010ToppsPlatinumNFLBlue599,2010ToppsPlatinumNFL,Blue 599,0
@@ -1567,7 +1579,6 @@
 2010ToppsUnrivaledNFLFatty,2010ToppsUnrivaledNFL,Fatty,0
 2010ToppsUnrivaledNFLSilver,2010ToppsUnrivaledNFL,Silver,0
 2010UpperDeckNFLBase,2010UpperDeckNFL,Base,1
-2011PressPassNCAAFBase,2011PressPassNCAAF,Base,1
 2011CrownRoyaleNFLAllPros,2011CrownRoyaleNFL,All Pros,0
 2011CrownRoyaleNFLAutographs,2011CrownRoyaleNFL,Autographs,0
 2011CrownRoyaleNFLBase,2011CrownRoyaleNFL,Base,1
@@ -1594,11 +1605,11 @@
 2011PaniniGoldStandardNFLBase,2011PaniniGoldStandardNFL,Base,1
 2011PaniniGoldStandardNFLBlue,2011PaniniGoldStandardNFL,Blue,0
 2011PaniniGoldStandardNFLGoldCircle,2011PaniniGoldStandardNFL,Gold Circle,0
+2011PaniniGoldStandardNFLGoldenAge,2011PaniniGoldStandardNFL,Golden Age,0
+2011PaniniGoldStandardNFLGoldenAnniversary,2011PaniniGoldStandardNFL,Golden Anniversary,0
 2011PaniniGoldStandardNFLGoldLeafRookies,2011PaniniGoldStandardNFL,Gold Leaf Rookies,0
 2011PaniniGoldStandardNFLGoldLeafStars,2011PaniniGoldStandardNFL,Gold Leaf Stars,0
 2011PaniniGoldStandardNFLGoldRush,2011PaniniGoldStandardNFL,Gold Rush,0
-2011PaniniGoldStandardNFLGoldenAge,2011PaniniGoldStandardNFL,Golden Age,0
-2011PaniniGoldStandardNFLGoldenAnniversary,2011PaniniGoldStandardNFL,Golden Anniversary,0
 2011PlayoffContendersNFLBase,2011PlayoffContendersNFL,Base,1
 2011PlayoffPrestigeNFLBase,2011PlayoffPrestigeNFL,Base,1
 2011PlayoffPrestigeNFLBlue,2011PlayoffPrestigeNFL,Blue,0
@@ -1618,18 +1629,7 @@
 2011PlayoffPrestigeNFLStarsoftheNFL,2011PlayoffPrestigeNFL,Stars of the NFL,0
 2011PlayoffPrestigeNFLXtraPointsGold,2011PlayoffPrestigeNFL,Xtra Points Gold,0
 2011PlayoffPrestigeNFLXtraPointsRed,2011PlayoffPrestigeNFL,Xtra Points Red,0
-2011ToppsNFLBase,2011ToppsNFL,Base,1
-2011ToppsNFLFacesoftheFranchise,2011ToppsNFL,Faces of the Franchise,0
-2011ToppsNFLGameDay,2011ToppsNFL,Game Day,0
-2011ToppsNFLGameDayAutographs,2011ToppsNFL,Game Day Autographs,0
-2011ToppsNFLGold,2011ToppsNFL,Gold,0
-2011ToppsNFLRookiePatches,2011ToppsNFL,Rookie Patches,0
-2011ToppsNFLRookiePremiere,2011ToppsNFL,Rookie Premiere,0
-2011ToppsNFLSetInsert,2011ToppsNFL,Set Insert,0
-2011ToppsNFLSmall,2011ToppsNFL,Small,0
-2011ToppsNFLSuperBowlLegends,2011ToppsNFL,Super Bowl Legends,0
-2011ToppsNFLSuperBowlLegendsGiveaway,2011ToppsNFL,Super Bowl Legends Giveaway,0
-2011ToppsNFLToppsTown,2011ToppsNFL,Topps Town,0
+2011PressPassNCAAFBase,2011PressPassNCAAF,Base,1
 2011ToppsChromeNFLBase,2011ToppsChromeNFL,Base,1
 2011ToppsChromeNFLBowmanChrome,2011ToppsChromeNFL,Bowman Chrome,0
 2011ToppsChromeNFLFinestFreshmen,2011ToppsChromeNFL,Finest Freshmen,0
@@ -1658,6 +1658,18 @@
 2011ToppsLegendsNFLFattys,2011ToppsLegendsNFL,Fattys,0
 2011ToppsLegendsNFLGridironLegacies,2011ToppsLegendsNFL,Gridiron Legacies,0
 2011ToppsLegendsNFLLegendaryCombos,2011ToppsLegendsNFL,Legendary Combos,0
+2011ToppsNFLBase,2011ToppsNFL,Base,1
+2011ToppsNFLFacesoftheFranchise,2011ToppsNFL,Faces of the Franchise,0
+2011ToppsNFLGameDay,2011ToppsNFL,Game Day,0
+2011ToppsNFLGameDayAutographs,2011ToppsNFL,Game Day Autographs,0
+2011ToppsNFLGold,2011ToppsNFL,Gold,0
+2011ToppsNFLRookiePatches,2011ToppsNFL,Rookie Patches,0
+2011ToppsNFLRookiePremiere,2011ToppsNFL,Rookie Premiere,0
+2011ToppsNFLSetInsert,2011ToppsNFL,Set Insert,0
+2011ToppsNFLSmall,2011ToppsNFL,Small,0
+2011ToppsNFLSuperBowlLegends,2011ToppsNFL,Super Bowl Legends,0
+2011ToppsNFLSuperBowlLegendsGiveaway,2011ToppsNFL,Super Bowl Legends Giveaway,0
+2011ToppsNFLToppsTown,2011ToppsNFL,Topps Town,0
 2011ToppsPrimeNFLBase,2011ToppsPrimeNFL,Base,1
 2011ToppsPrimeNFLBronze,2011ToppsPrimeNFL,Bronze,0
 2011ToppsPrimeNFLDualCombo,2011ToppsPrimeNFL,Dual Combo,0
@@ -1685,13 +1697,7 @@
 2012BowmanMLBBase,2012BowmanMLB,Base,1
 2012BowmanMLBBowmanChrome,2012BowmanMLB,Bowman Chrome,0
 2012BowmanMLBBowmansBest,2012BowmanMLB,Bowmans Best,0
-2012TierOneMLBBase,2012TierOneMLB,Base,1
-2012TierOneMLBCrowdPleasers,2012TierOneMLB,Crowd Pleasers,0
-2012TierOneMLBLegends,2012TierOneMLB,Legends,0
-2012TierOneMLBOntheRise,2012TierOneMLB,On the Rise,0
-2012ToppsMLBBase,2012ToppsMLB,Base,1
-2012SageHitNCAAFAuthenticAutographs,2012SageHitNCAAF,Authentic Autographs,0
-2012SageHitNCAAFBase,2012SageHitNCAAF,Base,1
+2012BowmanNFLBase,2012BowmanNFL,Base,1
 2012CrownRoyaleNFLBase,2012CrownRoyaleNFL,Base,1
 2012CrownRoyaleNFLJerseys,2012CrownRoyaleNFL,Jerseys,0
 2012CrownRoyaleNFLMajesticMotion,2012CrownRoyaleNFL,Majestic Motion,0
@@ -1708,17 +1714,21 @@
 2012PlayoffPrestigeNFLTickets,2012PlayoffPrestigeNFL,Tickets,0
 2012PlayoffPrestigeNFLTicketsAutographs,2012PlayoffPrestigeNFL,Tickets Autographs,0
 2012PrimeSignaturesNFLBase,2012PrimeSignaturesNFL,Base,1
+2012PrimeSignaturesNFLPrimeProof,2012PrimeSignaturesNFL,Prime Proof,0
 2012PrimeSignaturesNFLPrintingPlatesBlack,2012PrimeSignaturesNFL,Printing Plates Black,0
-2012BowmanNFLBase,2012BowmanNFL,Base,1
-2012ToppsNFLBase,2012ToppsNFL,Base,1
-2012ToppsNFLPerformers,2012ToppsNFL,Performers,0
-2012ToppsNFLProlificPlaymakersAutographs,2012ToppsNFL,Prolific Playmakers Autographs,0
-2012ToppsNFLRookiePatches,2012ToppsNFL,Rookie Patches,0
+2012SageHitNCAAFAuthenticAutographs,2012SageHitNCAAF,Authentic Autographs,0
+2012SageHitNCAAFBase,2012SageHitNCAAF,Base,1
+2012TierOneMLBBase,2012TierOneMLB,Base,1
+2012TierOneMLBCrowdPleasers,2012TierOneMLB,Crowd Pleasers,0
+2012TierOneMLBLegends,2012TierOneMLB,Legends,0
+2012TierOneMLBOntheRise,2012TierOneMLB,On the Rise,0
 2012ToppsChromeNFL1957Style,2012ToppsChromeNFL,1957 Style,0
 2012ToppsChromeNFL1965Style,2012ToppsChromeNFL,1965 Style,0
 2012ToppsChromeNFL1984Style,2012ToppsChromeNFL,1984 Style,0
 2012ToppsChromeNFLAutographs,2012ToppsChromeNFL,Autographs,0
 2012ToppsChromeNFLBase,2012ToppsChromeNFL,Base,1
+2012ToppsChromeNFLBlackBorder,2012ToppsChromeNFL,Black Border,0
+2012ToppsChromeNFLChamoBorder,2012ToppsChromeNFL,Chamo Border,0
 2012ToppsChromeNFLRed99,2012ToppsChromeNFL,Red 99,0
 2012ToppsFinestNFLAutographedRelics,2012ToppsFinestNFL,Autographed Relics,0
 2012ToppsFinestNFLBase,2012ToppsFinestNFL,Base,1
@@ -1737,18 +1747,21 @@
 2012ToppsMagicNFLJerseys,2012ToppsMagicNFL,Jerseys,0
 2012ToppsMagicNFLMagicalMoments,2012ToppsMagicNFL,Magical Moments,0
 2012ToppsMagicNFLSmall50,2012ToppsMagicNFL,Small 50,0
+2012ToppsMLBBase,2012ToppsMLB,Base,1
+2012ToppsNFLBase,2012ToppsNFL,Base,1
+2012ToppsNFLGold,2012ToppsNFL,Gold Border,0
+2012ToppsNFLPerformers,2012ToppsNFL,Performers,0
+2012ToppsNFLProlificPlaymakersAutographs,2012ToppsNFL,Prolific Playmakers Autographs,0
+2012ToppsNFLRookiePatches,2012ToppsNFL,Rookie Patches,0
 2012ToppsTributeNFLBase,2012ToppsTributeNFL,Base,1
 2012ToppsTributeNFLClearCutAutographs,2012ToppsTributeNFL,Clear Cut Autographs,0
 2012ToppsTripleThreadsNFLBase,2012ToppsTripleThreadsNFL,Base,1
 2012ToppsTripleThreadsNFLRelics,2012ToppsTripleThreadsNFL,Relics,0
 2012ToppsTripleThreadsNFLRelicsAutographs,2012ToppsTripleThreadsNFL,Relics Autographs,0
 2012ToppsTripleThreadsNFLRelicsJumbo,2012ToppsTripleThreadsNFL,Relics Jumbo,0
-2013BowmanNFLBase,2013BowmanNFL,Base,1
 2013BowmanChromeNFLBase,2013BowmanChromeNFL,Base,1
+2013BowmanNFLBase,2013BowmanNFL,Base,1
 2013BowmanSterlingNFLBase,2013BowmanSterlingNFL,Base,1
-2013ToppsNFLBase,2013ToppsNFL,Base,1
-2013ToppsNFLBlackBorder,2013ToppsNFL,Black Border,0
-2013ToppsNFLFutureLegends,2013ToppsNFL,Future Legends,0
 2013ToppsArchivesNFL1000YardClub,2013ToppsArchivesNFL,1000 Yard Club,0
 2013ToppsArchivesNFLBase,2013ToppsArchivesNFL,Base,1
 2013ToppsArchivesNFLFanFavoriteAutographs,2013ToppsArchivesNFL,Fan Favorite Autographs,0
@@ -1759,15 +1772,25 @@
 2013ToppsArchivesNFLShiny,2013ToppsArchivesNFL,Shiny,0
 2013ToppsArchivesNFLShinyGold,2013ToppsArchivesNFL,Shiny Gold,0
 2013ToppsChromeNFLBase,2013ToppsChromeNFL,Base,1
+2013ToppsNFLBase,2013ToppsNFL,Base,1
+2013ToppsNFLBlackBorder,2013ToppsNFL,Black Border,0
+2013ToppsNFLFutureLegends,2013ToppsNFL,Future Legends,0
 2013ToppsPlatinumNFLBase,2013ToppsPlatinumNFL,Base,1
 2013ToppsPlatinumNFLOddShapes,2013ToppsPlatinumNFL,Odd Shapes,0
 2013ToppsPrimeNFLBase,2013ToppsPrimeNFL,Base,1
+2015ToppsNFLBlackBorders,2015ToppsNFL,Black Border,0
+2015ToppsStrataNFLClearCutAutographs,2015ToppsStrataNFL,Clear Cut Autographs,0
 2016Allen&GinterMLBBase,2016Allen&GinterMLB,Base,1
 2016Allen&GinterMLBCyanPrintingPlates,2016Allen&GinterMLB,Cyan Printing Plates,0
-2016ToppsChromeMLBBase,2016ToppsChromeMLB,Base,1
-2016ToppsTributeMLBBase,2016ToppsTributeMLB,Base,1
-2016ToppsTributeMLBCertifiedRelics,2016ToppsTributeMLB,Certified Relics,0
-2016ToppsTributeMLBStampofApproval,2016ToppsTributeMLB,Stamp of Approval,0
+2016PaniniCertifiedNFLImmortalsRed,2016PaniniCertifiedNFL,Immortals Red,0
+2016PaniniCertifiedNFLImmortalsWhite,2016PaniniCertifiedNFL,Immortals,0
+2016PaniniClassicsNFLCantonCollections,2016PaniniClassicsNFL,Canton Collections,0
+2016PaniniClassicsNFLLegends25,2016PaniniClassicsNFL,Legends,0
+2016PaniniClassicsNFLTimelessTributes,2016PaniniClassicsNFL,Timeless Tributes,0
+2016PaniniContendersNFLDraftPicks,2016PaniniContendersNFL,Draft Picks,0
+2016PlayoffNFLBase,2016PlayoffNFL,Base,1
+2016PlayoffNFLFirstDown,2016PlayoffNFL,First Down,0
+2016PlayoffNFLKickoff,2016PlayoffNFL,Kickoff,0
 2016PrismNFLAutographs,2016PrismNFL,Autographs,0
 2016PrismNFLBase,2016PrismNFL,Base,1
 2016PrismNFLBlue,2016PrismNFL,Blue,0
@@ -1776,12 +1799,26 @@
 2016PrismNFLPurple,2016PrismNFL,Purple,0
 2016PrismNFLRed,2016PrismNFL,Red,0
 2016PrismNFLSilver,2016PrismNFL,Silver,0
-2017ToppsMLBBase,2017ToppsMLB,Base,1
-2017ToppsMLBBlackPrintingPlates,2017ToppsMLB,Black Printing Plates,0
-2017ToppsMLBIndependenceDayTeamLogos,2017ToppsMLB,Independence Day Team Logos,0
+2016ToppsChromeMLBBase,2016ToppsChromeMLB,Base,1
+2016ToppsChromeMLBBase,2016ToppsChromeMLB,Base,1
+2016ToppsChromeMLBCertifiedAutographs,2016ToppsChromeMLB,Certified Autographs,0
+2016ToppsChromeMLBPerspectives,2016ToppsChromeMLB,Perspectives,0
+2016ToppsMLBAllStarGame,2016ToppsMLB,All-Star Game,0
+2016ToppsTributeMLBBase,2016ToppsTributeMLB,Base,1
+2016ToppsTributeMLBCertifiedRelics,2016ToppsTributeMLB,Certified Relics,0
+2016ToppsTributeMLBStampofApproval,2016ToppsTributeMLB,Stamp of Approval,0
 2017ClassicsNFLBase,2017ClassicsNFL,Base,1
 2017ClassicsNFLFlashbackFabrics,2017ClassicsNFL,Flashback Fabrics,0
 2017ClassicsNFLGold,2017ClassicsNFL,Gold,0
 2017ClassicsNFLOrange,2017ClassicsNFL,Orange,0
 2017ClassicsNFLWhite,2017ClassicsNFL,White,0
 2017ClassicsNFLWhite50,2017ClassicsNFL,White 50,0
+2017ToppsFinestMLBCertifiedAutographs,2017ToppsFinestMLB,Certified Autographs,0
+2017ToppsFinestMLBFinestAutographs,2017ToppsFinestMLB,Finest Autographs,0
+2017ToppsFinestMLBGreen,2017ToppsFinestMLB,Green,0
+2017ToppsFinestMLBOddShapes,2017ToppsFinestMLB,Odd Shapes,0
+2017ToppsMLB1987Style,2017ToppsMLB,1987 Style,0
+2017ToppsMLBBase,2017ToppsMLB,Base,1
+2017ToppsMLBBlackPrintingPlates,2017ToppsMLB,Black Printing Plates,0
+2017ToppsMLBIndependenceDayTeamLogos,2017ToppsMLB,Independence Day Team Logos,0
+2017ToppsMLBMaterialRelic,2017ToppsMLB,Material Relic,0

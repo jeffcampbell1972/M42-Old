@@ -15,7 +15,16 @@ namespace M42.Web.Inventory
             DisplayName = Container.Name;
             DetailsView = "~/Areas/Inventory/Views/Containers/_ContainerDetailsView.cshtml";
 
-            int maxPageSize = 100;
+            int numInventoryItems = Container.Contents.Count();
+            int maxItemSize = Container.Contents.Select(x => x.Name.Length).ToList().OrderByDescending(x => x).First();
+
+            int charPerLine = 250;
+            int itemsPerColumn = 22;
+
+            NumContentsPageColumns = charPerLine / maxItemSize;
+
+
+            int maxPageSize = NumContentsPageColumns * itemsPerColumn;
 
             int numPages = Container.NumInventory / maxPageSize;
             if (Container.NumInventory % maxPageSize > 0)
@@ -32,7 +41,7 @@ namespace M42.Web.Inventory
                 string pageLabel = string.Format("Page {0}", pageNumber);
                 string pageIdentifier = string.Format("Page{0}", pageNumber);
 
-                AddMenuItem(pageLabel, viewOption == pageIdentifier, "Containers", "Details", containerId, pageIdentifier, "SportsCards", "~/Areas/Inventory/Views/Containers/_ContainerContentsView.cshtml");
+                AddMenuItem(pageLabel, viewOption == pageIdentifier, "Containers", "Details", containerId, pageIdentifier, "Inventory", "~/Areas/Inventory/Views/Containers/_ContainerContentsView.cshtml");
             }
             var selectedMenuItem = Menu.MenuItems.SingleOrDefault(x => x.IsSelected);
 
@@ -58,5 +67,6 @@ namespace M42.Web.Inventory
         public Container Container { get; set; }
 
         public List<InventoryItem> ContentsPage { get; set; }
+        public int NumContentsPageColumns { get; set; }
     }
 }

@@ -16,11 +16,11 @@ namespace M42.Web.SportsCards
         {
             _searchService = searchService;
         }
-        public IActionResult Index()
+        public IActionResult Details()
         {
             var vm = new HomeViewModel(_searchService);
 
-            return View();
+            return View(vm);
         }
     }
 }

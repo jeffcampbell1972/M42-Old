@@ -18,11 +18,13 @@ namespace M42.SportsCards
         public CardSearch Get()
         {
             var cardSearch = new CardSearch
-            {
-                Years = _m42.Releases.Select(x => x.Year).Distinct().OrderBy(x => x).ToList()
+            { 
+                IsAutograph = false ,
+                IsRC = false ,
+                IsRelic = false
             };
 
-            return cardSearch;
+            return Get(cardSearch);
         }
         public CardSearch Get(CardSearch cardSearch)
         {
@@ -37,8 +39,27 @@ namespace M42.SportsCards
                      .Include(x => x.Set.Release.Brand)
                      .Include(x => x.Set.Release.League)
                      .Include(x => x.Set.Release.League.Sport)
-                     .Where(x => cardSearch.Year == null || x.Set.Release.Year == cardSearch.Year)
+                     .Include(x => x.CardPeople)
+                     .Where(x =>
+                        (cardSearch.Year == null || x.Set.Release.Year == cardSearch.Year) &&
+                        (cardSearch.SportId == null || x.Set.Release.League.SportId == cardSearch.SportId) &&
+                        (cardSearch.PersonId == null || x.CardPeople.SingleOrDefault(xx => xx.PersonId == cardSearch.PersonId ) != null ) &&
+                        (cardSearch.IsRC == false || x.IsRookieCard == true) &&
+                        (cardSearch.IsRelic == false || x.HasRelic == true) &&
+                        (cardSearch.IsAutograph == false || x.HasAutograph == true)
+                     )
                      .ToList();
+
+
+
+                var cardIds = cardsData.Select(x => x.Id).ToList();
+
+                var cardPeopleData = _m42.CardPeople
+                    .Include(x => x.Person)
+                    .Where(x => cardIds.Contains(x.CardId))
+                    .ToList();
+
+
 
                 var cards = cardsData.Select(x => new Card
                 {
@@ -62,40 +83,36 @@ namespace M42.SportsCards
                         }
                     },
                     Name = string.Format("{0} #{1}", x.Set.ToString(), x.CardNumber),
-                    People = x.CardPeople.Select(x => new Person { Id = x.Person.Id, Identifier = x.Person.Identifier, Name = x.Person.ToString() }).ToList()
+                    People = cardPeopleData.Where(y => y.CardId == x.Id).Select(x => new Person { Id = x.Person.Id, Identifier = x.Person.Identifier, Name = x.Person.ToString() }).ToList()
 
                 })
                 .ToList();
-
-                cardSearch.Years = cards.Select(x => x.Set.Release.Year).Distinct().OrderBy(x => x).ToList();
-                cardSearch.People = _m42.CardPeople
-                    .Where(x => cardSearch.Year == null || x.Card.Set.Release.Year == cardSearch.Year)
-                    .Select(x => x.Person)
-                    .Distinct()
-                    .OrderBy(x => x.LastName)
-                    .ThenBy(x => x.FirstName)
-                    .ToList()
-                    .Select(x => new Person { Id = x.Id, Name = x.ToString() })
-                    .ToList();
 
                 cardSearch.Cards = cards;
             }
             else
             {
-                cardSearch.Years = _m42.Releases.Select(x => x.Year).Distinct().OrderBy(x => x).ToList();
-                cardSearch.People = _m42.CardPeople
-                    .Select(x => x.Person)
-                    .Distinct()
-                    .OrderBy(x => x.LastName)
-                    .ThenBy(x => x.FirstName)
-                    .ToList()
-                    .Select(x => new Person { Id = x.Id, Name = x.ToString() })
-                    .ToList();
+                cardSearch.Cards = new List<Card>();
             }
-        
+
+            cardSearch.Years = _m42.Releases.Select(x => x.Year).Distinct().OrderBy(x => x).ToList();
+            cardSearch.Sports = _m42.Sports.Select(x => new Sport { Id = x.Id, Identifier = x.Name, Name = x.Name }).ToList();
+            cardSearch.People = _m42.CardPeople
+                .Select(x => x.Person)
+                .Distinct()
+                .OrderBy(x => x.LastName)
+                .ThenBy(x => x.FirstName)
+                .ToList()
+                .Select(x => new Person { Id = x.Id, Name = string.Format("{0}, {1}", x.LastName, x.FirstName) })
+                .ToList();
 
             return cardSearch;
         }
+        private bool HasPerson(List<M42.Data.Models.CardPerson> cardPeople, int? personId)
+        {
+            if (cardPeople.SingleOrDefault(x => x.PersonId == personId) == null) return false;
 
+            return true;
+        }
     }
 }

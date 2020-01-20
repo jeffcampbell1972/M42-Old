@@ -7,10 +7,10 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace M42.Web.SportsCards
 {
-    public class HomeViewModel
+    public class CardSearchViewModel
     {
 
-        public HomeViewModel(ISearchService<CardSearch> cardSearchService)
+        public CardSearchViewModel(ISearchService<CardSearch> cardSearchService)
         {
             CardSearch = cardSearchService.Get();
 
@@ -41,7 +41,7 @@ namespace M42.Web.SportsCards
                 .ToList();
             People.Insert(0, new SelectListItem { Value = "", Text = "[All People]", Selected = CardSearch.PersonId == null });
         }
-        public HomeViewModel(ISearchService<CardSearch> cardSearchService, CardSearch cardSearch)
+        public CardSearchViewModel(ISearchService<CardSearch> cardSearchService, CardSearch cardSearch)
         {
             CardSearch = cardSearchService.Get(cardSearch);
 

@@ -4,15 +4,17 @@ using System.Text;
 
 using M42.Sports;
 
-namespace M42.SportsCards
+namespace M42.Inventory
 {
-    public class CardSearch
+    public class InventorySearch
     {
         // Filter Data
         public List<int> Years { get; set; }
         public List<Person> People { get; set; }
         public List<Sport> Sports { get; set; }
         public List<Team> Teams { get; set; }
+        public List<Location> Locations { get; set; }
+        public List<Container> Containers { get; set; }
 
         // Filters
         public int? Year { get; set; }
@@ -24,9 +26,11 @@ namespace M42.SportsCards
 
 
         // Results
-        public int TotalCards { get; set; }
-        public int NumCards { get; set; }
-        public List<Card> Cards { get; set; }
+        public int TotalInventory { get; set; }
+        public int TotalLocations { get; set; }
+        public int TotalContainers { get; set; }
+        public int NumInventory { get; set; }
+        public List<InventoryItem> InventoryItems { get; set; }
 
         public bool HasFilter
         {

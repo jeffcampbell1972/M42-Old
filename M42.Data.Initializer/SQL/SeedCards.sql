@@ -21,13 +21,14 @@ update _ImportCards
 set CardType = 'Regular'
 where CardType is null or CardType = ''
 
-insert into SportsCards.Cards (SetId, Identifier, CardNumber, IsRookieCard,HasAutograph, HasRelic, CardTypeId, TeamId)
+insert into SportsCards.Cards (SetId, Identifier, CardNumber, IsRookieCard,HasAutograph, HasRelic, NumInstances, CardTypeId, TeamId)
 select s.Id as Set_Id ,
 	s.Identifier + '-' + convert(varchar(5),CardNumber) ,
 	c.CardNumber ,
 	c.RCFlag as IsRookieCard ,
 	c.AutoFlag as HasAutograph ,
 	c.RelicFlag as HasRelic ,
+	c.NumInstances as NumInstances ,
 	t.Id as CardTypeId  ,
 	team.Id as TeamId
 from _ImportCards c

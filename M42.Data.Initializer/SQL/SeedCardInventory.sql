@@ -7,7 +7,9 @@ create table dbo._ImportInventory
 	ContainerIdentifier varchar(max),
 	SerialNumber varchar(max),
 	GradingService varchar(max),
-	GradingServiceReferenceNo varchar(max)
+	GradingServiceReferenceNo varchar(max) ,
+	GradeNumber varchar(max) ,
+	Grade varchar(max)
 )
 --
 
@@ -17,11 +19,13 @@ with ( FIELDTERMINATOR = ',', ROWTERMINATOR = '\n' )
 
 update dbo._ImportInventory set ContainerIdentifier = 'NFL Commons' where ContainerIdentifier = null or ContainerIdentifier = ''
 
-insert into SportsCards.Inventories (CardId, SerialNumber, GradingService, GradingServiceReferenceNo, ContainerId, InStock)
+insert into SportsCards.Inventories (CardId, SerialNumber, GradingService, GradingServiceReferenceNo, GradeNumber, Grade, ContainerId, InStock)
 select c.Id ,
 	i.SerialNumber ,
 	i.GradingService ,
 	i.GradingServiceReferenceNo ,
+	i.GradeNumber, 
+	i.Grade ,
 	l.Id ,
 	1
 from SportsCards.Cards c

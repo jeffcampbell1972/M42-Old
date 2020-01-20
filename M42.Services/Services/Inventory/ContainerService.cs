@@ -137,8 +137,16 @@ namespace M42.Inventory
                 .Select(x => new InventoryItem
                 {
                     Id = x.Id,
-                    Name = string.Format("{0} {1} {2} #{3} {4}", x.Card.Set.Release.Year, x.Card.Set.Release.Brand.Name, x.Card.Set.Release.League.Abbreviation, x.Card.CardNumber, BuildCardPeople(cardPeopleData, x.CardId))
+                    Name = string.Format("{0} {1} {2} {3} #{4} {5} {6}", 
+                                x.Card.Set.Release.Year, 
+                                x.Card.Set.Release.Brand.Name, 
+                                x.Card.Set.Release.League.Abbreviation,
+                                x.Card.Set.Name != "Base" ? " - " + x.Card.Set.Name : "",
+                                x.Card.CardNumber, 
+                                BuildCardPeople(cardPeopleData, x.CardId) ,
+                                BuildCardAttributes(x))
                 })
+
                 .ToList();
 
             return inventoyItems;
@@ -163,6 +171,49 @@ namespace M42.Inventory
             }
 
             return name;
+        }
+        private string BuildCardAttributes(M42.Data.Models.Inventory inventory)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            if (inventory.Card.IsRookieCard == true)
+            {
+                sb.Append("RC"); 
+            }
+
+            if (inventory.Card.HasAutograph == true)
+            {
+                if (sb.Length > 0)
+                {
+                    sb.Append("/");
+                }
+                sb.Append("AUTO");
+            }
+
+            if (inventory.Card.HasRelic == true)
+            {
+                if (sb.Length > 0)
+                {
+                    sb.Append("/");
+                }
+                sb.Append("RELIC");
+            }
+            if (sb.Length > 0)
+            {
+                sb.Insert(0, "(");
+                sb.Append(")");
+            }
+
+            if (inventory.SerialNumber > 0 && inventory.Card.NumInstances > 0)
+            {
+                sb.Append(" - ");
+                sb.Append(inventory.SerialNumber.ToString());
+                sb.Append("/");
+                sb.Append(inventory.Card.NumInstances.ToString());
+            }
+
+
+            return sb.ToString();
         }
         #endregion
     }

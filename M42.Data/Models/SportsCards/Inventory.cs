@@ -13,6 +13,8 @@ namespace M42.Data.Models
         public int? SerialNumber { get; set; }
         public string GradingService { get; set; }
 	    public string GradingServiceReferenceNo { get; set; }
+        public string Grade { get; set; }
+        public string GradeNumber { get; set; }
         public int CardId { get; set; }
         public int ContainerId { get; set; }
         public bool InStock { get; set; }
