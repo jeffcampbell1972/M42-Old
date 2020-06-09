@@ -1,18 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
 
+
 using M42.Data;
-using M42.Data.Initializer;
 using M42.Sports;
 using M42.SportsCards;
 using M42.Inventory;
 using M42.Products;
 
-namespace M42
+namespace M42.API
 {
     public class Startup
     {
@@ -23,13 +30,12 @@ namespace M42
 
         public IConfiguration Configuration { get; }
 
+        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+            services.AddControllers();
 
             services.AddDbContext<M42Context>(options => options.UseSqlServer(Configuration.GetConnectionString("M42Database")));
-
-            services.AddScoped<IDatabaseService, DatabaseService>();
 
             services.AddScoped<IService<Sport>, SportService>();
             services.AddScoped<IService<HallOfFame>, HallOfFameService>();
@@ -50,23 +56,17 @@ namespace M42
             services.AddScoped<IService<Location>, LocationService>();
             services.AddScoped<IService<Container>, ContainerService>();
             services.AddScoped<IService<InventoryItem>, InventoryService>();
-
         }
 
+        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
-            else
-            {
-                app.UseExceptionHandler("/Home/Error");
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
-            }
+
             app.UseHttpsRedirection();
-            app.UseStaticFiles();
 
             app.UseRouting();
 
@@ -74,21 +74,7 @@ namespace M42
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute(
-                   name: "Sports",
-                   pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
-
-                endpoints.MapControllerRoute(
-                   name: "SportsCards",
-                   pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
-
-                endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
-
-                endpoints.MapControllerRoute(
-                   name: "default2",
-                   pattern: "{controller=Home}/{action=Index}/{identifier?}");
+                endpoints.MapControllers();
             });
         }
     }

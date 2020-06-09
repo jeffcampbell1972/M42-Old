@@ -865,8 +865,8 @@ namespace M42.Data.Initializer
             //DataService.AddContainer(context, "NFL-DolphinsBinder2", "Dolphins (1996-present)", ContainerType.Binder.Id, Location.SedonaHouse.Id);
             //DataService.AddContainer(context, "NFL-EaglesBinder1", "Eagles (1970-1995)", ContainerType.Binder.Id, Location.SedonaHouse.Id);
             //DataService.AddContainer(context, "NFL-EaglesBinder2", "Eagles (1996-present)", ContainerType.Binder.Id, Location.SedonaHouse.Id);
-            //DataService.AddContainer(context, "NFL-FalconsBinder1", "Falcons (1970-1995)", ContainerType.Binder.Id, Location.SedonaHouse.Id);
-            //DataService.AddContainer(context, "NFL-FalconsBinder2", "Falcons (1996-present)", ContainerType.Binder.Id, Location.SedonaHouse.Id);
+            DataService.AddContainer(context, "NFL-FalconsBinder1", "Falcons (1970-1995)", ContainerType.Binder.Id, Location.SedonaHouse.Id);
+            DataService.AddContainer(context, "NFL-FalconsBinder2", "Falcons (1996-present)", ContainerType.Binder.Id, Location.SedonaHouse.Id);
             //DataService.AddContainer(context, "NFL-GiantsBinder1", "Giants (1970-1995)", ContainerType.Binder.Id, Location.SedonaHouse.Id);
             //DataService.AddContainer(context, "NFL-GiantsBinder2", "Giants (1996-present)", ContainerType.Binder.Id, Location.SedonaHouse.Id);
             //DataService.AddContainer(context, "NFL-Jaguars", "Jaguars (1996-present)", ContainerType.Binder.Id, Location.SedonaHouse.Id);

@@ -1,0 +1,20 @@
+<h1 id="tableLabel">Sports</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+<p *ngIf="!sports"><em>Loading... {{url}}</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="sports">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let sport of sports">
+      <td>{{ sport.id }}</td>
+      <td>{{ sport.name }}</td>
+    </tr>
+  </tbody>
+</table>

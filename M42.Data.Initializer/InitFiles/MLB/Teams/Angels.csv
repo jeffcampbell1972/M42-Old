@@ -1,15 +1,59 @@
-MLB-Nationals,2005,Washington,Nationals,MLB,,NLEast,81,81,0,FrankRobinson,,
-MLB-Nationals,2006,Washington,Nationals,MLB,,NLEast,71,91,0,FrankRobinson,,
-MLB-Nationals,2007,Washington,Nationals,MLB,,NLEast,73,89,0,MannyActa,,
-MLB-Nationals,2008,Washington,Nationals,MLB,,NLEast,59,102,0,MannyActa,,
-MLB-Nationals,2009,Washington,Nationals,MLB,,NLEast,59,103,0,MannyActa,,
-MLB-Nationals,2010,Washington,Nationals,MLB,,NLEast,69,93,0,JimRiggleman,,
-MLB-Nationals,2011,Washington,Nationals,MLB,,NLEast,80,81,0,DaveyJohnson,,
-MLB-Nationals,2012,Washington,Nationals,MLB,,NLEast,98,64,0,DaveyJohnson,,
-MLB-Nationals,2013,Washington,Nationals,MLB,,NLEast,86,76,0,DaveyJohnson,,
-MLB-Nationals,2014,Washington,Nationals,MLB,,NLEast,96,66,0,MattWilliams,,
-MLB-Nationals,2015,Washington,Nationals,MLB,,NLEast,83,79,0,MattWilliams,,
-MLB-Nationals,2016,Washington,Nationals,MLB,,NLEast,95,67,0,DustyBaker,,
-MLB-Nationals,2017,Washington,Nationals,MLB,,NLEast,97,65,0,DustyBaker,,
-MLB-Nationals,2018,Washington,Nationals,MLB,,NLEast,82,80,0,DaveyMartinez,,
-MLB-Nationals,2019,Washington,Nationals,MLB,,NLEast,93,69,0,DaveyMartinez,,
+MLB-Angels,1961,Los Angeles,Angels,MLB,AL,,70,91,0,,GeneAutry
+MLB-Angels,1962,Los Angeles,Angels,MLB,AL,,86,76,0,,GeneAutry
+MLB-Angels,1963,Los Angeles,Angels,MLB,AL,,70,91,0,,GeneAutry
+MLB-Angels,1964,Los Angeles,Angels,MLB,AL,,82,80,0,,GeneAutry
+MLB-Angels,1965,California,Angels,MLB,AL,,75,87,0,,GeneAutry
+MLB-Angels,1966,California,Angels,MLB,AL,,80,82,0,,GeneAutry
+MLB-Angels,1967,California,Angels,MLB,AL,,84,77,0,,GeneAutry
+MLB-Angels,1968,California,Angels,MLB,AL,,67,95,0,,GeneAutry
+MLB-Angels,1969,California,Angels,MLB,,ALWest,71,91,0,,GeneAutry
+MLB-Angels,1970,California,Angels,MLB,,ALWest,86,76,0,,GeneAutry
+MLB-Angels,1971,California,Angels,MLB,,ALWest,76,86,0,,GeneAutry
+MLB-Angels,1972,California,Angels,MLB,,ALWest,75,80,0,,GeneAutry
+MLB-Angels,1973,California,Angels,MLB,,ALWest,79,83,0,,GeneAutry
+MLB-Angels,1974,California,Angels,MLB,,ALWest,68,94,0,,GeneAutry
+MLB-Angels,1975,California,Angels,MLB,,ALWest,72,89,0,,GeneAutry
+MLB-Angels,1976,California,Angels,MLB,,ALWest,76,86,0,,GeneAutry
+MLB-Angels,1977,California,Angels,MLB,,ALWest,74,88,0,,GeneAutry
+MLB-Angels,1978,California,Angels,MLB,,ALWest,87,75,0,,GeneAutry
+MLB-Angels,1979,California,Angels,MLB,,ALWest,88,74,0,,GeneAutry
+MLB-Angels,1980,California,Angels,MLB,,ALWest,65,95,0,,GeneAutry
+MLB-Angels,1981,California,Angels,MLB,,ALWest,31,29,0,,GeneAutry
+MLB-Angels,1982,California,Angels,MLB,,ALWest,93,69,0,,GeneAutry
+MLB-Angels,1983,California,Angels,MLB,,ALWest,70,92,0,,GeneAutry
+MLB-Angels,1984,California,Angels,MLB,,ALWest,81,81,0,,GeneAutry
+MLB-Angels,1985,California,Angels,MLB,,ALWest,90,72,0,,GeneAutry
+MLB-Angels,1986,California,Angels,MLB,,ALWest,92,70,0,,GeneAutry
+MLB-Angels,1987,California,Angels,MLB,,ALWest,75,87,0,,GeneAutry
+MLB-Angels,1988,California,Angels,MLB,,ALWest,75,87,0,,GeneAutry
+MLB-Angels,1989,California,Angels,MLB,,ALWest,91,71,0,,GeneAutry
+MLB-Angels,1990,California,Angels,MLB,,ALWest,80,82,0,,GeneAutry
+MLB-Angels,1991,California,Angels,MLB,,ALWest,81,81,0,,GeneAutry
+MLB-Angels,1992,California,Angels,MLB,,ALWest,72,90,0,,GeneAutry
+MLB-Angels,1993,California,Angels,MLB,,ALWest,71,91,0,,GeneAutry
+MLB-Angels,1994,California,Angels,MLB,,ALWest,47,68,0,,GeneAutry
+MLB-Angels,1995,California,Angels,MLB,,ALWest,78,67,0,,GeneAutry
+MLB-Angels,1996,California,Angels,MLB,,ALWest,70,91,0,,GeneAutry
+MLB-Angels,1997,Anaheim,Angels,MLB,,ALWest,84,78,0,,GeneAutry
+MLB-Angels,1998,Anaheim,Angels,MLB,,ALWest,85,77,0,,
+MLB-Angels,1999,Anaheim,Angels,MLB,,ALWest,70,92,0,,
+MLB-Angels,2000,Anaheim,Angels,MLB,,ALWest,82,80,0,MikeScioscia,
+MLB-Angels,2001,Anaheim,Angels,MLB,,ALWest,75,87,0,MikeScioscia,
+MLB-Angels,2002,Anaheim,Angels,MLB,,ALWest,99,63,0,MikeScioscia,
+MLB-Angels,2003,Anaheim,Angels,MLB,,ALWest,77,85,0,MikeScioscia,
+MLB-Angels,2004,Anaheim,Angels,MLB,,ALWest,92,70,0,MikeScioscia,
+MLB-Angels,2005,Los Angeles,Angels,MLB,,ALWest,95,67,0,MikeScioscia,
+MLB-Angels,2006,Los Angeles,Angels,MLB,,ALWest,89,73,0,MikeScioscia,
+MLB-Angels,2007,Los Angeles,Angels,MLB,,ALWest,94,68,0,MikeScioscia,
+MLB-Angels,2008,Los Angeles,Angels,MLB,,ALWest,100,62,0,MikeScioscia,
+MLB-Angels,2009,Los Angeles,Angels,MLB,,ALWest,97,65,0,MikeScioscia,
+MLB-Angels,2010,Los Angeles,Angels,MLB,,ALWest,80,82,0,MikeScioscia,
+MLB-Angels,2011,Los Angeles,Angels,MLB,,ALWest,86,76,0,MikeScioscia,
+MLB-Angels,2012,Los Angeles,Angels,MLB,,ALWest,89,73,0,MikeScioscia,
+MLB-Angels,2013,Los Angeles,Angels,MLB,,ALWest,78,84,0,MikeScioscia,
+MLB-Angels,2014,Los Angeles,Angels,MLB,,ALWest,98,64,0,MikeScioscia,
+MLB-Angels,2015,Los Angeles,Angels,MLB,,ALWest,85,77,0,MikeScioscia,
+MLB-Angels,2016,Los Angeles,Angels,MLB,,ALWest,74,88,0,MikeScioscia,
+MLB-Angels,2017,Los Angeles,Angels,MLB,,ALWest,80,82,0,MikeScioscia,
+MLB-Angels,2018,Los Angeles,Angels,MLB,,ALWest,80,82,0,BradAusmus,
+MLB-Angels,2019,Los Angeles,Angels,MLB,,ALWest,72,90,0,JoeMadden,
